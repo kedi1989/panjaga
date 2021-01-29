@@ -5,7 +5,7 @@
             data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAICAYAAADA+m62AAAAPklEQVQoU2NkQAPPnj0zlpKSOosuzogsAFOETTFcIbokOh+sEJd1yOKMuBTBnASTR3EjugeQFROlEKSBaIUAjLQm7mEQuUkAAAAASUVORK5CYII=
     ) repeat;
 
-    font-family: 'Open Sans', sans-serif;
+        font-family: 'Open Sans', sans-serif;
     }
 
     a{
@@ -17,13 +17,16 @@
         padding-bottom: 20px;
     }
 
+    strong {
+        font-weight: 700;
+    }
+
     .content-container {
         width: calc(80% - 180px);
         min-width: 1180px;
         margin: auto auto;
         position: relative;
         max-width: 2000px;
-        height: 100%;
     }
 
     header {
@@ -78,10 +81,15 @@
             .top-nav,.bottom-nav {
                 height: 50%;
             }
-            .test {
+            .contacts-box {
                 position: relative;
                 top: 50%;
                 transform: translateY(-50%);
+                font-size: 18px;
+                font-weight: 700;
+                font-family: 'Quicksand', sans-serif;
+                font-style: italic;
+                padding-left: 25px;
             }
             
         }
@@ -130,13 +138,21 @@
 
     }
 
-    .big-header {
+    .big-header,.medium-header {
         font-size: 28px;
         padding: 20px;
         font-weight: 700;
-        margin: 25px auto 15px auto;
+        margin: 35px auto 35px auto;
         text-align: center;
         font-family: 'Quicksand', sans-serif;
+
+        &.big-header {
+            font-size: 28px;
+        }
+
+        &.medium-header {
+            font-size: 22px;
+        }
     }
 
     .header-gap {
@@ -181,32 +197,215 @@
         }
     }
 
+    .area-service-container {
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        margin: 20px 0;
+
+        p{
+            font-family: 'Quicksand', sans-serif;
+            font-size: 24px;
+            font-weight: 500;
+        }
+
+        ul {
+            li {
+                padding: 0 0 25px 10px;
+                font-size: 22px;
+
+            }
+        }
+
+        .cities-box {
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
+        .area-service-image {
+            text-align: center;
+            img {
+                width: 60%;
+            }
+        }
+    }
+
+    .left-side-content {
+        width: 50%;
+    }
+    .right-side-content {
+        width: 50%;
+    }
+
 
     // MAIN SLIDER START
 
-    .background-slider {
-        height: 600px !important;
+    .projects-slide {
+        max-height: 300px;
+        margin: 0 10px 0 10px;
+    
+        img {
+            width: 100%;
+            height: auto;
+        }
     }
 
-    .background-image-1 {
-        background-image: url('../images/sliderImages/background-slider-1.jpg');
+    .projects-image-1 {
+        background: url('/images/mainSliderImages/3.jpg');
         background-size: cover;
         background-position: 50% 50%;
     }
 
-    .background-image-2 {
-        background-image: url('../images/sliderImages/background-slider-2.jpg');
+    .projects-image-2 {
+        background: url('/images/mainSliderImages/4.jpg');
         background-size: cover;
         background-position: 50% 50%;
     }
 
-    .background-image-3 {
-        background-image: url('../images/sliderImages/background-slider-3.jpg');
+    .projects-image-3 {
+        background: url('/images/mainSliderImages/5.jpg');
+        background-size: cover;
+        background-position: 50% 50%;
+    }
+
+    .projects-image-4 {
+        background: url('/images/mainSliderImages/6.jpg');
+        background-size: cover;
+        background-position: 50% 50%;
+    }
+
+    .projects-image-5 {
+        background: url('/images/mainSliderImages/7.jpg');
+        background-size: cover;
+        background-position: 50% 50%;
+    }
+
+    .projects-image-6 {
+        background: url('/images/mainSliderImages/8.jpg');
         background-size: cover;
         background-position: 50% 50%;
     }
 
     // MAIN SLIDER END
+
+
+    footer {
+        margin: 30px 0 0 0;
+        text-align: center;
+        height: 80px;
+        border-top: 1px solid black;
+
+        p{
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+            padding: 0;
+        }
+    }
+
+    .service-contact-container {
+        width: 100%;
+        height: 300px;
+        background: url('/images/commercial_1.jpg');
+        background-size: cover;
+        background-position: -200px 20%;
+        position: relative;
+
+        &:after {
+            content: "";
+            width: 100%;
+            height: 100%;
+            background-color: rgb(0 0 0 / 70%);
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        .service-contact-box {
+            display: flex;
+            justify-content: center;
+            flex-direction: row;
+            padding: 20px;
+
+            h2 {
+                font-size: 32px;
+                padding: 20px;
+                font-weight: 700;
+                font-family: 'Quicksand', sans-serif;
+                color: #fff;
+                position: relative;
+                z-index: 9;
+            }
+
+            p {
+                padding: 20px;
+                color: #fff;
+                position: relative;
+                z-index: 9;
+                font-size: 22px;
+                line-height: 28px;
+            }
+
+            a{
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                cursor: pointer;
+                top: 0;
+                left: 0;
+            }
+
+            .fb-btn {
+                height: 70px;
+                width: 70px;
+                background: url(/images/FB-logo.png);
+                background-size: cover;
+                position: relative;
+                z-index: 9;
+                margin: auto auto;
+            }
+
+            .order-btn {
+                font-size: 18px;
+                padding: 20px;
+                font-weight: 700;
+                font-family: 'Quicksand', sans-serif;
+                color: #fff;
+                position: relative;
+                z-index: 9;      
+                border: 1px solid #fff;
+                border-radius: 5%;
+                width: 100px;
+                margin: auto auto;
+                top: 50%;
+                transform: translateY(-50%);
+        }
+
+
+        }
+
+    }
+
+    .contact-container {
+        .contact-box {
+            font-size: 22px;
+            font-weight: 700;
+            text-align: center;
+            padding: 80px 0 80px 0;
+        }
+    }
+
+    .gallery-container {
+        text-align: center;
+        img {
+            display: inline-block;
+            height: 200px;
+            margin: 20px;
+            border: 1px solid #fbb26b;
+        }
+    }
 
 
 

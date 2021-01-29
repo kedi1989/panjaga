@@ -16,3 +16,11 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('layouts/master');
 });
+
+Route::get('/kontakt', function () {
+    return view('contact');
+});
+
+Route::get('/galeria', function () {
+    return view('gallery');
+});
