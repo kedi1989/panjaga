@@ -22,6 +22,8 @@
 
         @include('includes.mainpage.areaService')
 
+        @include('includes.mainpage.howWeWork')
+
         @include('includes.components.serviceContact')
 
         @include('includes.mainpage.ourProjects')
@@ -38,6 +40,19 @@
                 centerMode: false,
                 focusOnSelect: true,
                 autoplay: true,
+                autoplaySpeed: 2000,
+                });
+        </script>
+
+<script>
+            $('.howwework-service-container').slick({
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                arrows: true,
+                dots: false,
+                centerMode: false,
+                focusOnSelect: true,
+                autoplay: false,
                 autoplaySpeed: 2000,
                 });
         </script>

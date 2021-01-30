@@ -232,31 +232,55 @@ header {
   line-height: 25px;
 }
 
-.area-service-container {
+.area-service-container, .howwework-service-container {
   display: flex;
   justify-content: center;
   flex-direction: row;
   margin: 20px 0;
 }
-.area-service-container p {
+.area-service-container p, .howwework-service-container p {
   font-family: "Quicksand", sans-serif;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 500;
 }
-.area-service-container ul li {
-  padding: 0 0 25px 10px;
-  font-size: 22px;
+.area-service-container ul li, .howwework-service-container ul li {
+  padding: 0 0 25px 20px;
+  font-size: 18px;
+  line-height: 20px;
 }
-.area-service-container .cities-box {
+.area-service-container .cities-box, .howwework-service-container .cities-box {
   position: relative;
   top: 50%;
   transform: translateY(-50%);
 }
-.area-service-container .area-service-image {
+.area-service-container .area-service-image, .howwework-service-container .area-service-image {
   text-align: center;
 }
-.area-service-container .area-service-image img {
+.area-service-container .area-service-image img, .howwework-service-container .area-service-image img {
   width: 60%;
+}
+.area-service-container .howwework-service-video-box, .howwework-service-container .howwework-service-video-box {
+  text-align: center;
+}
+.area-service-container .howwework-service-video-box iframe, .howwework-service-container .howwework-service-video-box iframe {
+  border: 2px solid #fbb26b;
+  border-radius: 10px;
+}
+.area-service-container .howwework-service-box, .howwework-service-container .howwework-service-box {
+  display: flex !important;
+  justify-content: center;
+  flex-direction: row;
+  outline: none;
+  height: auto;
+}
+.area-service-container .slick-prev, .area-service-container .slick-next, .howwework-service-container .slick-prev, .howwework-service-container .slick-next {
+  width: 60px;
+  height: 60px;
+  z-index: 99;
+}
+.area-service-container .slick-prev:before, .area-service-container .slick-next:before, .howwework-service-container .slick-prev:before, .howwework-service-container .slick-next:before {
+  color: #fbb26b;
+  font-size: 60px;
 }
 
 .left-side-content {
@@ -414,6 +438,11 @@ footer p {
   height: 200px;
   margin: 20px;
   border: 1px solid #fbb26b;
+}
+
+.our-projects-container .projects-slide {
+  border: 2px solid #fbb26b;
+  border-radius: 10px;
 }
 
 @media (max-width: 1220px) and (min-width: 767px) {
