@@ -26,6 +26,8 @@
 
         @include('includes.components.serviceContact')
 
+        @include('includes.mainpage.blogArticles')
+
         @include('includes.mainpage.ourProjects')
 
         </div>

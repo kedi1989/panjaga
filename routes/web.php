@@ -24,3 +24,15 @@ Route::get('/kontakt', function () {
 Route::get('/galeria', function () {
     return view('gallery');
 });
+
+Route::get('/cennik', function () {
+    return view('prices');
+});
+
+Route::get('/najczesciej-zadawane-pytania', function () {
+    return view('faq');
+});
+
+Route::get('/pranie-wykladziny-odkurzaczem-pioracym', function () {
+    return view('articles/singlearticle');
+});

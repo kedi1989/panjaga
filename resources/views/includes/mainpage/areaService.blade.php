@@ -4,7 +4,7 @@
         
             <div class="left-side-content">
                 <div class="area-service-image">
-                    <img src="{{ URL::asset('images/pngwing.com.png') }}" />
+                    <img loading="lazy" src="{{ URL::asset('images/pngwing.com.png') }}" />
                 </div>
             </div>
             <div class="right-side-content">

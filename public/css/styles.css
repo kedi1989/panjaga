@@ -163,14 +163,13 @@ header {
   visibility: inherit;
   transition: none 0s ease 0s;
   text-align: inherit;
-  line-height: 20px;
+  line-height: 35px;
   border-width: 0px;
   margin: 0px;
   padding: 0px;
   letter-spacing: 0px;
   font-weight: 400;
   font-size: 12px;
-  white-space: nowrap;
   margin: 0px auto 15px auto;
 }
 .main-banner-title h1 {
@@ -212,16 +211,19 @@ header {
   display: flex;
   justify-content: center;
   margin: 20px auto;
+  width: calc(100% - 20px);
 }
 .service-container .service-box {
-  width: 300px;
+  width: 25%;
   margin: 0 15px 0 15px;
 }
 .service-container .service-box .service-image-wrapper {
-  width: 300px;
+  width: 100%;
   height: 180x;
   border-radius: 10px;
   overflow: hidden;
+  max-width: 300px;
+  margin: auto;
 }
 .service-container .service-box .service-title h3 {
   text-align: center;
@@ -443,6 +445,204 @@ footer p {
 .our-projects-container .projects-slide {
   border: 2px solid #fbb26b;
   border-radius: 10px;
+}
+
+.prices-container .price-table {
+  width: 80%;
+  margin: 20px auto;
+}
+.prices-container .price-table tr {
+  transition: all 0.5s;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+}
+.prices-container .price-table td {
+  padding: 2px 0;
+}
+.prices-container .price-table th {
+  text-align: center;
+  font-size: 22px;
+  color: #000;
+  line-height: 20px;
+  font-weight: normal;
+  padding: 0px 0px 10px 0px;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+}
+.prices-container .price-table h3 {
+  margin: 25px 0 15px 0;
+}
+.prices-container .price-table .service-name {
+  width: 75%;
+  text-align: left;
+  font-family: "Quicksand", sans-serif;
+  font-size: 16px;
+  color: #000;
+  line-height: 18px;
+  font-weight: normal;
+  font-weight: 500;
+}
+.prices-container .price-table .service-price {
+  width: 25%;
+  text-align: right;
+  font-family: "Quicksand", sans-serif;
+  font-size: 16px;
+  color: #000;
+  line-height: 18px;
+  font-weight: normal;
+  font-weight: 500;
+  vertical-align: middle;
+}
+.prices-container .price-table .sub-info {
+  display: block;
+  font-family: "Quicksand", sans-serif;
+  font-size: 12px;
+  font-style: italic;
+}
+
+.no-border {
+  border-bottom: none !important;
+}
+
+.faq-container .accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 1s;
+  position: relative;
+}
+.faq-container .accordion:before {
+  content: "+";
+  font-family: lato-normal;
+  font-size: 19px;
+  color: #683d67;
+  line-height: 30px;
+  font-weight: normal;
+  position: absolute;
+  top: 12px;
+  right: 19px;
+}
+.faq-container .accordion.active:before {
+  content: "-";
+  top: 10px;
+  right: 19px;
+}
+.faq-container .active, .faq-container .accordion:hover {
+  background-color: #ccc;
+}
+.faq-container .panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+  transition: 3s;
+}
+
+.blog-articles-list-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
+}
+.blog-articles-list-container article {
+  border-radius: 10px;
+  border: 1px solid #ffffff;
+  width: 30%;
+  box-shadow: 0px 14px 41px -34px #457b9d;
+}
+.blog-articles-list-container article .blog-image-wrapper {
+  width: 100%;
+  height: 180x;
+  border-radius: 10px 10px 0 0;
+  overflow: hidden;
+  margin: auto;
+}
+.blog-articles-list-container article .post-title h3 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 22px;
+  color: #000;
+  font-weight: 700;
+  margin: 10px 0;
+  padding: 0 10px;
+}
+.blog-articles-list-container article .post-publised-date {
+  font-family: "Quicksand", sans-serif;
+  font-size: 13px;
+  color: #353535;
+  font-weight: 500;
+  font-style: italic;
+  padding: 0 10px;
+}
+.blog-articles-list-container article .post-content {
+  font-size: 16px;
+  color: #000;
+  font-weight: 500;
+  margin: 10px 0;
+  line-height: 27px;
+  padding: 0 10px;
+}
+.blog-articles-list-container article img {
+  width: 100%;
+}
+
+.blog-article-container {
+  padding-top: 40px;
+  display: flex;
+}
+.blog-article-container .article-box {
+  width: 75%;
+  padding: 0 30px 0 0;
+}
+.blog-article-container .newest-articles-box {
+  width: 25%;
+  padding: 0 0 0 20px;
+}
+.blog-article-container .newest-articles-box h4 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+.blog-article-container .newest-articles-box ul li {
+  margin: 20px 0;
+  line-height: 25px;
+  font-size: 18px;
+}
+.blog-article-container .newest-articles-box ul li a {
+  color: #000;
+  font-family: "Quicksand", sans-serif;
+}
+.blog-article-container .article-image {
+  width: 100%;
+  margin: 0 0 30px 0;
+}
+.blog-article-container .article-image img {
+  width: 100%;
+}
+.blog-article-container h1 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 34px;
+}
+.blog-article-container h2 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 26px;
+  padding: 20px 0 5px 0;
+}
+.blog-article-container .post-published-date {
+  font-family: "Quicksand", sans-serif;
+  font-size: 16px;
+  font-style: italic;
+  padding: 15px 0;
+}
+.blog-article-container p {
+  padding: 10px 0;
 }
 
 @media (max-width: 1220px) and (min-width: 767px) {
