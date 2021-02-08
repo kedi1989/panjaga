@@ -33,6 +33,6 @@ Route::get('/najczesciej-zadawane-pytania', function () {
     return view('faq');
 });
 
-Route::get('/pranie-wykladziny-odkurzaczem-pioracym', function () {
-    return view('articles/singlearticle');
-});
+// Route::get('/pranie-wykladziny-odkurzaczem-pioracym', function () {
+//     return view('articles/singlearticle');
+// });

@@ -36,7 +36,7 @@
             <div class="right-side-content">
                 <div class="howwework-text-box">
                     <h3 class="medium-header">Pranie tapicerki meblowej</h3>
-                    <p>Czas na <strong>pranie tapicerki</strong> ?</p>
+                    <p>Czas na <strong>pranie tapicerki</strong> ? <strong>Pranie foteli</strong> ? <strong>Pranie kanapy</strong>?</p>
                     <p>Korzyści z regularnego <strong>prania tapicerki</strong> to:</p>
                     <ul>
                         <li>- usunięcie roztoczy, bakterii, grzybów i pyłów</li>
@@ -61,12 +61,12 @@
                     <h3 class="medium-header">Co w tapicerce piszczy ?</h3>
                     <p>Odważ się i sprawdź co jest w twoim narożniku, tapczanie, materacu czy samochodzie...</p>
                     <p>Woda zawsze wygląda tak samo...</p>
+                    <p><strong>Pranie mebli</strong>, <strong>Pranie foteli samochodowych</strong>, <strong>Pranie dywanów i wykładzin</strong> powinno być powtarzane raz do roku ponieważ znajdują się w nich:</p>
                     <ul>
                         <li>- brud</li>
                         <li>- roztocza kurzu</li>
                         <li>- bakterie, wirusy i grzyby</li>
-                        <li>- skumulowany przez lata zapach z otoczenia</li>
-                        <li>- i inne stworzenia...</li>
+                        <li>- skumulowany przez lata niemiły zapach z otoczenia</li>
                     </ul>
                 </div>
             </div>

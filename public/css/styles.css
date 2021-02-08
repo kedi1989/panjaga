@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -130,14 +131,41 @@ header {
   height: 50%;
 }
 .menu .menu-nav-box .contacts-box {
+  padding-left: 25px;
+  display: flex;
+  justify-content: space-around;
+  position: relative;
+  height: 100%;
+}
+.menu .menu-nav-box .contacts-box .fb-btn {
+  height: 50px;
+  width: 50px;
+  background: url(/images/FB-logo.png);
+  background-size: cover;
+  z-index: 9;
   position: relative;
   top: 50%;
   transform: translateY(-50%);
-  font-size: 18px;
+}
+.menu .menu-nav-box .contacts-box .fb-btn a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+.menu .menu-nav-box .contacts-box .phone-contact {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 20px;
   font-weight: 700;
   font-family: "Quicksand", sans-serif;
   font-style: italic;
-  padding-left: 25px;
+  height: 20px;
+}
+.menu .menu-nav-box .contacts-box .phone-contact i {
+  margin: 0 10px 0 0;
 }
 
 .main-banner {
@@ -503,44 +531,49 @@ footer p {
   border-bottom: none !important;
 }
 
-.faq-container .accordion {
-  background-color: #eee;
-  color: #444;
+.faq-container {
+  /* Style the button that is used to open and close the collapsible content */
+}
+.faq-container .collapsible {
+  color: #000;
   cursor: pointer;
   padding: 18px;
   width: 100%;
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
-  transition: 1s;
+  font-size: 22px;
+  font-family: "Quicksand", sans-serif;
+  border-bottom: 1px solid #000;
   position: relative;
 }
-.faq-container .accordion:before {
+.faq-container .collapsible:after {
   content: "+";
-  font-family: lato-normal;
-  font-size: 19px;
-  color: #683d67;
-  line-height: 30px;
-  font-weight: normal;
+  color: #000;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
   position: absolute;
-  top: 12px;
-  right: 19px;
+  right: 0;
+  bottom: 20px;
 }
-.faq-container .accordion.active:before {
-  content: "-";
-  top: 10px;
-  right: 19px;
+.faq-container .active:after {
+  content: "−";
+  position: absolute;
+  right: 0;
+  bottom: 20px;
 }
-.faq-container .active, .faq-container .accordion:hover {
-  background-color: #ccc;
-}
-.faq-container .panel {
+.faq-container .content {
+  width: 100%;
   padding: 0 18px;
-  display: none;
-  background-color: white;
+  max-height: 0;
   overflow: hidden;
-  transition: 3s;
+  transition: max-height 0.2s ease-out;
+  background-color: #fbb26b;
+  font-size: 14px;
+}
+.faq-container p {
+  padding: 10px 0;
 }
 
 .blog-articles-list-container {
@@ -643,6 +676,22 @@ footer p {
 }
 .blog-article-container p {
   padding: 10px 0;
+}
+
+.chem-logos-container {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 40px;
+}
+.chem-logos-container .chem-logo-box {
+  width: 22%;
+  position: relative;
+}
+.chem-logos-container .chem-logo-box img {
+  width: 100%;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 @media (max-width: 1220px) and (min-width: 767px) {

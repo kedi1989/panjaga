@@ -2,12 +2,17 @@
     <div class="content-container">
         <div class="menu">
             <div class="logo">
-                <img src="{{ URL::asset('images/logo/logo.png') }}" />
+                <a href="/">
+                    <img src="{{ URL::asset('images/logo/logo.png') }}" />
+                </a>
             </div>
             <div class="menu-nav-box">
                 <div class="top-nav">
                     <div class="contacts-box">
-                    ZADZWOŃ DO NAS: 790-462-146
+                        
+                            <span class="facebook-contact fb-btn"><a href="https://www.facebook.com/PANJAGAKARCHER"></a></span>
+                        
+                        <div class="phone-contact"><i class="fas fa-mobile-alt"></i>Zadzwoń: 790-462-146</div>
                     </div>
                 </div>
                 <div class="bottom-nav">

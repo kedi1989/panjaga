@@ -7,7 +7,7 @@
         <div class="main-banner">
             <div class="main-banner-title">
                 <div class="title-box">
-                    <h1>Firma sprzątająca Kościan, Leszno, Śrem, Poznań - PanJaga.pl</h1>
+                    <h1>Firma czyszcząca - Kościan, Leszno, Śrem, Poznań - PanJaga.pl</h1>
                 </div>
             </div>
         </div>
@@ -24,9 +24,11 @@
 
         @include('includes.mainpage.howWeWork')
 
+        @include('includes.mainpage.chemicalBanner')
+
         @include('includes.components.serviceContact')
 
-        @include('includes.mainpage.blogArticles')
+        <!-- @include('includes.mainpage.blogArticles') -->
 
         @include('includes.mainpage.ourProjects')
 

@@ -12,6 +12,7 @@
         </script>
     @endif
 
+    <link href="{{ URL::asset('fontawesome/css/all.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="{{ URL::asset('css/styles.css') }}" type="text/css"> 
     <script type="text/javascript" src="{{ URL::asset('js/jquery.min.js') }}"></script>
     <link rel="stylesheet" href="{{ URL::asset('libs/slick/slick.css') }}" type="text/css"> 
