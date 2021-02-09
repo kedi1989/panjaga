@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('layouts/master');
+    return view('mainpage');
 });
 
 Route::get('/kontakt', function () {
@@ -27,6 +27,10 @@ Route::get('/galeria', function () {
 
 Route::get('/cennik', function () {
     return view('prices');
+});
+
+Route::get('/o-nas', function () {
+    return view('aboutus');
 });
 
 Route::get('/najczesciej-zadawane-pytania', function () {

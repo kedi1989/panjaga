@@ -1,9 +1,9 @@
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-        @include('includes.head')
-    <body>
-        <div class="main-page-container">
-        @include('includes.header')
-        <div class="main-container">
+@extends('layouts.master')
+        @section('title', 'PanJaga.pl - Kontakt z nami')
+        @section('description', 'Skontaktuj się z nami i wypierz swoją tapicerkę meblową lub samochodową ! Skutecznie i tanio !')
+        @section('keywords', 'Kontakt pranie tapicerki, pranie tapicerek, czyszczenie tapicerek,')
+
+@section('content')
         
         <div class="content-container">
             <h2 class="big-header"><span class="header-gap"></span>KONTAKT</h2>
@@ -19,6 +19,5 @@
 
         </div>
         </div>
-            @include('includes.footer')
-    </body>
-</html>
+
+@stop

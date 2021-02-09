@@ -15,11 +15,11 @@
                     <p>Nic bardziej mylnego  :)</p>
                     <p>Korzyści z regularnego <strong>prania tapicerki samochodu</strong> to:</p>
                     <ul>
-                        <li>- usunięcie roztoczy, bakterii, grzybów i pyłów</li>
-                        <li>- świeży, odnowiony wygląd tapicerki</li>
-                        <li>- niwelacja źródeł niechcianych zapachów takich jak wchłonięty dym papierosowy, resztki jedzenia czy też wylanej kawy z mlekiem</li>
-                        <li>- przyjemność z jazdy w czystym odnowionym wnętrzu</li>
-                        <li>- większa wartość samochodu w przypadku sprzedaży</li>
+                        <li>- <strong>usunięcie roztoczy</strong>, <strong>bakterii</strong>, <strong>grzybów</strong> i <strong>pyłów</strong></li>
+                        <li>- <strong>świeży</strong>, <strong>odnowiony wygląd tapicerki</strong></li>
+                        <li>- niwelacja źródeł <strong>niechcianych zapachów</strong> takich jak wchłonięty <strong>dym papierosowy</strong>, resztki jedzenia czy też wylanej kawy z mlekiem</li>
+                        <li>- przyjemność z jazdy w <strong>czystym odnowionym wnętrzu</strong></li>
+                        <li>- <strong>większa wartość samochodu</strong> w przypadku sprzedaży</li>
                     </ul>
                     
                 </div>
@@ -39,10 +39,10 @@
                     <p>Czas na <strong>pranie tapicerki</strong> ? <strong>Pranie foteli</strong> ? <strong>Pranie kanapy</strong>?</p>
                     <p>Korzyści z regularnego <strong>prania tapicerki</strong> to:</p>
                     <ul>
-                        <li>- usunięcie roztoczy, bakterii, grzybów i pyłów</li>
-                        <li>- świeży, odnowiony wygląd mebli oraz odnowienie koloru</li>
-                        <li>- niwelacja źródeł niechcianych zapachów w pokoju takich jak wchłonięty dym papierosowy, resztki jedzenia czy też wylanej kawy z mlekiem</li>
-                        <li>- zdrowy sen i lepsze samopoczucie</li>
+                        <li>- <strong>usunięcie roztoczy</strong>, <strong>bakterii</strong>, <strong>grzybów</strong> i <strong>pyłów</strong></li>
+                        <li>- świeży, <strong>odnowiony wygląd mebli</strong> oraz <strong>odnowienie koloru</strong></li>
+                        <li>- <strong>niwelacja źródeł niechcianych zapachów</strong> w pokoju takich jak <strong>wchłonięty dym papierosowy</strong>, resztki jedzenia czy też wylanej kawy z mlekiem</li>
+                        <li>- <strong>zdrowy sen</strong> i <strong>lepsze samopoczucie</strong></li>
                         <li>- świetny prezent dla żony :)</li>
                     </ul>
                     <p>Czas schnięcia to zazwyczaj 12-24h również zimą - w zależności od materiału</p>
@@ -59,14 +59,14 @@
             <div class="right-side-content">
                 <div class="howwework-text-box">
                     <h3 class="medium-header">Co w tapicerce piszczy ?</h3>
-                    <p>Odważ się i sprawdź co jest w twoim narożniku, tapczanie, materacu czy samochodzie...</p>
+                    <p>Odważ się i sprawdź co jest w twoim <strong>narożniku</strong>, <strong>tapczanie</strong>, <strong>materacu</strong> czy <strong>samochodzie</strong>...</p>
                     <p>Woda zawsze wygląda tak samo...</p>
                     <p><strong>Pranie mebli</strong>, <strong>Pranie foteli samochodowych</strong>, <strong>Pranie dywanów i wykładzin</strong> powinno być powtarzane raz do roku ponieważ znajdują się w nich:</p>
                     <ul>
-                        <li>- brud</li>
-                        <li>- roztocza kurzu</li>
-                        <li>- bakterie, wirusy i grzyby</li>
-                        <li>- skumulowany przez lata niemiły zapach z otoczenia</li>
+                        <li>- <strong>brud</strong></li>
+                        <li>- <strong>roztocza kurzu</strong></li>
+                        <li>- <strong>bakterie</strong>, <strong>wirusy</strong> i <strong>grzyby</strong></li>
+                        <li>- skumulowany przez lata <strong>niemiły zapach z otoczenia</strong></li>
                     </ul>
                 </div>
             </div>

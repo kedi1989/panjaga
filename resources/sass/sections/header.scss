@@ -1,0 +1,96 @@
+header {
+    width: 100%;
+    height: 150px;
+    vertical-align: middle;
+    border-bottom: 1px solid black;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 100%;
+    margin: auto;
+    height: 100%;
+    
+    .menu__list{
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row;
+        width: 100%;
+        margin: auto;
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
+        .menu__item {
+            margin: 0 15px;
+            cursor: pointer;
+            font-family: 'Quicksand', sans-serif;
+            a {
+                color: black;
+                font-weight: 700;
+                font-size: 15px;
+                &:hover {
+                    color: #ff5809;
+                }
+            }
+        }
+    }
+    .logo {
+        height: 100%;
+        margin: 0 25px 0 25px;
+        img {
+            width: 100px;
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+    }
+    .menu-nav-box {
+        .top-nav,.bottom-nav {
+            height: 50%;
+        }
+        .contacts-box {
+            padding-left: 25px;
+            display: flex;
+            justify-content: space-around;
+            position: relative;
+            height: 100%;
+
+            .fb-btn {
+                height: 50px;
+                width: 50px;
+                background: url(/images/FB-logo.png);
+                background-size: cover;
+                z-index: 9;
+                position: relative;
+                top: 50%;
+                transform: translateY(-50%);
+
+                a{ 
+                    position: absolute;
+                    width: 100%;
+                    height: 100%;
+                    left: 0;
+                    top: 0;
+                }
+            }
+
+            .phone-contact {
+                position: relative;
+                top: 50%;
+                transform: translateY(-50%);
+                font-size: 20px;
+                font-weight: 700;
+                font-family: 'Quicksand', sans-serif;
+                font-style: italic;
+                height: 20px;
+
+                i {
+                    margin: 0 10px 0 0;
+                }
+            }
+        }
+        
+    }
+}

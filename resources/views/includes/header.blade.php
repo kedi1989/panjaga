@@ -20,7 +20,8 @@
                         <li class="menu__item"><a href="/">STRONA GŁÓWNA</a></li>
                         <li class="menu__item"><a href="/najczesciej-zadawane-pytania">FAQ</a></li>
                         <li class="menu__item"><a href="/cennik">CENNIK</a></li>
-                        <li class="menu__item"><a href="/galeria">GALERIA</a></li>
+                        <li class="menu__item"><a href="/galeria">REALIZACJE</a></li>
+                        <li class="menu__item"><a href="/o-nas">O NAS</a></li>
                         <li class="menu__item"><a href="/kontakt">KONTAKT</a></li>
                     </ul>
                 </div>

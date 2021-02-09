@@ -11,12 +11,12 @@
                 <div class="cities-box">
                     <p><strong>Pranie tapicerek </strong>, <strong>Czyszczenie </strong>, <strong>Sprzątanie</strong> i <strong>Ozonowanie </strong> wykonujemy w miastach: </p>
                     <ul>
-                        <li>- Kościan</li>
-                        <li>- Czempiń</li>
-                        <li>- Leszno</li>
-                        <li>- Poznań</li>
-                        <li>- Śrem</li>
-                        <li>- Mosina</li>
+                        <li>- <strong>Kościan</strong></li>
+                        <li>- <strong>Czempiń</strong></li>
+                        <li>- <strong>Leszno</strong></li>
+                        <li>- <strong>Poznań</strong></li>
+                        <li>- <strong>Śrem</strong></li>
+                        <li>- <strong>Mosina</strong></li>
                     </ul>
                     <p>i ich obszarach do około 30km</p>
                 </div>

@@ -1,9 +1,9 @@
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-        @include('includes.head')
-    <body>
-        <div class="main-page-container">
-        @include('includes.header')
-        <div class="main-container">
+@extends('layouts.master')
+        @section('title', 'PanJaga.pl - Cennik usług prania i czyszczenia')
+        @section('description', 'Sprawdź nasze ceny prania tapicerki meblowej i samochodowej ! Skuteczne usuwanie plam i pranie w dobrej cenie !')
+        @section('keywords', 'cennik prania tapicerki meblowej, cennik prania tapicerki samochodowej, cennik, cennik usuwania plam, cennik prania mebli, ceny')
+
+@section('content')
         
         <div class="content-container">
             <h2 class="big-header"><span class="header-gap"></span>CENNIK</h2>
@@ -23,14 +23,14 @@
             <tbody>
                 <tr class="no-border">
                     <th colspan="3">
-                        <h3>PRANIE TAPICERKI MEBLOWEJ</h3>
+                        <h3><strong>PRANIE TAPICERKI MEBLOWEJ</strong></h3>
                     </th>
                 </tr>
 
                 <tr>
                     <td class="service-name">
                         Narożnik pokojowy do 2m długości
-                        <span class="sub-info">- w dowolnej konfiguracji - złożony, rozłożny (w funkcji spania)</span>
+                        <span class="sub-info">- w dowolnej konfiguracji - złożony, rozłożny (w funkcji spania), poduszki wliczone w cenę</span>
                     </td>
                     <td class="service-price">
                         80 - 150zł
@@ -40,7 +40,7 @@
                 <tr>
                     <td class="service-name">
                         Narożnik pokojowy powyżej 2m długości
-                        <span class="sub-info">- w dowolnej konfiguracji - złożony, rozłożny (w funkcji spania)</span>
+                        <span class="sub-info">- w dowolnej konfiguracji - złożony, rozłożny (w funkcji spania), poduszki wliczone w cenę</span>
                     </td>
                     <td class="service-price">
                         150 - 200 zł
@@ -50,7 +50,7 @@
                 <tr>
                     <td class="service-name">
                         Narożnik pokojowy powyżej 4m długości
-                        <span class="sub-info">- w dowolnej konfiguracji - złożony, rozłożny (w funkcji spania)</span>
+                        <span class="sub-info">- w dowolnej konfiguracji - złożony, rozłożny (w funkcji spania), poduszki wliczone w cenę</span>
                     </td>
                     <td class="service-price">
                         200 - 300 zł
@@ -70,7 +70,7 @@
                 <tr>
                     <td class="service-name">
                         Tapczan, sofa, kanapa do 2m długści
-                        <span class="sub-info">- w dowolnej konfiguracji - złożone, rozłożone</span>
+                        <span class="sub-info">- w dowolnej konfiguracji - złożone, rozłożone, poduszki wliczone w cenę</span>
                     </td>
                     <td class="service-price">
                         80 - 130 zł
@@ -80,7 +80,7 @@
                 <tr>
                     <td class="service-name">
                         Tapczan, sofa, kanapa powyżej 2m długości
-                        <span class="sub-info">- w dowolnej konfiguracji - złożone, rozłożone</span>
+                        <span class="sub-info">- w dowolnej konfiguracji - złożone, rozłożone, poduszki wliczone w cenę</span>
                     </td>
                     <td class="service-price">
                         130 - 200 zł
@@ -110,7 +110,7 @@
                 <tr>
                     <td class="service-name">
                         Komplet wypoczynkowy 3 + 2 + 1
-                        <span class="sub-info">- w dowolnej konfiguracji - złożone, rozłożone</span>
+                        <span class="sub-info">- w dowolnej konfiguracji - złożone, rozłożone, poduszki wliczone w cenę</span>
                     </td>
                     <td class="service-price">
                         200 - 350 zł
@@ -217,7 +217,7 @@
                 
                 <tr class="no-border">
                     <th colspan="3">
-                        <h3>PRANIE DYWANÓW / WYKŁADZIN</h3>
+                        <h3><strong>PRANIE DYWANÓW / WYKŁADZIN</strong></h3>
                     </th>
                 </tr>
 
@@ -251,7 +251,7 @@
 
                 <tr class="no-border">
                     <th colspan="3">
-                        <h3>PRANIE / CZYSZCZENIE RÓŻNE</h3>
+                        <h3><strong>PRANIE / CZYSZCZENIE RÓŻNE</strong></h3>
                     </th>
                 </tr>
 
@@ -261,7 +261,17 @@
                         <span class="sub-info">- 3 moduły (gondola, spacerówka, skorupka - fotelik dla noworodka) </span>
                     </td>
                     <td class="service-price">
-                        80 - 120 zł
+                        120 - 150zł
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="service-name">
+                        Pranie wózka dziecięcego 2 w 1 
+                        <span class="sub-info">- 2 moduły (gondola, spacerówka) </span>
+                    </td>
+                    <td class="service-price">
+                        100 - 130zł
                     </td>
                 </tr>
 
@@ -274,6 +284,111 @@
                         70 - 90 zł
                     </td>
                 </tr>
+
+                <tr class="no-border">
+                    <th colspan="3">
+                        <h3><strong>PRANIE TAPICERKI SAMOCHODOWEJ I CZYSZCZENIE</strong></h3>
+                    </th>
+                </tr>
+
+                <tr>
+                    <td class="service-name">
+                        <strong>SAMOCHODY MAŁE</strong>
+                        <span class="sub-info">- np. mały hatchback, mały sedan; - FORD FIESTA, NISSAN MICRA, FIAT PANDA itd.</span>
+                    </td>
+                    <td class="service-price">
+                        
+                    </td>
+                </tr>   
+
+                <tr>
+                    <td class="service-name">
+                        Ozonowanie*
+                        <span class="sub-info"></span>
+                    </td>
+                    <td class="service-price">
+                        50 zł
+                    </td>
+                </tr>
+                <tr>
+                    <td class="service-name">
+                        Pakiet Pranie MINI
+                        <span class="sub-info">- w zależności od zabrudzenia; - przednie fotele oraz tylnia kanapa</span>
+                    </td>
+                    <td class="service-price">
+                        120 - 150 zł
+                    </td>
+                </tr>
+                <tr>
+                    <td class="service-name">
+                        Pakiet Pranie MEDIUM
+                        <span class="sub-info">- w zależności od zabrudzenia; - przednie fotele oraz tylnia kanapa, podłoga, bagażnik, dywaniki</span>
+                    </td>
+                    <td class="service-price">
+                        150 - 180 zł
+                    </td>
+                </tr>
+                <tr>
+                    <td class="service-name">
+                        Pakiet Pranie MAXI
+                        <span class="sub-info">- w zależności od zabrudzenia; - przednie fotele oraz tylnia kanapa, podłoga, bagażnik, dywaniki, czyszczenie plastików, wycieranie szyb, ozonowanie*</span>
+                    </td>
+                    <td class="service-price">
+                        150 - 200 zł
+                    </td>
+                </tr>
+
+                
+
+
+                <tr>
+                    <td class="service-name">
+                        <strong>SAMOCHODY ŚREDNIE</strong>
+                        <span class="sub-info">- np. sedany, kombi; - VW PASSAT, TOYOTA AVENSIS itd.</span>
+                    </td>
+                    <td class="service-price">
+                        
+                    </td>
+                </tr>    
+
+                
+
+                <tr>
+                    <td class="service-name">
+                        Ozonowanie*
+                        <span class="sub-info"></span>
+                    </td>
+                    <td class="service-price">
+                        70 zł
+                    </td>
+                </tr>
+                <tr>
+                    <td class="service-name">
+                        Pakiet Pranie MINI
+                        <span class="sub-info">- w zależności od zabrudzenia; - przednie fotele oraz tylnia kanapa</span>
+                    </td>
+                    <td class="service-price">
+                        150 - 180 zł
+                    </td>
+                </tr>
+                <tr>
+                    <td class="service-name">
+                        Pakiet Pranie MEDIUM
+                        <span class="sub-info">- w zależności od zabrudzenia; - przednie fotele oraz tylnia kanapa, podłoga, bagażnik, dywaniki</span>
+                    </td>
+                    <td class="service-price">
+                        200 - 250 zł
+                    </td>
+                </tr>
+                <tr>
+                    <td class="service-name">
+                        Pakiet Pranie MAXI
+                        <span class="sub-info">- w zależności od zabrudzenia; - przednie fotele oraz tylnia kanapa, podłoga, bagażnik, dywaniki, czyszczenie plastików, wycieranie szyb, ozonowanie*</span>
+                    </td>
+                    <td class="service-price">
+                        250 - 300 zł
+                    </td>
+                </tr>
             </tbody>
         </table>
         </div>
@@ -281,7 +396,4 @@
 </div>
 
 
-
-            @include('includes.footer')
-    </body>
-</html>
+@stop

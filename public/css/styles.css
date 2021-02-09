@@ -105,14 +105,14 @@ header {
   transform: translateY(-50%);
 }
 .menu .menu__list .menu__item {
-  margin: 0 25px 0 25px;
+  margin: 0 15px;
   cursor: pointer;
   font-family: "Quicksand", sans-serif;
 }
 .menu .menu__list .menu__item a {
   color: black;
   font-weight: 700;
-  font-size: 17px;
+  font-size: 15px;
 }
 .menu .menu__list .menu__item a:hover {
   color: #ff5809;
@@ -201,7 +201,7 @@ header {
   margin: 0px auto 15px auto;
 }
 .main-banner-title h1 {
-  font-size: 32px;
+  font-size: 28px;
   padding: 20px;
   font-weight: 700;
   font-family: "Quicksand", sans-serif;
@@ -274,9 +274,9 @@ header {
   font-weight: 500;
 }
 .area-service-container ul li, .howwework-service-container ul li {
-  padding: 0 0 25px 20px;
+  padding: 0 0 15px 30px;
   font-size: 18px;
-  line-height: 20px;
+  line-height: 22px;
 }
 .area-service-container .cities-box, .howwework-service-container .cities-box {
   position: relative;
@@ -542,7 +542,7 @@ footer p {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 22px;
+  font-size: 18px;
   font-family: "Quicksand", sans-serif;
   border-bottom: 1px solid #000;
   position: relative;
@@ -692,6 +692,26 @@ footer p {
   position: relative;
   top: 50%;
   transform: translateY(-50%);
+}
+
+.aboutus-container ul {
+  margin: 20px 10px;
+}
+.aboutus-container ul li {
+  margin: 0 10px;
+  line-height: 25px;
+  font-size: 18px;
+  font-family: "Quicksand", sans-serif;
+}
+
+.order-scope-box p {
+  font-family: "Quicksand", sans-serif;
+  font-size: 16px;
+}
+.order-scope-box ul li {
+  font-family: "Quicksand", sans-serif;
+  font-size: 16px;
+  margin: 5px 0;
 }
 
 @media (max-width: 1220px) and (min-width: 767px) {

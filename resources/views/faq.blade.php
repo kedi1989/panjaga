@@ -1,9 +1,9 @@
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-        @include('includes.head')
-    <body>
-        <div class="main-page-container">
-        @include('includes.header')
-        <div class="main-container">
+@extends('layouts.master')
+        @section('title', 'PanJaga.pl - Najczęściej zadawane pytania')
+        @section('description', 'Dowiedz się więcej o naszych usługach prania tapicerek i czyszczenia ! Odpowiemy na wszelkie pytania.')
+        @section('keywords', 'pranie tapicerki, najczęściej zadawane pytania, pranie mebli, pranie wykładzin, cennik, ceny prania mebli')
+
+@section('content')
         
         <div class="content-container">
             <h2 class="big-header"><span class="header-gap"></span>NAJCZĘŚCIEJ ZADAWANE PYTANIA</h2>
@@ -107,12 +107,7 @@
 
             </div>
         </div>
-        
-
-
-
         </div>
-
 </div>
 
 <script>
@@ -132,6 +127,4 @@ for (i = 0; i < coll.length; i++) {
 }
 </script>
 
-            @include('includes.footer')
-    </body>
-</html>
+@stop

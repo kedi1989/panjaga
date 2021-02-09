@@ -12,6 +12,13 @@
         </script>
     @endif
 
+    <title>@yield('title')</title>
+    <meta name="description" content="@yield('description')">
+    <meta name="keywords" content="@yield('keywords')">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <link href="{{ URL::asset('fontawesome/css/all.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="{{ URL::asset('css/styles.css') }}" type="text/css"> 
     <script type="text/javascript" src="{{ URL::asset('js/jquery.min.js') }}"></script>
