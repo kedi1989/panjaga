@@ -2,16 +2,16 @@
     <div class="content-container">
     <div class="chem-logos-container">
         <div class="chem-logo-box">
-            <img src="images/chemLogos/karcher.png" alt="karcher chemia">
+            <img loading="lazy" src="images/chemLogos/karcher.png" alt="karcher chemia">
         </div>
         <div class="chem-logo-box">
-            <img src="images/chemLogos/chemspec.png" alt="chemspec chemia">
+            <img loading="lazy" src="images/chemLogos/chemspec.png" alt="chemspec chemia">
         </div>
         <div class="chem-logo-box">
-            <img src="images/chemLogos/adbl.png" alt="adbl chemia">
+            <img loading="lazy" src="images/chemLogos/adbl.png" alt="adbl chemia">
         </div>
         <div class="chem-logo-box">
-            <img src="images/chemLogos/tenzi.png" alt="tenzi chemia">
+            <img loading="lazy" src="images/chemLogos/tenzi.png" alt="tenzi chemia">
         </div>
         
     </div>

@@ -9,13 +9,13 @@
                 </div>
                 <div class="article-content-box">
                     <div class="post-title">
-                        <h3>Ile kosztuje pranie dywanu? Zalety prania dywanu za pomocą odkurzacza piorącego</h3>
+                        <h3>Wiosenne porządki czas zacząć czyli pranie tapicerki samochodowej od środka !</h3>
                     </div>
                     <div class="post-publised-date">
-                        Sty 21, 2020
+                        Lut 9, 2021
                     </div>
                     <div class="post-content">
-                        Pranie dywanów odkurzaczem piorącym to coś, na co decydują się właściciele nowych dywanów, a także posiadacze cennych tkanin w celu zachowania doskonałego wyglądu dywanu. Czym prać dywan, aby usunąć trwałe zabrudzenia? Ile kosztuje pranie dywanu w profesjonalnej...
+                    Niedługo wiosna, a zatem… czy chciałbyś ujrzeć wnętrze swojego auta w dokładnie takim stanie, w jakim opuściło salon? 
                     </div>
                 </div>
             </a>

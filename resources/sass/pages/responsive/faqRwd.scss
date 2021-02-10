@@ -1,0 +1,41 @@
+@media (max-width: 1220px) and (min-width: 767px){
+
+    .faq-container {
+        width: 100%;
+        .collapsible {
+            width: 80%;
+            margin: auto auto;
+        }
+
+        .content {
+            width: 80%;
+            margin: auto auto;
+        }
+    }
+    
+ }
+
+ @media (max-width: 767px) {
+    .faq-container {
+        width: 90%;
+        p {
+            padding: 10px;
+        }
+        .collapsible {
+            width: 100%;
+            margin: auto auto;
+            padding: 10px 20px 10px 10px;
+            h3 {
+                font-size: 14px;
+                line-height: 20px;
+            }
+        }
+
+        .content {
+            width: 100%;
+            margin: auto auto;
+            padding: 0 15px;
+            
+        }
+    }
+}

@@ -1,0 +1,113 @@
+// TABLET START
+
+@media (max-width: 1220px) and (min-width: 767px){
+
+    p {
+        line-height: 25px;
+        padding-bottom: 15px;
+    }
+
+    .content-container {
+        width: calc(100% - 80px);
+        min-width: 728px;
+    }
+
+    .big-header,.medium-header {
+        font-size: 24px;
+        padding: 20px;
+        font-weight: 700;
+        margin: 20px auto 20px auto;
+        text-align: center;
+        font-family: 'Quicksand', sans-serif;
+    
+        &.big-header {
+            font-size: 24px;
+        }
+    
+        &.medium-header {
+            font-size: 22px;
+        }
+    }
+
+    .service-contact-container {
+        .left-side-content {
+            width: 70%;
+        }
+        .right-side-content {
+            width: 30%;
+        }
+    
+        .service-contact-box {
+            padding: 20px 0;
+            h2 {
+                padding: 10px;
+            }
+            p {
+                padding: 10px;
+            }
+        }
+    }
+}
+
+// TABLET END
+
+// MOBILE START
+
+@media (max-width: 767px) {
+    .content-container {
+        width: calc(100% - 60px);
+        min-width: 286px;
+    }
+
+    p {
+        line-height: 25px;
+        padding-bottom: 15px;
+        text-align: justify;
+    }
+
+    .big-header,.medium-header {
+        font-size: 22px;
+        padding: 5px;
+        font-weight: 700;
+        margin: 30px auto 20px auto;
+        text-align: center;
+        font-family: 'Quicksand', sans-serif;
+    
+        &.big-header {
+            font-size: 22px;
+        }
+    
+        &.medium-header {
+            font-size: 20px;
+        }
+    }
+
+    .service-contact-container {
+        height: auto;
+        background-position: 50% 50%;
+        .left-side-content {
+            width: 100%;
+        }
+        .right-side-content {
+            width: 100%;
+        }
+    
+        .service-contact-box {
+            padding: 20px 0;
+            flex-wrap: wrap;
+            h2 {
+                padding: 10px;
+                text-align: center;
+            }
+            p {
+                padding: 10px;
+                text-align: justify;
+            }
+            .order-btn {
+                margin: 10px auto;
+            }
+        }
+    }
+}
+
+// MOBILE END

@@ -5,7 +5,7 @@
                 <img loading="lazy" src="images/mainPageImages/carpet_1.jpg" alt="pranie wykładzin i dywanów"/>
             </div>
             <div class="service-title">
-                <h3>Pranie i czyszczenie wykładzin, dywanów<h3>
+                <h3>Pranie i czyszczenie wykładzin, dywanów</h3>
             </div>
         </div>
         <div class="service-box">

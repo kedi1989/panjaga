@@ -37,6 +37,14 @@ Route::get('/najczesciej-zadawane-pytania', function () {
     return view('faq');
 });
 
+// Route::get('/oferta', function () {
+//     return view('offer');
+// });
+
 // Route::get('/pranie-wykladziny-odkurzaczem-pioracym', function () {
 //     return view('articles/singlearticle');
+// });
+
+// Route::get('/offer', function () {
+//     return view('articles/singleoffer');
 // });

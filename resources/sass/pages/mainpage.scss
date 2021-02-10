@@ -1,7 +1,7 @@
 .main-banner {
     width: 100%;
     height: 500px;
-    background-image: url('../images/sliderImages/background-slider-2.jpg');
+    background-image: url('/images/sliderImages/background-slider-2.jpg');
     background-size: cover;
     background-position: 50% 50%;
 }
@@ -51,7 +51,7 @@
         margin: 0 15px 0 15px;
         .service-image-wrapper {
             width: 100%;
-            height: 180x;
+            height: 180px;
             border-radius: 10px;
             overflow: hidden;
             max-width: 300px;
@@ -182,4 +182,28 @@
     background: url('/images/mainSliderImages/8.jpg');
     background-size: cover;
     background-position: 50% 50%;
+}
+
+.our-projects-container {
+    .projects-slide {
+        border: 2px solid #fbb26b;
+        border-radius: 10px;
+        height: 300px;
+    }
+}
+
+.chem-logos-container {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 40px;
+    .chem-logo-box {
+        width: 22%;
+        position: relative;
+        img {
+            width: 100%;
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+    }
 }

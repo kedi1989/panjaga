@@ -1,0 +1,52 @@
+.no-border {
+    border-bottom: none !important;
+}
+
+.faq-container {
+    .collapsible {
+        color: #000;
+        cursor: pointer;
+        padding: 18px;
+        width: 100%;
+        border: none;
+        text-align: left;
+        outline: none;
+        font-size: 18px;
+        font-family: 'Quicksand', sans-serif;
+        border-bottom: 1px solid #000;
+        position: relative;
+        }
+        
+        .collapsible:after {
+            content: '\002B';
+            color: #000;
+            font-weight: bold;
+            float: right;
+            margin-left: 5px;
+            right: 0px;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+        
+        .active:after {
+            content: "\2212";
+            position: absolute;
+            right: 0;
+        }
+        
+        .content {
+            width: 100%;
+            padding: 0 18px;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.2s ease-out;
+            background-color:#fbb26b;
+            font-size: 14px;
+        }
+
+        p{ 
+            padding: 10px 0;
+        }
+
+}

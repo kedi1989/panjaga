@@ -1,0 +1,121 @@
+.blog-articles-list-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+    article {
+        border-radius: 10px;
+        border: 1px solid #ffffff;
+        width: 30%;
+        box-shadow: 0px 14px 41px -34px #457b9d;
+        height: 100%;
+
+        .blog-image-wrapper {
+            width: 100%;
+            height: 180x;
+            border-radius: 10px 10px 0 0;
+            overflow: hidden;
+            margin: auto;
+        }
+
+        .post-title {
+            h3 {
+                font-family: 'Quicksand', sans-serif;
+                font-size: 22px;
+                color: #000;
+                font-weight: 700;
+                margin: 10px 0;
+                padding: 0 10px;
+            }
+        }
+
+        .post-publised-date {
+            font-family: 'Quicksand', sans-serif;
+            font-size: 13px;
+            color: rgb(53, 53, 53);
+            font-weight: 500;
+            font-style: italic;
+            padding: 0 10px;
+        }
+
+        .post-content {
+            font-size: 16px;
+            color: #000;
+            font-weight: 500;
+            margin: 10px 0;
+            line-height: 27px;
+            padding: 0 10px;
+        }
+
+        img {
+            width: 100%;
+        }
+        
+    }
+}
+
+.blog-article-container {
+    padding-top: 40px;
+    display: flex;
+    
+    .article-box {
+        width: 75%;
+        padding: 0 30px 0 0;
+    }
+
+    .newest-articles-box {
+        width: 25%;
+        padding: 0 0 0 20px;
+
+        h4 {
+            font-family: 'Quicksand', sans-serif;
+            font-size: 22px;
+            font-weight: 700;
+        }
+
+        ul {
+            li {
+                margin: 20px 0;
+                line-height: 25px;
+                    font-size: 18px;
+                a{
+                    color: #000;
+                    font-family: 'Quicksand', sans-serif;
+                }
+            }
+        }
+    }
+
+    .article-image {
+        width: 100%;
+        margin: 0 0 30px 0;
+        img {
+            width: 100%;
+        }
+    }
+
+    h1 {
+        font-family: 'Quicksand', sans-serif;
+        font-size: 34px;
+        font-weight: 700;
+        line-height: 34px;;
+    }
+
+    h2 {
+        font-family: 'Quicksand', sans-serif;
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 26px;
+        padding: 20px 0 5px 0;
+    }
+
+    .post-published-date {
+        font-family: 'Quicksand', sans-serif;
+        font-size: 16px;
+        font-style: italic;
+        padding: 15px 0;
+    }
+
+    p {
+        padding: 10px 0;
+    }
+}

@@ -1,7 +1,7 @@
     @extends('layouts.master')
         @section('title', 'PanJaga.pl - Strona Główna')
-        @section('description', 'Odśwież wygląd swojej kanapy,narożnika,samochodu i usuń z nich stare plamy! Fachowe pranie tapicerek i czyszcenia.')
-        @section('keywords', 'pranie tapicerki, pranie mebli, usuwanie plam, pranie materacy, pranie dywanów i wykładzin, pranie tapicerki samochodowej, czyszczenie samochodu, sprzątanie samochodu, pranie tapicerki meblowej, pranie mebli, pranie, czyszczenie, ozonowanie, usługi czyszczące, usługi sprzątające')
+        @section('description', 'Odśwież wygląd swojej kanapy,narożnika,samochodu i usuń z nich stare plamy! Fachowe pranie i czyszczenie tapicerek.')
+        @section('keywords', 'pranie tapicerki, pranie mebli, karcher, usuwanie plam, pranie materacy, pranie dywanów i wykładzin, pranie tapicerki samochodowej, czyszczenie samochodu, sprzątanie samochodu, pranie tapicerki meblowej, pranie mebli, pranie, czyszczenie, ozonowanie, usługi czyszczące, usługi sprzątające')
 
 @section('content')
 
@@ -15,7 +15,7 @@
 
     <div class="content-container">
         <h2 class="big-header"><span class="header-gap"></span>Jakie usługi wykonujemy ?</h2>
-        <p>PanJaga.pl to firma oferująca <strong>usługi czyszczenia</strong> oraz <strong>prania tapicerki meblowej oraz samochodowej</strong>. Bazujemy na chemii i sprzęcie wiodących producentów takich jak <strong>KARCHER</strong>, <strong>CHEMSPEC</strong>, <strong>ADBL</strong> czy też <strong>TENZI</strong>. </p>
+        <p>PanJaga.pl to firma oferująca <strong>usługi czyszczenia</strong> oraz <strong>prania tapicerki meblowej i samochodowej</strong>. Bazujemy na chemii i sprzęcie wiodących producentów takich jak <strong>KARCHER</strong>, <strong>CHEMSPEC</strong>, <strong>ADBL</strong> czy też <strong>TENZI</strong>. </p>
         <p>Do każdego zlecenia podchodzimy <strong>indywidualnie</strong> oraz z <strong>dbałością o szczegóły czyszczonych obiektów</strong>. Nasze doświadczenie pozwala nam na uzyskanie najwyższej jakości świadczonych przez nas usług. Pozwól, że pomożemy ci odświeżyć twój samochód czy też meble. <strong>Czyszczenie kanapy</strong>? <strong>Pranie narożnika</strong>? A może <strong>pranie foteli</strong> w samochodzie ? Rozejrzyj się po naszej ofercie i zobacz co mamy do zaoferowania.</p>
     
     </div>
@@ -47,6 +47,17 @@
             focusOnSelect: true,
             autoplay: true,
             autoplaySpeed: 2000,
+            responsive: [
+                {
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    infinite: true,
+                    dots: true
+                }
+                },
+            ]
             });
     </script>
 

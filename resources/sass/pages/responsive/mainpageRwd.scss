@@ -1,0 +1,179 @@
+// TABLET START
+
+@media (max-width: 1220px) and (min-width: 767px){
+
+    .main-banner {
+        .main-banner-title {
+            .title-box {
+                h1 {
+                    font-size: 23px;
+                }
+            }
+        }
+    }
+
+    .service-container {
+        flex-wrap: wrap;
+        .service-box {
+            width: 50%;
+            margin: 5px 0;
+        }
+    }
+
+    .area-service-container {
+        .area-service-image {
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+            padding: 0 10px 0 0;
+        }
+    }
+
+    .howwework-service-container {
+        width: 90%;
+        margin: auto auto;
+        .howwework-service-box {
+            flex-wrap: wrap;
+            .left-side-content,.right-side-content {
+                width: 100%;
+
+                &.left-side-content {
+                    order: 1;
+                }
+            
+                &.right-side-content {
+                    order: 0;
+                    margin-bottom: 20px;
+                }
+            }
+            
+            .howwework-text-box {
+                width: 80%;
+                margin: auto;
+            }
+        }
+
+        .howwework-service-video-box {
+            iframe {
+                width: 80% !important;
+            }
+        }
+    }
+
+    .our-projects-container {
+        .projects-slide {
+            height: 170px;
+        }
+    }
+ }
+
+//  TABLET END
+
+
+
+
+
+//  MOBILE START
+
+ @media (max-width: 767px) {
+    
+
+    .main-banner {
+        height: 400px;
+        .main-banner-title {
+            .title-box {
+                h1 {
+                    font-size: 22px;
+                }
+            }
+        }
+    }
+
+    .service-container {
+        flex-wrap: wrap;
+        .service-box {
+            width: 100%;
+            margin: 5px 0;
+            .service-title {
+                h3 {
+                    font-size: 20px;
+                    line-height: 22px;
+                }
+            }
+        }
+    }
+
+    .area-service-container {
+        flex-wrap: wrap;
+        .left-side-content {
+            width: 100%;
+            order: 0;
+        }
+        .right-side-content {
+            width: 100%;
+            order: 1;
+        }
+        .area-service-image {
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+            padding: 0 10px 0 0;
+        }
+    }
+
+
+    .howwework-service-container {
+        width: 100%;
+        margin: auto auto;
+
+        p {
+            font-size: 17px;
+            line-height: 20px;
+        }
+
+        ul {
+            li {
+                font-size: 16px;
+                line-height: 20px;
+                padding: 0 0 10px 15px;
+            }
+        }
+
+        .howwework-service-box {
+            flex-wrap: wrap;
+            .left-side-content,.right-side-content {
+                width: 100%;
+
+                &.left-side-content {
+                    order: 1;
+                }
+            
+                &.right-side-content {
+                    order: 0;
+                    margin-bottom: 20px;
+                }
+            }
+            
+            .howwework-text-box {
+                width: 100%;
+                margin: auto;
+            }
+        }
+
+        .howwework-service-video-box {
+            iframe {
+                width: 80% !important;
+            }
+        }
+    }
+
+    .chem-logos-container {
+        flex-wrap: wrap;
+        .chem-logo-box {
+            width: 80%;
+            margin: 10px auto;
+        }
+    }
+}
+
+// MOBILE END

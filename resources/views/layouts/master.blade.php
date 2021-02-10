@@ -1,16 +1,13 @@
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-        
+<!DOCTYPE html>
+<html lang="pl">
         @include('includes.head')
-        
     <body>
     <div class="main-page-container">
     @include('includes.header')
     <div class="main-container">
-
-    @yield('content')
-
+        @yield('content')
     </div>
     </div>
-    @extends('includes.footer')
+        @include('includes.footer')
     </body>
 </html>

@@ -1,0 +1,11 @@
+@media (max-width: 767px) {
+    .gallery-container {
+        img {
+            height: auto;
+            width: auto;
+            max-width: 48%;
+            margin: 10px auto 10px auto;
+            vertical-align: middle;
+        }
+    }
+}
