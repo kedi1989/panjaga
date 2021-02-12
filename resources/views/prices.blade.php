@@ -13,11 +13,11 @@
 
         <div class="prices-container">
 
-        <p>Poniższe ceny są cenami orientacyjnymi. Ostateczne ceny i tak ustalamy na podstawie zazwyczaj zdjęć więc mogą być niższe lub wyższe. Ustalona cena na podstawie zdjęcia nie zmienia się już na miejscu. Jeżeli ustalamy cenę to trzymamy się jej bez niespodzianek na miejscu.</p>
+        <p>Poniższe ceny są cenami orientacyjnymi. Ostateczne ceny, ustalamy na podstawie zdjęć (zazwyczaj dosyłanych przez klienta) więc mogą być nieznacznie niższe lub wyższe. Ustalona cena na podstawie zdjęcia, nie podlega zmianie już na miejscu.</p>
         
         <p>Dużo zależy od stopnia zabrudzenia, poziomu skomplikowania mebla np. tapicerka przeplatana z pseudoskórzanymi akcentami etc. oraz czy jest dużo odplamiania.</p>
         
-        <p>W przypadku gdy w odkurzaczu piorącym zostaje nam trochę wody z chemią, staramy się w miarach możliwości doczyścić coś klientowi za darmo.</p>
+        <p>W przypadku gdy w odkurzaczu piorącym zostaje nam trochę wody z chemią, staramy się w miarach możliwości doczyścić coś klientowi za darmo np. mała pufa, krzesło etc.</p>
 
         <table class="price-table">
             <tbody>

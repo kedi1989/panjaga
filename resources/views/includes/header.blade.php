@@ -9,22 +9,26 @@
             <div class="menu-nav-box">
                 <div class="top-nav">
                     <div class="contacts-box">
-                        
                             <span class="facebook-contact fb-btn"><a href="https://www.facebook.com/PANJAGAKARCHER"></a></span>
-                        
                         <div class="phone-contact"><i class="fas fa-mobile-alt"></i>Zadzwoń: 790-462-146</div>
                     </div>
                 </div>
                 <div class="bottom-nav">
-                    <ul class="menu__list navbar">
-                        <li class="menu__item"><a href="/">STRONA GŁÓWNA</a></li>
-                        <!-- <li class="menu__item"><a href="/oferta">OFERTA</a></li> -->
-                        <li class="menu__item"><a href="/cennik">CENNIK</a></li>
-                        <li class="menu__item"><a href="/galeria">REALIZACJE</a></li>
-                        <li class="menu__item"><a href="/najczesciej-zadawane-pytania">FAQ</a></li>
-                        <li class="menu__item"><a href="/o-nas">O NAS</a></li>
-                        <li class="menu__item"><a href="/kontakt">KONTAKT</a></li>
-                    </ul>
+                    <div class="menu__list navbar">
+                        <div class="menu__item"><a href="/">STRONA GŁÓWNA</a></div>
+                        <div class="menu__item dropdown-hover"><a href="#">OFERTA</a>
+                        <div class="dropdown-content">
+                            <a href="{{ route('pranie-tapicerki-meblowej') }}">Pranie Tapicerki Meblowej</a>
+                            <a href="{{ route('pranie-tapicerki-samochodowej') }}">Pranie Tapicerki Samochodowej</a>
+                            <a href="{{ route('pranie-dywanow-wykladzin') }}">Pranie Dywanów i Wykładzin</a>
+                            </div>
+                        </div>
+                        <div class="menu__item"><a href="/cennik">CENNIK</a></div>
+                        <div class="menu__item"><a href="/galeria">REALIZACJE</a></div>
+                        <div class="menu__item"><a href="/najczesciej-zadawane-pytania">FAQ</a></div>
+                        <div class="menu__item"><a href="/o-nas">O NAS</a></div>
+                        <div class="menu__item"><a href="/kontakt">KONTAKT</a></div>
+                    </div>
                 </div>
             </div>
         </div>

@@ -37,9 +37,17 @@ Route::get('/najczesciej-zadawane-pytania', function () {
     return view('faq');
 });
 
-// Route::get('/oferta', function () {
-//     return view('offer');
-// });
+Route::get('oferta/pranie-tapicerki-samochodowej', function () {
+    return view('offers/pranieTapicerkiSamochodowejOffer');
+})->name('pranie-tapicerki-samochodowej');
+
+Route::get('oferta/pranie-tapicerki-meblowej', function () {
+    return view('offers/pranieTapicerkiMeblowejOffer');
+})->name('pranie-tapicerki-meblowej');
+
+Route::get('oferta/pranie-wykladzin-i-dywanow', function () {
+    return view('offers/pranieDywanowWykladzinOffer');
+})->name('pranie-dywanow-wykladzin');
 
 // Route::get('/pranie-wykladziny-odkurzaczem-pioracym', function () {
 //     return view('articles/singlearticle');

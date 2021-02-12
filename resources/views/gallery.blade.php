@@ -65,7 +65,7 @@
             </h3>
 
             <div class="order-scope-box">
-                <p>Skuteczne <strong>pranie materaca</strong> to przedewszystkim:</p>
+                <p>Skuteczne <strong>pranie materaca</strong> to przede wszystkim:</p>
                 <ul>
                     <li>- <strong>Usuwanie roztoczy z wnętrza materaca</strong></li>
                     <li>- <strong>Usuwanie brzydkiego zapachu potu, resztki naskórka</strong></li>
