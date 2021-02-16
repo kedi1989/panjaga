@@ -5,7 +5,7 @@
 
 @section('content')
 
-        <div class="offer-banner-commercial furniture-cleaning-background">
+        <div class="offer-banner-commercial furniture-cleaning-background box-shadow">
           <div class="description-box">
             <h1>Pranie tapicerki meblowej</h1>
             <div class="description-banner-body">Metodą ekstrakcyjną</div>
@@ -13,6 +13,7 @@
         </div>
 
         <div class="content-container">
+        @include('includes.components.covid19Info') 
           <div class="single-offer-container">
             
 
@@ -43,8 +44,13 @@
 
                 <div class="offer-images-container">
                   <div class="offer-images-box">
-                    <img loading="lazy" src="../images/gallery/TapicerkaMeblowa/8.jpg" alt="Czyszczenie dużego, wielkomodułowego narożnika">
-                    <img loading="lazy" src="../images/gallery/TapicerkaMeblowa/21.jpg" alt="Czyszczenie średniej wielkości narożnika, ekstrakcja wody z brudem z tapicerki">
+                    <img class="box-shadow" loading="lazy" src="../images/gallery/TapicerkaMeblowa/8.jpg" alt="Czyszczenie dużego, wielkomodułowego narożnika">
+                    <img class="box-shadow" loading="lazy" src="../images/gallery/TapicerkaMeblowa/21.jpg" alt="Czyszczenie średniej wielkości narożnika, ekstrakcja wody z brudem z tapicerki">
+                    <div class="more-realizations-box">
+                      <a href="{{ route('realizacje') }}">
+                        GALERIA
+                      </a>
+                    </div>
                   </div>
                   <div class="offer-images-info">
                     <p>1. Czyszczenie dużego, wielkomodułowego narożnika</p>
@@ -59,13 +65,19 @@
 
                 <div class="offer-images-container">
                   <div class="offer-images-box">
-                    <img loading="lazy" src="../images/gallery/TapicerkaMeblowa/6.jpg" alt="Czyszczenie kanapy - efekty od razu widać gołym okiem">
-                    <img loading="lazy" src="../images/gallery/TapicerkaMeblowa/31.jpg" alt="Proces ekstrakcji tapicerki">
+                    <img class="box-shadow" loading="lazy" src="../images/gallery/TapicerkaMeblowa/6.jpg" alt="Czyszczenie kanapy - efekty od razu widać gołym okiem">
+                    <img class="box-shadow" loading="lazy" src="../images/gallery/TapicerkaMeblowa/31.jpg" alt="Proces ekstrakcji tapicerki">
+                    <div class="more-realizations-box">
+                      <a href="{{ route('realizacje') }}">
+                        GALERIA
+                      </a>
+                    </div>
                   </div>
                   <div class="offer-images-info">
                     <p>1. Czyszczenie kanapy - efekty od razu widać gołym okiem</p>
                     <p>2. Proces ekstrakcji tapicerki</p>
                   </div>
+                  
                 </div>
 
                 <h2><strong>Pranie tapicerki meblowej- jakie meble czyścimy?</strong></h2>
@@ -76,13 +88,19 @@
 
                 <div class="offer-images-container">
                   <div class="offer-images-box">
-                    <img loading="lazy" src="../images/gallery/TapicerkaMeblowa/17.jpg" alt="Czyszczenie fotela biurowego młodzieżowego">
-                    <img loading="lazy" src="../images/gallery/Materace/5.jpg" alt="Pranie dwustronne materaca na którym śpi dziecko">
+                    <img class="box-shadow" loading="lazy" src="../images/gallery/TapicerkaMeblowa/17.jpg" alt="Czyszczenie fotela biurowego młodzieżowego">
+                    <img class="box-shadow" loading="lazy" src="../images/gallery/Materace/5.jpg" alt="Pranie dwustronne materaca na którym śpi dziecko">
+                    <div class="more-realizations-box">
+                      <a href="{{ route('realizacje') }}">
+                        GALERIA
+                      </a>
+                    </div>
                   </div>
                   <div class="offer-images-info">
                     <p>1. Czyszczenie fotela biurowego młodzieżowego</p>
                     <p>2. Pranie dwustronne materaca na którym śpi dziecko</p>
                   </div>
+                
                 </div>
 
                 <h2><strong>Pranie tapicerki meblowej - Cennik</strong></h2>

@@ -10,6 +10,7 @@
         </div>
 
         <div class="content-container">
+         
 
         <div class="prices-container">
 
@@ -18,6 +19,10 @@
         <p>Dużo zależy od stopnia zabrudzenia, poziomu skomplikowania mebla np. tapicerka przeplatana z pseudoskórzanymi akcentami etc. oraz czy jest dużo odplamiania.</p>
         
         <p>W przypadku gdy w odkurzaczu piorącym zostaje nam trochę wody z chemią, staramy się w miarach możliwości doczyścić coś klientowi za darmo np. mała pufa, krzesło etc.</p>
+
+
+        @include('includes.components.covid19Info')
+
 
         <table class="price-table">
             <tbody>
@@ -215,81 +220,102 @@
                     </td>
                 </tr>
                 
-                <tr class="no-border">
-                    <th colspan="3">
-                        <h3><strong>PRANIE DYWANÓW / WYKŁADZIN</strong></h3>
-                    </th>
-                </tr>
+            </tbody>
+        </table>
 
-                <tr>
-                    <td class="service-name">
-                        Wykładzina
-                        <span class="sub-info">- w zależności od stopnia zabrudzenia i długości włosia</span>
-                    </td>
-                    <td class="service-price">
-                        8 - 12 zł m2
-                    </td>
-                </tr>
+        <div class="order-box">
+            <a class="order-btn box-shadow" href="{{ route('kontakt') }}">Zamawiam pranie tapicerki meblowej <i class="fas fa-angle-right"></i></a>
+        </div>
 
-                <tr>
-                    <td class="service-name">
-                        Dywan krótki włos
-                    </td>
-                    <td class="service-price">
-                        8 - 12 zł m2
-                    </td>
-                </tr>
+                
+        <h3><strong>PRANIE DYWANÓW / WYKŁADZIN</strong></h3>
+                    
 
-                <tr>
-                    <td class="service-name">
-                        Dywan długi włos
-                    </td>
-                    <td class="service-price">
-                        10 - 15 zł m2
-                    </td>
-                </tr>
+        <table class="price-table">
+            <tbody>
 
-                <tr class="no-border">
-                    <th colspan="3">
-                        <h3><strong>PRANIE / CZYSZCZENIE RÓŻNE</strong></h3>
-                    </th>
-                </tr>
+            <tr>
+                <td class="service-name">
+                    Wykładzina
+                    <span class="sub-info">- w zależności od stopnia zabrudzenia i długości włosia</span>
+                </td>
+                <td class="service-price">
+                    8 - 12 zł m2
+                </td>
+            </tr>
 
-                <tr>
-                    <td class="service-name">
-                        Pranie wózka dziecięcego 3 w 1 
-                        <span class="sub-info">- 3 moduły (gondola, spacerówka, skorupka - fotelik dla noworodka) </span>
-                    </td>
-                    <td class="service-price">
-                        120 - 150zł
-                    </td>
-                </tr>
+            <tr>
+                <td class="service-name">
+                    Dywan krótki włos
+                </td>
+                <td class="service-price">
+                    8 - 12 zł m2
+                </td>
+            </tr>
 
-                <tr>
-                    <td class="service-name">
-                        Pranie wózka dziecięcego 2 w 1 
-                        <span class="sub-info">- 2 moduły (gondola, spacerówka) </span>
-                    </td>
-                    <td class="service-price">
-                        100 - 130zł
-                    </td>
-                </tr>
+            <tr>
+                <td class="service-name">
+                    Dywan długi włos
+                </td>
+                <td class="service-price">
+                    10 - 15 zł m2
+                </td>
+            </tr>
 
-                <tr>
-                    <td class="service-name">
-                        Pranie fotelika samochodowego
-                        <span class="sub-info">- standardowy rozmiar dla większych już dzieci </span>
-                    </td>
-                    <td class="service-price">
-                        70 - 90 zł
-                    </td>
-                </tr>
+            </tbody>
+        </table>
 
-                <tr class="no-border">
-                    <th colspan="3">
-                        <h3><strong>PRANIE TAPICERKI SAMOCHODOWEJ I CZYSZCZENIE</strong></h3>
-                    </th>
-                </tr>
+        <div class="order-box">
+            <a class="order-btn box-shadow" href="{{ route('kontakt') }}">Zamawiam pranie dywanu lub wykładziny <i class="fas fa-angle-right"></i></a>
+        </div>
+
+                
+        <h3><strong>PRANIE / CZYSZCZENIE RÓŻNE</strong></h3>
+
+        <table class="price-table">
+            <tbody>
+
+            <tr>
+                <td class="service-name">
+                    Pranie wózka dziecięcego 3 w 1 
+                    <span class="sub-info">- 3 moduły (gondola, spacerówka, skorupka - fotelik dla noworodka) </span>
+                </td>
+                <td class="service-price">
+                    120 - 150zł
+                </td>
+            </tr>
+
+            <tr>
+                <td class="service-name">
+                    Pranie wózka dziecięcego 2 w 1 
+                    <span class="sub-info">- 2 moduły (gondola, spacerówka) </span>
+                </td>
+                <td class="service-price">
+                    100 - 130zł
+                </td>
+            </tr>
+
+            <tr>
+                <td class="service-name">
+                    Pranie fotelika samochodowego
+                    <span class="sub-info">- standardowy rozmiar dla większych już dzieci </span>
+                </td>
+                <td class="service-price">
+                    70 - 90 zł
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+        <div class="order-box">
+            <a class="order-btn box-shadow" href="{{ route('kontakt') }}">Zamawiam <i class="fas fa-angle-right"></i></a>
+        </div>
+
+
+            <h3><strong>PRANIE TAPICERKI SAMOCHODOWEJ I CZYSZCZENIE</strong></h3>
+
+            <table class="price-table">
+                <tbody>
 
                 <tr>
                     <td class="service-name">
@@ -338,9 +364,7 @@
                     </td>
                 </tr>
 
-                
-
-
+            
                 <tr>
                     <td class="service-name">
                         <strong>SAMOCHODY ŚREDNIE</strong>
@@ -350,8 +374,6 @@
                         
                     </td>
                 </tr>    
-
-                
 
                 <tr>
                     <td class="service-name">
@@ -391,6 +413,10 @@
                 </tr>
             </tbody>
         </table>
+
+        <div class="order-box">
+            <a class="order-btn box-shadow" href="{{ route('kontakt') }}">Zamawiam pranie tapicerki samochodowej <i class="fas fa-angle-right"></i></a>
+        </div>
         </div>
 </div>
 </div>

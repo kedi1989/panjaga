@@ -9,6 +9,8 @@
             <h2 class="big-header"><span class="header-gap"></span>GALERIA REALIZACJI</h2>
         </div>
 
+        <div class="content-container">
+            
         <div class="gallery-container">
             <h3 class="medium-header">
                 <span class="header-gap"></span>TAPICERKA MEBLOWA
@@ -29,7 +31,7 @@
                 for ($i = 1; $i < 31; $i++):
             @endphp
                 <a href="images/gallery/TapicerkaMeblowa/{{$i}}.jpg" data-lightbox="meble" data-title="Tapicerka Meblowa">
-                    <img src="images/gallery/TapicerkaMeblowa/Thumbnails/{{$i}}.jpg" alt="Pranie tapicekri meblowej, usuwanie plam i niemiłego zapachu">
+                    <img class="box-shadow" src="images/gallery/TapicerkaMeblowa/Thumbnails/{{$i}}.jpg" alt="Pranie tapicekri meblowej, usuwanie plam i niemiłego zapachu">
                 </a>
             @php
                 endfor;
@@ -54,7 +56,7 @@
                 for ($i = 1; $i < 8; $i++):
             @endphp
                 <a href="images/gallery/Dywany/{{$i}}.jpg" data-lightbox="dywany" data-title="Dywany i Wykładziny">
-                    <img src="images/gallery/Dywany/Thumbnails/{{$i}}.jpg" alt="Pranie dywanów i wykładzin, usuwanie niemiłego zapachu">
+                    <img class="box-shadow" src="images/gallery/Dywany/Thumbnails/{{$i}}.jpg" alt="Pranie dywanów i wykładzin, usuwanie niemiłego zapachu">
                 </a>
             @php
                 endfor;
@@ -80,7 +82,7 @@
                 for ($i = 1; $i < 9; $i++):
             @endphp
                 <a href="images/gallery/Materace/{{$i}}.jpg" data-lightbox="materace" data-title="Materace">
-                    <img src="images/gallery/Materace/Thumbnails/{{$i}}.jpg" alt="Pranie materacy i usuwanie roztoczy">
+                    <img class="box-shadow" src="images/gallery/Materace/Thumbnails/{{$i}}.jpg" alt="Pranie materacy i usuwanie roztoczy">
                 </a>
             @php
                 endfor;
@@ -106,7 +108,7 @@
                 for ($i = 1; $i < 15; $i++):
             @endphp
                 <a href="images/gallery/Samochody/{{$i}}.jpg" data-lightbox="samochody" data-title="Samochody">
-                    <img src="images/gallery/Samochody/Thumbnails/{{$i}}.jpg" alt="Pranie tapicerki samochodowej, czyszczenie i ozonowanie pojazdów">
+                    <img class="box-shadow" src="images/gallery/Samochody/Thumbnails/{{$i}}.jpg" alt="Pranie tapicerki samochodowej, czyszczenie i ozonowanie pojazdów">
                 </a>
             @php
                 endfor;
@@ -115,6 +117,7 @@
         </div>
         </div>
         </div>
+            </div>
             
         <script>
             lightbox.option({

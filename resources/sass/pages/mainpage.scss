@@ -186,9 +186,13 @@
 
 .our-projects-container {
     .projects-slide {
-        border: 2px solid #fbb26b;
-        border-radius: 10px;
-        height: 300px;
+
+        img {
+            width: 100%;
+            height: auto;
+            border: 2px solid #fbb26b;
+            border-radius: 10px;
+        }
     }
 }
 
@@ -207,3 +211,39 @@
         }
     }
 }
+
+.why-us-boxes-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    width: calc(100% - 20px);
+    .why-us-single-box {
+        width: 25%;
+        padding: 20px;
+        border: 1px solid #fbb26b47;
+        margin: 10px 0 20px 0;
+        h3 {
+            font-weight: 600;
+            font-family: 'Quicksand', sans-serif;
+            font-size: 18px;
+            padding-left: 60px;
+            position: relative;
+            margin: 10px 0 0 0;
+            i {
+                font-size: 35px;
+                color: #fbb26b;
+                position: absolute;
+                left: 0px;
+                top: -5px;
+            }
+        }
+        p {
+            margin: 25px 0 10px 0;
+            font-size: 14px;
+            padding-bottom: 0;
+            text-align: justify;
+        }
+    }
+}
+

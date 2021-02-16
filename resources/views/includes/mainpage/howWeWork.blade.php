@@ -5,7 +5,7 @@
         <div class="howwework-service-box">
             <div class="left-side-content">
                 <div class="howwework-service-video-box">
-                    <iframe loading="lazy" width="340" height="600" src="https://www.youtube.com/embed/aBwijTKvEaY" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe async loading="lazy" width="340" height="600" src="https://www.youtube.com/embed/aBwijTKvEaY" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
             <div class="right-side-content">
@@ -30,7 +30,7 @@
 
             <div class="left-side-content">
                 <div class="howwework-service-video-box">
-                    <iframe loading="lazy" width="340" height="600" src="https://www.youtube.com/embed/H-Gh5iiylw8" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe async loading="lazy" width="340" height="600" src="https://www.youtube.com/embed/H-Gh5iiylw8" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
             <div class="right-side-content">
@@ -53,7 +53,7 @@
         <div class="howwework-service-box">
             <div class="left-side-content">
                 <div class="howwework-service-video-box">
-                    <iframe loading="lazy" width="340" height="600" src="https://www.youtube.com/embed/C1I_hcWRW5g" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe  loading="lazy" width="340" height="600" src="https://www.youtube.com/embed/C1I_hcWRW5g" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
             <div class="right-side-content">

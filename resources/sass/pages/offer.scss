@@ -142,17 +142,25 @@
         width: 50%;
         li {
             font-size: 16px;
-            font-weight: 500;
+            font-weight: 600;
             padding: 5px 0;
+            position: relative;
+            &:before {
+                content: '- ';
+                position: absolute;
+                left: -7px;
+            }
         }
     }
 }
 
 .offer-images-container {
+    
     .offer-images-box {
         display: flex;
         justify-content: space-between;
         margin: 10px 0;
+        position: relative;
     
         img {
             width: 45%;
@@ -168,7 +176,32 @@
 
         }
     }
+    .more-realizations-box {
+        position: absolute;
+        width: 0px;
+        height: 0px;
+        border-top: 60px solid transparent;
+        border-bottom: 60px solid transparent;
+        border-left: 60px solid #E77843;
+        transform: rotate(45deg);
+        right: -20px;
+        bottom: -50px;
+        a {
+            position: absolute;
+            transform: rotate(-91deg);
+            left: -69px;
+            top: -7px;
+            letter-spacing: 1px;
+            font-size: 12px;
+            color: #fff;
+            font-family: "Quicksand", sans-serif;
+            font-weight: 700;
+        }
+
+    }
 }
+
+
 
 
 

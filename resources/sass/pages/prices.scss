@@ -1,4 +1,15 @@
 .prices-container {
+    h3 {
+        margin: 25px 0 15px 0;
+        text-align: center;
+        font-size: 22px;
+        color: #000;
+        line-height: 20px;
+        font-weight: normal;
+        padding: 0px 0px 10px 0px;
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 700;
+    }
     .price-table {
         width: 80%;
         margin: 20px auto;
@@ -10,21 +21,6 @@
 
         td {
             padding: 2px 0;
-        }
-
-        th {
-            text-align: center;
-            font-size: 22px;
-            color: #000;
-            line-height: 20px;
-            font-weight: normal;
-            padding: 0px 0px 10px 0px;
-            font-family: 'Quicksand', sans-serif;
-            font-weight: 700;
-        }
-
-        h3 {
-            margin: 25px 0 15px 0;
         }
 
         .service-name {
@@ -57,4 +53,34 @@
             font-style: italic;
         }
     }
+
+
+    .order-box {
+        text-align: center;
+        .order-btn {
+            background: #fbb26b;
+            padding: 12px 60px 12px 30px;
+            position: relative;
+            border-radius: 5px;
+            border: 1px solid #fbb26b;
+            display: inline-block;
+            margin: 40px auto;
+            padding: 15px 50px 15px 30px;
+            font-family: "Quicksand", sans-serif;
+            font-size: 15px;
+            font-weight: 600;
+            color: #000;
+                i {
+                    position: absolute;
+                    right: 20px;
+                    font-size: 30px;
+                    position: absolute;
+                    top: 50%;
+                    transform: translateY(-50%);
+                }
+            
+        }
+    }
+
+    
 }

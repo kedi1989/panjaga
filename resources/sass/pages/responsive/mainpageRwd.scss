@@ -60,11 +60,17 @@
         }
     }
 
-    .our-projects-container {
-        .projects-slide {
-            height: 170px;
+    .why-us-boxes-container {
+        width: calc(100% - 20px);
+        .why-us-single-box {
+            width: 40%;
+            h3 {
+                font-size: 16px;
+                padding-left: 50px;
+            }
         }
     }
+
  }
 
 //  TABLET END
@@ -172,6 +178,17 @@
         .chem-logo-box {
             width: 80%;
             margin: 10px auto;
+        }
+    }
+
+    .why-us-boxes-container {
+        width: calc(100% - 20px);
+        .why-us-single-box {
+            width: 100%;
+            h3 {
+                font-size: 16px;
+                padding-left: 50px;
+            }
         }
     }
 }

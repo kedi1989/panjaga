@@ -5,7 +5,7 @@
 
 @section('content')
 
-        <div class="offer-banner-commercial carpet-cleaning-background">
+        <div class="offer-banner-commercial carpet-cleaning-background box-shadow">
           <div class="description-box">
             <h1>Czyszczenie dywanów i wykładzin</h1>
             <div class="description-banner-body">Metodą ekstrakcyjną</div>
@@ -13,6 +13,7 @@
         </div>
 
         <div class="content-container">
+        @include('includes.components.covid19Info') 
           <div class="single-offer-container">
             
 
@@ -29,6 +30,8 @@
               </ul>
             </div> -->
 
+            
+
             <div class="offer-box">
 
                 <h2 class="padding-top-0"><strong>Profesjonalne czyszczenie dywanów- na czym polega?</strong></h2>
@@ -37,13 +40,19 @@
 
                   <div class="offer-images-container">
                     <div class="offer-images-box">
-                      <img loading="lazy" src="../images/gallery/Dywany/1.jpg" alt="Wyczyszczona wykładzina podłogowa to zdrowie, komfort i nowy miły zapach">
-                      <img loading="lazy" src="../images/gallery/Dywany/4.jpg" alt="Stary wyczyszczony dywan- po wyczyszczeniu pojawił się pierwotny wzór i dodatkowe liście :)">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Dywany/1.jpg" alt="Wyczyszczona wykładzina podłogowa to zdrowie, komfort i nowy miły zapach">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Dywany/4.jpg" alt="Stary wyczyszczony dywan- po wyczyszczeniu pojawił się pierwotny wzór i dodatkowe liście :)">
+                      <div class="more-realizations-box">
+                      <a href="{{ route('realizacje') }}">
+                        GALERIA
+                      </a>
+                    </div>
                     </div>
                     <div class="offer-images-info">
                       <p>1. Wyczyszczona wykładzina podłogowa to zdrowie, komfort i nowy miły zapach</p>
                       <p>2. Stary wyczyszczony dywan- po wyczyszczeniu pojawił się pierwotny wzór i dodatkowe liście :)</p>
                     </div>
+                    
                   </div>
 
                 <h2><strong>Pranie dywanów i wykładzin- od czego zaczynamy?</strong></h2>
@@ -52,13 +61,19 @@
 
                   <div class="offer-images-container">
                     <div class="offer-images-box">
-                      <img loading="lazy" src="../images/gallery/Dywany/2.jpg" alt="Stary dywan o ciekawym wzorze odzyskał dawną formę. Nie trzeba go wyrzucać">
-                      <img loading="lazy" src="../images/gallery/Dywany/3.jpg" alt="Różnic nie trzeba nawet omawiać bo widać je gołym okiem- świeży zapach, usunięty brud, roztocza, bakterie, odzyskany kolor i gładkość">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Dywany/2.jpg" alt="Stary dywan o ciekawym wzorze odzyskał dawną formę. Nie trzeba go wyrzucać">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Dywany/3.jpg" alt="Różnic nie trzeba nawet omawiać bo widać je gołym okiem- świeży zapach, usunięty brud, roztocza, bakterie, odzyskany kolor i gładkość">
+                      <div class="more-realizations-box">
+                      <a href="{{ route('realizacje') }}">
+                        GALERIA
+                      </a>
+                    </div>
                     </div>
                     <div class="offer-images-info">
                       <p>1. Stary dywan o ciekawym wzorze odzyskał dawną formę. Nie trzeba go wyrzucać</p>
                       <p>2. Różnic nie trzeba nawet omawiać bo widać je gołym okiem- świeży zapach, usunięty brud, roztocza, bakterie, odzyskany kolor i gładkość</p>
                     </div>
+                    
                   </div>
 
                 <h2><strong>Co można zyskać dzięki profesjonalnemu praniu dywanów i czyszczeniu wykładzin?</strong></h2>
@@ -67,13 +82,19 @@
 
                   <div class="offer-images-container">
                       <div class="offer-images-box">
-                        <img loading="lazy" src="../images/gallery/Dywany/5.jpg" alt="Małe dywaniki też warto prać w szczególności jeśli w domu mamy alergików">
-                        <img loading="lazy" src="../images/gallery/Dywany/7.jpg" alt="Świeży i odplamiony">
+                        <img class="box-shadow" loading="lazy" src="../images/gallery/Dywany/5.jpg" alt="Małe dywaniki też warto prać w szczególności jeśli w domu mamy alergików">
+                        <img class="box-shadow" loading="lazy" src="../images/gallery/Dywany/7.jpg" alt="Świeży i odplamiony">
+                        <div class="more-realizations-box">
+                      <a href="{{ route('realizacje') }}">
+                        GALERIA
+                      </a>
+                    </div>
                       </div>
                       <div class="offer-images-info">
                         <p>1. Małe dywaniki też warto prać w szczególności jeśli w domu mamy alergików</p>
                         <p>2. Świeży i odplamiony</p>
                       </div>
+                      
                   </div>
 
                 <h2><strong>Pranie wykładzin i dywanów- jak skorzystać z naszych usług?</strong></h2>

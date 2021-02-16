@@ -22,6 +22,10 @@ strong {
     padding-top: 0 !important;
 }
 
+.main-container {
+    padding: 100px 0 0 0;
+}
+
 .content-container {
     width: calc(80% - 180px);
     min-width: 1180px;
@@ -63,7 +67,23 @@ strong {
     }
 }
 
+.box-shadow{
+    -webkit-box-shadow: 0px 10px 19px 0px rgba(0,0,0,0.26);
+    -moz-box-shadow: 0px 10px 19px 0px rgba(0,0,0,0.26);
+    box-shadow: 0px 10px 19px 0px rgba(0,0,0,0.26);
+}
 
+.warning-box {
+    p {
+        width: 80%;
+        font-size: 13px;
+        font-weight: 700;
+        color: red;
+        padding: 0 0 0 0;
+        margin: 20px auto 0 auto;
+    }
+    
+}
 
 .service-contact-container {
     width: 100%;

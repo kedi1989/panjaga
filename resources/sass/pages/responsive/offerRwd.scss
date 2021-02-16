@@ -1,0 +1,42 @@
+//  MOBILE START
+
+ @media (max-width: 767px) {
+    
+    .cities-offer-box {
+        ul {
+            width: 33%;
+            li {
+                font-size: 13px;
+                font-weight: 700;
+                padding: 5px 0;
+                word-break: break-word;
+            }
+        }
+    }
+
+    .offer-images-container {
+        .offer-images-box {
+            flex-wrap: wrap;
+            img {
+                width: 90%;
+                margin: 10px auto;
+            }
+        }
+
+
+
+
+        .more-realizations-box {
+            right: 0px;
+            bottom: -45px;
+        }
+
+
+
+
+
+    }
+    
+}
+
+// MOBILE END

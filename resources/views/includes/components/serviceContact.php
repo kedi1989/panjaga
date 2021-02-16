@@ -1,4 +1,4 @@
-<div class="service-contact-container">
+<div class="service-contact-container box-shadow">
     <div class="content-container">
         <div class="service-contact-box">
             <div class="left-side-content">

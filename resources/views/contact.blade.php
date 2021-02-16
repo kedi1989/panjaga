@@ -9,11 +9,14 @@
             <h2 class="big-header"><span class="header-gap"></span>KONTAKT</h2>
         </div>
 
-        <div class="contact-container">
-            <div class="contact-box">
-                <p>SKONTAKTUJ SIĘ Z NAMI:</p>
-                <p>TEL: 790-462-146</p>
-                <p>FACEBOOK: <a href="https://www.facebook.com/PANJAGAKARCHER">https://www.facebook.com/PANJAGAKARCHER</a></p>
+        <div class="content-container">
+        @include('includes.components.covid19Info')
+            <div class="contact-container">
+                <div class="contact-box">
+                    <p>SKONTAKTUJ SIĘ Z NAMI:</p>
+                    <p>TEL: 790-462-146</p>
+                    <p>FACEBOOK: <a href="https://www.facebook.com/PANJAGAKARCHER">LINK</a></p>
+                </div>
             </div>
         </div>
 

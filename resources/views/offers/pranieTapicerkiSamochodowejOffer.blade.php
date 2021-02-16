@@ -5,7 +5,7 @@
 
 @section('content')
 
-        <div class="offer-banner-commercial car-seat-textile-cleaning-background">
+        <div class="offer-banner-commercial car-seat-textile-cleaning-background box-shadow">
           <div class="description-box">
             <h1>Pranie tapicerki samochodowej</h1>
             <div class="description-banner-body">Metodą ekstrakcyjną</div>
@@ -13,6 +13,7 @@
         </div>
 
         <div class="content-container">
+        @include('includes.components.covid19Info') 
           <div class="single-offer-container">
 
           <div class="other-offers-container">
@@ -43,13 +44,19 @@
                 
                   <div class="offer-images-container">
                     <div class="offer-images-box">
-                      <img loading="lazy" src="../images/gallery/Samochody/4.jpg" alt="Pranie podłogi w FORD GALAXY">
-                      <img loading="lazy" src="../images/gallery/Samochody/5.jpg" alt="Pranie i czyszczenie kabiny ciężarówki (czasem trzeba sobie pomóc szczotką na wiertarce :) )">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/4.jpg" alt="Pranie podłogi w FORD GALAXY">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/5.jpg" alt="Pranie i czyszczenie kabiny ciężarówki (czasem trzeba sobie pomóc szczotką na wiertarce :) )">
+                      <div class="more-realizations-box">
+                      <a href="{{ route('realizacje') }}">
+                        GALERIA
+                      </a>
+                    </div>
                     </div>
                     <div class="offer-images-info">
                       <p>1. Pranie podłogi w FORD GALAXY</p>
                       <p>2. Pranie i czyszczenie kabiny ciężarówki (czasem trzeba sobie pomóc szczotką na wiertarce :) )</p>
                     </div>
+                    
                   </div>
 
                 <h2><strong>Dlaczego należy unikać samodzielnego prania tapicerki auta?</strong></h2>
@@ -62,8 +69,13 @@
 
                   <div class="offer-images-container">
                     <div class="offer-images-box">
-                      <img loading="lazy" src="../images/gallery/Samochody/8.jpg" alt="Czyszczenie tapicerki na ściance i pranie materaca w ciężarówce VOLVO">
-                      <img loading="lazy" src="../images/gallery/Samochody/13.jpg" alt="Czyszczenie kabiny i pranie materaca leżanki w ciężarówce MAN">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/8.jpg" alt="Czyszczenie tapicerki na ściance i pranie materaca w ciężarówce VOLVO">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/13.jpg" alt="Czyszczenie kabiny i pranie materaca leżanki w ciężarówce MAN">
+                      <div class="more-realizations-box">
+                      <a href="{{ route('realizacje') }}">
+                        GALERIA
+                      </a>
+                    </div>
                     </div>
                     <div class="offer-images-info">
                       <p>1. Czyszczenie tapicerki na ściance i pranie materaca w ciężarówce VOLVO</p>
@@ -79,13 +91,19 @@
 
                   <div class="offer-images-container">
                     <div class="offer-images-box">
-                      <img loading="lazy" src="../images/gallery/Samochody/7.jpg" alt="Wyczyszczony kokpit MAN">
-                      <img loading="lazy" src="../images/gallery/Samochody/12.jpg" alt="Wyprany metodą ekstrakcji fotel w ciężarówce MAN">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/7.jpg" alt="Wyczyszczony kokpit MAN">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/12.jpg" alt="Wyprany metodą ekstrakcji fotel w ciężarówce MAN">
+                      <div class="more-realizations-box">
+                      <a href="{{ route('realizacje') }}">
+                        GALERIA
+                      </a>
+                    </div>
                     </div>
                     <div class="offer-images-info">
                       <p>1. Wyczyszczony kokpit MAN</p>
                       <p>2. Wyprany metodą ekstrakcji fotel w ciężarówce MAN</p>
                     </div>
+                    
                   </div>
 
                 <h2><strong>Czyszczenie tapicerki samochodowej- jakie auta obsługujemy i jak się z nami skontaktować?</strong></h2>
@@ -96,13 +114,19 @@
 
                   <div class="offer-images-container">
                     <div class="offer-images-box">
-                      <img loading="lazy" src="../images/gallery/Samochody/3.jpg" alt="Wyprany fotel z siedziskiem dziecięcym w FORD GALAXY">
-                      <img loading="lazy" src="../images/gallery/Samochody/1.jpg" alt="Wyprany fotel pasażera w FORD GALAXY">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/3.jpg" alt="Wyprany fotel z siedziskiem dziecięcym w FORD GALAXY">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/1.jpg" alt="Wyprany fotel pasażera w FORD GALAXY">
+                      <div class="more-realizations-box">
+                      <a href="{{ route('realizacje') }}">
+                        GALERIA
+                      </a>
+                    </div>
                     </div>
                     <div class="offer-images-info">
                       <p>1. Wyprany fotel z siedziskiem dziecięcym w FORD GALAXY</p>
                       <p>2. Wyprany fotel pasażera w FORD GALAXY</p>
                     </div>
+                    
                   </div>
 
                 <h2><strong>Pranie tapicerki samochodowej - Cennik</strong></h2>
