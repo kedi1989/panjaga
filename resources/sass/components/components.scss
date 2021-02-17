@@ -165,4 +165,45 @@ strong {
     }
     }
 
+    
+
 }
+
+.social{
+	width: 292px;
+	height: 258px;
+	border: none; 
+	overflow: hidden; 
+}
+
+#face-slider{
+	position:fixed;
+	left:-302px;
+	top:208px;
+	z-index:100;
+}
+
+#face-slider .tab{
+	cursor:pointer;
+	width:35px;
+	height:110px;
+	float:right;
+	background: url(/images/facebook-slider.png) no-repeat center center;
+}
+
+#face-code{
+	padding:5px;
+	border: solid #0170cf 3px;
+	background: #fff;
+	float:left;
+	width:286px;
+	height:250px;
+	-moz-border-radius: 0 0 0 8px;
+	-webkit-border-radius: 0 0 0 8px;
+	border-radius: 0 0 0 8px;
+}
+
+.sharethis-inline-share-buttons {
+    padding: 10px 0;
+}
+

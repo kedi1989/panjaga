@@ -32,7 +32,7 @@
 
     @include('includes.mainpage.whyUs')
 
-    <!-- @include('includes.mainpage.blogArticles') -->
+    @include('includes.mainpage.blogArticles')
 
     @include('includes.mainpage.ourProjects')
 

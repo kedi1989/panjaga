@@ -20,7 +20,7 @@
 
             <div class="why-us-single-box box-shadow">
                 <h3><i class="fas fa-check"></i>ATRAKCYJNE CENY USŁUG PIORĄCO-CZYSZCZĄCYCH</h3>
-                <p>Wszystkie usługi <strong>czyszczenia wykładzin, dywanów</strong>, <strong>prania tapicerek samochodowych i meblowych</strong> mamy w bardzo atrakcyjnych cenach. Dajemy również <strong>promocje i żniżki</strong> stałym klientom lub przy większych zamówieniach na nasze <strong>usługi piorąco-czyszcące</strong> </p>
+                <p>Wszystkie usługi <strong>czyszczenia wykładzin, dywanów</strong>, <strong>prania tapicerek samochodowych i meblowych</strong> mamy w bardzo atrakcyjnych cenach. Dajemy również <strong>promocje i żniżki</strong> stałym klientom lub przy większych zamówieniach na nasze <strong>usługi piorąco-czyszcące</strong>. </p>
             </div>
 
             <div class="why-us-single-box box-shadow">
@@ -30,7 +30,7 @@
 
             <div class="why-us-single-box box-shadow">
                 <h3><i class="fas fa-check"></i>GWARANCJA ZADOWOLENIA Z USŁUGI</h3>
-                <p>Twoje zadowolenie jest dla nas najważniejsze. Zdajemy sobie sprawę, że możesz nie wiedzieć <strong>jak wyprać meble tapicerowane</strong> czy też<strong>jak wyprać dywan</strong>. Zlecając nam usługę wiemy, że obdarzasz nas zaufaniem a my staramy się sprostać twoim oczekiwaniom.</p>
+                <p>Twoje zadowolenie jest dla nas najważniejsze. Zdajemy sobie sprawę, że możesz nie wiedzieć <strong>jak wyprać meble tapicerowane</strong> czy też <strong>jak wyprać dywan</strong>. Zlecając nam usługę wiemy, że obdarzasz nas zaufaniem a my staramy się sprostać twoim oczekiwaniom.</p>
             </div>
 
         </div>

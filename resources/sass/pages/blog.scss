@@ -21,6 +21,7 @@
             h3 {
                 font-family: 'Quicksand', sans-serif;
                 font-size: 22px;
+                line-height: 24px;
                 color: #000;
                 font-weight: 700;
                 margin: 10px 0;
@@ -108,6 +109,14 @@
         padding: 20px 0 5px 0;
     }
 
+    h3 {
+        font-family: 'Quicksand', sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 20px;
+        padding: 20px 0 5px 0;
+    }
+
     .post-published-date {
         font-family: 'Quicksand', sans-serif;
         font-size: 16px;
@@ -117,5 +126,33 @@
 
     p {
         padding: 10px 0;
+    }
+
+    .inner-article-image-container {
+        margin: 20px 0;
+        .inner-article-image-box {
+            img {
+                width: 100%;
+            }
+        }
+
+        .article-image-description-box {
+            p {
+                font-family: "Quicksand", sans-serif;
+                font-style: italic;
+                padding: 15px 0 0 0;
+            }
+        }
+    }
+}
+
+.blog-cities-box {
+    margin: 30px 0 0 0;
+    h2 {
+        font-family: 'Quicksand', sans-serif;
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 30px;
+        padding: 20px 0 5px 0;
     }
 }

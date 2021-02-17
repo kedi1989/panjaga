@@ -13,6 +13,7 @@
     @endif
 
     <title>@yield('title')</title>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=602d459ca0614500138d9390&product=inline-share-buttons" async="async"></script>
     <meta name="description" content="@yield('description')">
     <meta name="keywords" content="@yield('keywords')">
 

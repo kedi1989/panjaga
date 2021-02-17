@@ -49,9 +49,17 @@ Route::get('oferta/pranie-wykladzin-i-dywanow', function () {
     return view('offers/pranieDywanowWykladzinOffer');
 })->name('pranie-dywanow-wykladzin');
 
-// Route::get('/pranie-wykladziny-odkurzaczem-pioracym', function () {
-//     return view('articles/singlearticle');
-// });
+Route::get('blog/jak-prac-tapicerke-meblowa', function () {
+    return view('articles/article_1');
+})->name('article_1');
+
+Route::get('blog/jak-prac-materac', function () {
+    return view('articles/article_2');
+})->name('article_2');
+
+Route::get('blog/jak-prac-tapicerke-samochodowa', function () {
+    return view('articles/article_3');
+})->name('article_3');
 
 // Route::get('/offer', function () {
 //     return view('articles/singleoffer');
