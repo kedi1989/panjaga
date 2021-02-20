@@ -9,7 +9,7 @@
           <div class="blog-article-container">
             
           <div class="article-box">
-              <h1>Jak prać materac ?</h1>
+              <h1>Jak prać materac ? Zdrowy sen bez alergii.</h1>
               <p class="post-published-date">Lut 17, 2021 | Pranie Materaca</p>
               <div class="article-image">
                 <img class="box-shadow" src="{{ URL::asset('images/blog/articles/2/mattress.jpg') }}" alt="łóżko z materacem" />
@@ -18,18 +18,13 @@
               
               <h2><strong>Pranie materaca w domu- domowym sposobem</strong></h2>
               
-              
-
+            
               <h3><strong>Profesjonalne czyszczenie materacy</strong></h3>
 
               <h3><strong>Pranie materaca cena</strong></h3>
 
               <p><strong>Ile kosztuje pranie materaca</strong> ?</p>
 
-
-              
-              
-              
 
               <!-- <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
@@ -39,6 +34,9 @@
                     </div>
                   </div>
               </div> -->
+
+
+              
               
               
           </div>

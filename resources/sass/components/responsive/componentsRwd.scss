@@ -113,6 +113,13 @@
             }
         }
     }
+
+    #face-slider{
+        position:fixed;
+        left:-302px;
+        top:100px;
+        z-index:100;
+    }
 }
 
 // MOBILE END

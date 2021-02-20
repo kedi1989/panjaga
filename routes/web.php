@@ -33,6 +33,10 @@ Route::get('/o-nas', function () {
     return view('aboutus');
 })->name('o-nas');
 
+Route::get('/blog', function () {
+    return view('blog');
+})->name('blog');
+
 Route::get('/najczesciej-zadawane-pytania', function () {
     return view('faq');
 })->name('faq');
@@ -53,14 +57,22 @@ Route::get('blog/jak-prac-tapicerke-meblowa', function () {
     return view('articles/article_1');
 })->name('article_1');
 
-Route::get('blog/jak-prac-materac', function () {
-    return view('articles/article_2');
-})->name('article_2');
+// Route::get('blog/jak-prac-materac', function () {
+//     return view('articles/article_2');
+// })->name('article_2');
 
 Route::get('blog/jak-prac-tapicerke-samochodowa', function () {
     return view('articles/article_3');
 })->name('article_3');
 
-// Route::get('/offer', function () {
-//     return view('articles/singleoffer');
-// });
+// Route::get('blog/usuwanie-plam', function () {
+//     return view('articles/article_4');
+// })->name('article_4');
+
+// Route::get('blog/czyszczenie-wozka-dzieciecego', function () {
+//     return view('articles/article_5');
+// })->name('article_5');
+
+// Route::get('blog/pranie-dywanow-i-wykladzin', function () {
+//     return view('articles/article_6');
+// })->name('article_6');

@@ -6,7 +6,7 @@
 @section('content')
         
         <div class="content-container">
-            <h2 class="big-header"><span class="header-gap"></span>GALERIA REALIZACJI</h2>
+            <h1 class="big-header"><span class="header-gap"></span>GALERIA REALIZACJI</h1>
         </div>
 
         <div class="content-container">

@@ -6,7 +6,7 @@
 @section('content')
         
         <div class="content-container">
-            <h2 class="big-header"><span class="header-gap"></span>NAJCZĘŚCIEJ ZADAWANE PYTANIA</h2>
+            <h1 class="big-header"><span class="header-gap"></span>NAJCZĘŚCIEJ ZADAWANE PYTANIA</h1>
         </div>
 
         <div class="faq-container">

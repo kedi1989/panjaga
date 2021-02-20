@@ -1,13 +1,16 @@
 .blog-articles-list-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin: 20px auto;
+    flex-wrap: wrap;
+
     article {
         border-radius: 10px;
         border: 1px solid #ffffff;
         width: 30%;
         box-shadow: 0px 14px 41px -34px #457b9d;
         height: 100%;
+        margin: 0 0 20px 0;
 
         .blog-image-wrapper {
             width: 100%;
@@ -55,7 +58,7 @@
 }
 
 .blog-article-container {
-    padding-top: 40px;
+    padding-top: 60px;
     display: flex;
     
     .article-box {
@@ -121,7 +124,7 @@
         font-family: 'Quicksand', sans-serif;
         font-size: 16px;
         font-style: italic;
-        padding: 15px 0;
+        padding: 15px 0 0 0;
     }
 
     p {

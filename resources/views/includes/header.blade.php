@@ -24,6 +24,7 @@
                     </li>
                     <li><a href="{{ route('cennik') }}">CENNIK</a></li>
                     <li><a href="{{ route('realizacje') }}">REALIZACJE</a></li>
+                    <li><a href="{{ route('blog') }}">BLOG</a></li>
                     <li><a href="{{ route('faq') }}">FAQ</a></li>
                     <li><a href="{{ route('o-nas') }}">O NAS</a></li>
                     <li><a href="{{ route('kontakt') }}">KONTAKT</a></li>            
@@ -59,6 +60,7 @@
                         </div>
                         <div class="menu__item"><a href="{{ route('cennik') }}">CENNIK</a></div>
                         <div class="menu__item"><a href="{{ route('realizacje') }}">REALIZACJE</a></div>
+                        <div class="menu__item"><a href="{{ route('blog') }}">BLOG</a></div>
                         <div class="menu__item"><a href="{{ route('faq') }}">FAQ</a></div>
                         <div class="menu__item"><a href="{{ route('o-nas') }}">O NAS</a></div>
                         <div class="menu__item"><a href="{{ route('kontakt') }}">KONTAKT</a></div>
