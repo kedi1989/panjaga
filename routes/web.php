@@ -73,6 +73,6 @@ Route::get('blog/jak-prac-tapicerke-samochodowa', function () {
 //     return view('articles/article_5');
 // })->name('article_5');
 
-// Route::get('blog/pranie-dywanow-i-wykladzin', function () {
-//     return view('articles/article_6');
-// })->name('article_6');
+Route::get('blog/pranie-dywanow-i-wykladzin', function () {
+    return view('articles/article_6');
+})->name('article_6');

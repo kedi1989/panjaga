@@ -69,7 +69,7 @@
                 </a>
             </article>
 
-            <!-- <article class="article-container">
+            <article class="article-container">
                 <a href="">
                     <div class="blog-image-wrapper">
                         <img loading="lazy" src="{{ URL::asset('images/blog/articles/4/stain.jpg') }}"/>
@@ -85,9 +85,9 @@
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris scelerisque dignissim enim eget malesuada. Nunc non tincidunt nulla, vitae sodales lorem. Aenean ac aliquet tortor. Quisque a venenatis sapien. Etiam vulputate arcu ligula, et tincidunt tortor pharetra ut. Nullam tristique orci in libero sodales vehicula nec et eros. Quisque molestie bibendum ultrices.
                     </div>
                 </a>
-            </article> -->
+            </article>
 
-            <!-- <article class="article-container">
+            <article class="article-container">
                 <a href="">
                     <div class="blog-image-wrapper">
                         <img loading="lazy" src="{{ URL::asset('images/blog/articles/5/stroller.jpg') }}"/>
@@ -112,16 +112,16 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Pranie dywanów i wykładzin</h3>
+                            <h3>Pranie dywanów i wykładzin. Domowe sposoby i nie tylko !</h3>
                         </div>
                         <div class="post-publised-date">
                             Lut 21, 2021
                         </div>
                         <div class="post-content">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris scelerisque dignissim enim eget malesuada. Nunc non tincidunt nulla, vitae sodales lorem. Aenean ac aliquet tortor. Quisque a venenatis sapien. Etiam vulputate arcu ligula, et tincidunt tortor pharetra ut. Nullam tristique orci in libero sodales vehicula nec et eros. Quisque molestie bibendum ultrices.
+                        Chodząc po nich codziennie, rzadko zastanawiamy się co tak naprawdę się w nich znajduje. Roztocza, wirusy, bakterie, błoto z butów... O ile ubrania pierzemy kilka razy w tygodniu to dywany i wykładziny o wiele rzadziej. Jak odświeżyć dywan ? Jakie są domowe sposoby na czyszczenie dywanu ? O tym w dalszej części artykułu.
                     </div>
                 </a>
-            </article> -->
+            </article>
             
           </div>
           </div>

@@ -1138,6 +1138,12 @@ footer p {
   font-weight: 700;
   font-family: "Quicksand", sans-serif;
 }
+.main-banner-title h2 {
+  font-size: 22px;
+  padding: 20px;
+  font-weight: 700;
+  font-family: "Quicksand", sans-serif;
+}
 
 .service-container {
   display: flex;
@@ -1392,6 +1398,10 @@ footer p {
   .main-banner .main-banner-title .title-box h1 {
     font-size: 20px;
     line-height: 24px;
+  }
+  .main-banner .main-banner-title .title-box h2 {
+    font-size: 18px;
+    line-height: 22px;
   }
 
   .service-container {
