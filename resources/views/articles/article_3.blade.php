@@ -117,7 +117,9 @@
           <div class="newest-articles-box">
             <h4>Najnowsze artykuły</h4>
             <ul>
-              <li><a href="{{ route('article_1') }}">Czy da się wyprać meble ? Czyli pranie mebli tapicerowanych od środka !</a></li>
+            <li><a href="{{ route('article_1') }}">Czy da się wyprać meble ? Czyli pranie mebli tapicerowanych od środka !</a></li>
+            <li><a href="{{ route('article_3') }}">Jak prać tapicerkę samochodową ?</a></li>
+            <li><a href="{{ route('article_6') }}">Pranie dywanów i wykładzin. Domowe sposoby i nie tylko !</a></li>
             </ul>
           </div>
 

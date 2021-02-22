@@ -1,7 +1,7 @@
 @extends('layouts.master')
-        @section('title', 'PanJaga.pl - O Nas')
-        @section('description', 'Dowiedz się więcej o nas i jak możemy pomóc twojej tapicerce meblowej i samochodowej !')
-        @section('keywords', 'pranie tapicerek, panjaga.pl, pranie mebli')
+        @section('title', 'PanJaga.pl - O Nas - Pierzemy wszystko co się da! ')
+        @section('description', 'Dowiedz się więcej o nas i jak możemy pomóc twojej tapicerce meblowej i samochodowej ! Pranie i czyszczenie Karcher. Zapraszamy !')
+        @section('keywords', 'pranie tapicerek, panjaga.pl, pranie mebli, czyszczenie karcher, pranie dywanów karcher')
 
 @section('content')
         

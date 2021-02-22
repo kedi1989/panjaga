@@ -10,7 +10,7 @@
             </div>
             <div class="right-side-content">
                 <div class="howwework-text-box">
-                    <h3 class="medium-header">Pranie tapicerki samochodu</h3>
+                    <h3 class="medium-header">Pranie tapicerki samochodu Karcher</h3>
                     <p>Pozornie czysto wyglądająca <strong>tapicerka fotela kierowcy</strong> ?</p>
                     <p>Nic bardziej mylnego  :)</p>
                     <p>Korzyści z regularnego <strong>prania tapicerki samochodu</strong> to:</p>
@@ -35,7 +35,7 @@
             </div>
             <div class="right-side-content">
                 <div class="howwework-text-box">
-                    <h3 class="medium-header">Pranie tapicerki mebli</h3>
+                    <h3 class="medium-header">Pranie tapicerki mebli Karcher</h3>
                     <p>Czas na <strong>pranie tapicerki</strong> ? <strong>Pranie foteli</strong> ? <strong>Pranie kanapy</strong>?</p>
                     <p>Korzyści z regularnego <strong>prania tapicerki</strong> to:</p>
                     <ul>

@@ -1,6 +1,6 @@
 @extends('layouts.master')
-        @section('title', 'PanJaga.pl - Cennik usług prania i czyszczenia')
-        @section('description', 'Sprawdź nasze ceny prania tapicerki meblowej i samochodowej ! Skuteczne usuwanie plam i pranie w dobrej cenie !')
+        @section('title', 'PanJaga.pl - Cennik usług prania i czyszczenia Karcher')
+        @section('description', 'Sprawdź nasze ceny prania tapicerki meblowej i samochodowej ! Skuteczne usuwanie plam i pranie w dobrej cenie ! Skutecznie wypierz swój narożnik, kanapę, materac czy też fotele samochodu.')
         @section('keywords', 'cennik prania tapicerki meblowej, cennik prania tapicerki samochodowej, cennik, cennik usuwania plam, cennik prania mebli, ceny')
 
 @section('content')

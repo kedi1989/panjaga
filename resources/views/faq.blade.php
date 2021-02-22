@@ -1,6 +1,6 @@
 @extends('layouts.master')
-        @section('title', 'PanJaga.pl - Najczęściej zadawane pytania')
-        @section('description', 'Dowiedz się więcej o naszych usługach prania tapicerek i czyszczenia ! Odpowiemy na wszelkie pytania.')
+        @section('title', 'PanJaga.pl - Najczęściej zadawane pytania na temat prania tapicerek meblowych i samochodowych')
+        @section('description', 'Dowiedz się więcej o naszych usługach prania tapicerek i czyszczenia ! Odpowiemy na wszelkie pytania. Wypierz swoją kanapę, fotele samochodowe.')
         @section('keywords', 'pranie tapicerki, najczęściej zadawane pytania, pranie mebli, pranie wykładzin, cennik, ceny prania mebli')
 
 @section('content')

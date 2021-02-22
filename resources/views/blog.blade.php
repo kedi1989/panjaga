@@ -1,5 +1,5 @@
 @extends('layouts.master')
-        @section('title', 'PanJaga.pl - Blog - Dowiedz się więcej o usuwaniu plam i praniu tapicerki !')
+        @section('title', 'PanJaga.pl - Blog - Dowiedz się więcej o usuwaniu plam, praniu tapicerki, dywanów i wykładzin ! Pranie i czyszczenie Karcher. Mobilna myjnia.')
         @section('description', 'Dowiedz się więcej o praniu tapicerek, usuwaniu plam i innych. Zapraszamy na naszego bloga !')
         @section('keywords', 'pranie tapicerki, usuwanie plam, wywabianie zapachów, pranie tapicerki samochodowej, pranie tapicerki materiałowej, czyszczenie kanapy, pranie materacy')
 
@@ -32,25 +32,6 @@
                 </a>
             </article>
 
-            <!-- <article class="article-container">
-                <a href="">
-                    <div class="blog-image-wrapper">
-                        <img loading="lazy" src="{{ URL::asset('images/blog/articles/2/mattress.jpg') }}"/>
-                    </div>
-                    <div class="article-content-box">
-                        <div class="post-title">
-                            <h3>Jak prać materac ? Czemu powinniśmy to robić ? Przeczytaj</h3>
-                        </div>
-                        <div class="post-publised-date">
-                            Lut 17, 2021
-                        </div>
-                        <div class="post-content">
-                            Wielu z nas kładąc się codziennie spać nie zastanawia się nad tym czy materac się w ogóle pierze i czy da się go wyprać. Kupujemy go a następnie użytkujemy przez lata nie wiedząc, że to właśnie on może być powodem naszej alergii lub złej jakości snu. Pomóż sobie i swoim bliskim i dowiedz się więcej...
-                        </div>
-                    </div>
-                </a>
-            </article> -->
-
             <article class="article-container">
                 <a href="{{ route('article_3') }}">
                     <div class="blog-image-wrapper">
@@ -70,6 +51,63 @@
             </article>
 
             <article class="article-container">
+            <a href="{{ route('article_6') }}">
+                <div class="blog-image-wrapper">
+                    <img loading="lazy" src="{{ URL::asset('images/blog/articles/6/carpet.jpg') }}" alt="wykładzina w biurze"/>
+                </div>
+                <div class="article-content-box">
+                    <div class="post-title">
+                        <h3>Pranie dywanów i wykładzin. Domowe sposoby i nie tylko !</h3>
+                    </div>
+                    <div class="post-publised-date">
+                        Lut 22, 2021
+                    </div>
+                    <div class="post-content">
+                        Chodząc po nich codziennie, rzadko zastanawiamy się co tak naprawdę się w nich znajduje. Roztocza, wirusy, bakterie, błoto z butów... O ile ubrania, pierzemy kilka razy w tygodniu, to dywany i wykładziny o wiele rzadziej. Jak odświeżyć dywan ? Jakie są domowe sposoby na czyszczenie dywanu ? O tym, w dalszej części artykułu. 
+                    </div>
+                </div>
+                </a>
+            </article>
+
+            <article class="article-container">
+            <a href="{{ route('article_7') }}">
+                <div class="blog-image-wrapper">
+                    <img loading="lazy" src="{{ URL::asset('images/blog/articles/7/facts.jpg') }}" alt="Kolorowe farby"/>
+                </div>
+                <div class="article-content-box">
+                    <div class="post-title">
+                        <h3>Pranie i czyszczenie Karcher - Pogromcy mitów</h3>
+                    </div>
+                    <div class="post-publised-date">
+                        Lut 23, 2021
+                    </div>
+                    <div class="post-content">
+                        Wokół prania mebli i ich tapicerek a również prania dywanów i czyszczenia wykładzin np. tzw. Karcherem, krąży wiele mitów. Postaramy się je obalić w tym artykule. Przeczytaj i przekonaj się co możesz zrobić dla swojego domu bez szkody dla swoich mebli i dywanów.
+                    </div>
+                </div>
+                </a>
+            </article>
+
+            <article class="article-container">
+            <a href="{{ route('article_8') }}">
+                <div class="blog-image-wrapper">
+                    <img loading="lazy" src="{{ URL::asset('images/blog/articles/8/facts.jpg') }}" alt="Kolorowe farby"/>
+                </div>
+                <div class="article-content-box">
+                    <div class="post-title">
+                        <h3>Pranie i czyszczenie tapicerki mebli, dywanów, wykładzin w Lesznie</h3>
+                    </div>
+                    <div class="post-publised-date">
+                        Lut 23, 2021
+                    </div>
+                    <div class="post-content">
+                        Wokół prania mebli i ich tapicerek a również prania dywanów i czyszczenia wykładzin np. tzw. Karcherem, krąży wiele mitów. Postaramy się je obalić w tym artykule. Przeczytaj i przekonaj się co możesz zrobić dla swojego domu bez szkody dla swoich mebli i dywanów.
+                    </div>
+                </div>
+                </a>
+            </article>
+
+            <!-- <article class="article-container">
                 <a href="">
                     <div class="blog-image-wrapper">
                         <img loading="lazy" src="{{ URL::asset('images/blog/articles/4/stain.jpg') }}"/>
@@ -121,7 +159,7 @@
                         Chodząc po nich codziennie, rzadko zastanawiamy się co tak naprawdę się w nich znajduje. Roztocza, wirusy, bakterie, błoto z butów... O ile ubrania pierzemy kilka razy w tygodniu to dywany i wykładziny o wiele rzadziej. Jak odświeżyć dywan ? Jakie są domowe sposoby na czyszczenie dywanu ? O tym w dalszej części artykułu.
                     </div>
                 </a>
-            </article>
+            </article> -->
             
           </div>
           </div>

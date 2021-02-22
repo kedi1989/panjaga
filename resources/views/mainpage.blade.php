@@ -1,6 +1,6 @@
     @extends('layouts.master')
-        @section('title', 'PanJaga.pl - Strona Główna')
-        @section('description', 'Odśwież wygląd swojej kanapy,narożnika,samochodu i usuń z nich stare plamy! Fachowe pranie i czyszczenie tapicerek.')
+        @section('title', 'PanJaga.pl - Strona Główna - Pranie tapicerki i czyszczenie Karcher')
+        @section('description', 'Odśwież wygląd swojej kanapy,narożnika,samochodu i usuń z nich stare plamy! Fachowe pranie i czyszczenie tapicerek Karcherem i nie tylko. Pranie ekstrakcyjne w najlepszej cenie !')
         @section('keywords', 'pranie tapicerki, pranie mebli, karcher, usuwanie plam, pranie materacy, pranie dywanów i wykładzin, pranie tapicerki samochodowej, czyszczenie samochodu, sprzątanie samochodu, pranie tapicerki meblowej, pranie mebli, pranie, czyszczenie, ozonowanie, usługi czyszczące, usługi sprzątające')
 
 @section('content')

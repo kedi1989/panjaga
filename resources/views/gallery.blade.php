@@ -1,6 +1,6 @@
 @extends('layouts.master')
-        @section('title', 'PanJaga.pl - Galeria Realizacji')
-        @section('description', 'Sprawdź nasze realizacje dobrze wypranej tapicerki meblowej i samochodowej !')
+        @section('title', 'PanJaga.pl - Galeria Realizacji pranej przez nas tapicerki meblowej i samochodowej')
+        @section('description', 'Sprawdź nasze realizacje dobrze wypranej tapicerki meblowej i samochodowej ! Zdjęcia "Przed i Po" wypranej tapicerki meblowej i samochodowej')
         @section('keywords', 'realizacje prania tapicerki, galeria prania tapicerki, pranie tapicerki meblowej, pranie tapicerki samochodowej, czyszczenie, galeria, realizacje ')
 
 @section('content')

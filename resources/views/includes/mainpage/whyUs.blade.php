@@ -1,6 +1,6 @@
 <div class="why-us-container">
     <div class="content-container">
-        <h2 class="big-header"><span class="header-gap"></span>Dlaczego my ?</h2>
+        <h2 class="big-header"><span class="header-gap"></span>Usługi Prania i Czyszczenia Karcher. Dlaczego my ?</h2>
         
         <div class="why-us-boxes-container">
             <div class="why-us-single-box box-shadow">

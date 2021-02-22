@@ -76,3 +76,11 @@ Route::get('blog/jak-prac-tapicerke-samochodowa', function () {
 Route::get('blog/pranie-dywanow-i-wykladzin', function () {
     return view('articles/article_6');
 })->name('article_6');
+
+Route::get('blog/pranie-i-czyszczenie-karcher-pogromcy-mitow', function () {
+    return view('articles/article_7');
+})->name('article_7');
+
+Route::get('blog/pranie-mebli-dywanow-i-wykladzin-karcher-leszno', function () {
+    return view('articles/article_8');
+})->name('article_8');

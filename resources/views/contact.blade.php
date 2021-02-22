@@ -1,7 +1,7 @@
 @extends('layouts.master')
-        @section('title', 'PanJaga.pl - Kontakt z nami')
-        @section('description', 'Skontaktuj się z nami i wypierz swoją tapicerkę meblową lub samochodową ! Skutecznie i tanio !')
-        @section('keywords', 'Kontakt pranie tapicerki, pranie tapicerek, czyszczenie tapicerek,')
+        @section('title', 'PanJaga.pl - Kontakt z nami - Mobilna myjnia twojego domu to my !')
+        @section('description', 'Skontaktuj się z nami i wypierz swoją tapicerkę meblową lub samochodową ! Skutecznie i tanio ! Mobilna myjnia twojego domu to my !')
+        @section('keywords', 'Kontakt pranie tapicerki, pranie tapicerek, czyszczenie tapicerek, mobilna myjnia')
 
 @section('content')
         

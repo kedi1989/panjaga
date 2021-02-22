@@ -59,24 +59,24 @@
             </a>
         </article>
 
-        <!-- <article class="article-container">
-            <a href="">
+        <article class="article-container">
+            <a href="{{ route('article_6') }}">
                 <div class="blog-image-wrapper">
-                    <img loading="lazy" src="{{ URL::asset('images/blog/articles/4/stain.jpg') }}"/>
+                    <img loading="lazy" src="{{ URL::asset('images/blog/articles/6/carpet.jpg') }}" alt="wykładzina w biurze"/>
                 </div>
                 <div class="article-content-box">
                     <div class="post-title">
-                        <h3>Jak prać tapicerkę samochodową ? Czyszczenie tapicerki samochodowej w pigułce.</h3>
+                        <h3>Pranie dywanów i wykładzin. Domowe sposoby i nie tylko !</h3>
                     </div>
                     <div class="post-publised-date">
-                        Lut 18, 2021
+                        Lut 22, 2021
                     </div>
                     <div class="post-content">
-                    Dla niektórych samochód osobowy, kabina ciężarówki są drugim domem a w domu powinno być czysto. Chcesz dowiedzieć się jak wyprać samochód ? Jak wyprać fotele samochodowe ? Ile kosztuje pranie tapicerki samochodowej ? Jak często prać wnętrze auta ? Zapraszamy do lektury ...
+                        Chodząc po nich codziennie, rzadko zastanawiamy się co tak naprawdę się w nich znajduje. Roztocza, wirusy, bakterie, błoto z butów... O ile ubrania, pierzemy kilka razy w tygodniu, to dywany i wykładziny o wiele rzadziej. Jak odświeżyć dywan ? Jakie są domowe sposoby na czyszczenie dywanu ? O tym, w dalszej części artykułu. 
                     </div>
                 </div>
             </a>
-        </article> -->
+        </article>
         
     </div>
 </div>

@@ -9,7 +9,7 @@
             </div>
             <div class="right-side-content">
                 <div class="cities-box">
-                    <p><strong>Pranie tapicerek </strong>, <strong>Czyszczenie </strong>, <strong>Sprzątanie</strong> i <strong>Ozonowanie </strong> wykonujemy w miastach: </p>
+                    <p><strong>Pranie tapicerek </strong>, <strong>Czyszczenie Karcher </strong>, <strong>Sprzątanie</strong> i <strong>Ozonowanie </strong> wykonujemy w miastach: </p>
                     <ul>
                         <li>- <strong>Kościan</strong></li>
                         <li>- <strong>Czempiń</strong></li>
