@@ -41,18 +41,7 @@
               
           </div>
             
-          <div class="newest-articles-box">
-            <h4>Najnowsze artykuły</h4>
-            <ul>
-              <li><a href="#">Czyszczenie parą wodną – co powinieneś o nim wiedzieć oraz co możemy wyczyścić? Ceny na 2020!</a></li>
-
-              <li><a href="#">Jak wyczyścić piekarnik?</a></li>
-
-              <li><a href="#">Ile kosztuje pranie kanapy odkurzaczem piorącym? Zalety regularnego prania kanapy</a></li>
-
-              <li><a href="#">Pranie tapicerki samochodowej – ile kosztuje? Jakie są jego zalety?</a></li>
-            </ul>
-          </div>
+          @include('articles.includes.newestArticlesBox') 
 
           </div>
 

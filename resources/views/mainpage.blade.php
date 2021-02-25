@@ -1,5 +1,5 @@
     @extends('layouts.master')
-        @section('title', 'PanJaga.pl - Strona Główna - Pranie tapicerki i czyszczenie Karcher')
+        @section('title', 'PanJaga.pl - Profesjonalne pranie tapicerki meblowej i samochodowej, pranie dywanów i wykładzin !')
         @section('description', 'Odśwież wygląd swojej kanapy,narożnika,samochodu i usuń z nich stare plamy! Fachowe pranie i czyszczenie tapicerek Karcherem i nie tylko. Pranie ekstrakcyjne w najlepszej cenie !')
         @section('keywords', 'pranie tapicerki, pranie mebli, karcher, usuwanie plam, pranie materacy, pranie dywanów i wykładzin, pranie tapicerki samochodowej, czyszczenie samochodu, sprzątanie samochodu, pranie tapicerki meblowej, pranie mebli, pranie, czyszczenie, ozonowanie, usługi czyszczące, usługi sprzątające')
 
@@ -18,24 +18,23 @@
         <h2 class="big-header"><span class="header-gap"></span>Jakie usługi wykonujemy ?</h2>
         <p>PanJaga.pl to firma oferująca <strong>usługi czyszczenia</strong> oraz <strong>prania tapicerki meblowej i samochodowej</strong>. Bazujemy na chemii i sprzęcie wiodących producentów takich jak <strong>KARCHER</strong>, <strong>CHEMSPEC</strong>, <strong>ADBL</strong> czy też <strong>TENZI</strong>. </p>
         <p>Do każdego zlecenia podchodzimy <strong>indywidualnie</strong> oraz z <strong>dbałością o szczegóły czyszczonych obiektów</strong>. Nasze doświadczenie pozwala nam na uzyskanie najwyższej jakości świadczonych przez nas usług. Pozwól, że pomożemy odświeżyć twój samochód czy też meble. <strong>Czyszczenie kanapy</strong>? <strong>Pranie narożnika</strong>? A może <strong>pranie foteli</strong> w samochodzie ? Rozejrzyj się po naszej ofercie i zobacz co mamy do zaoferowania.</p>
-    
     </div>
 
-    @include('includes.mainpage.service')
+        @include('includes.mainpage.service')
 
-    @include('includes.mainpage.areaService')
+        @include('includes.mainpage.areaService')
 
-    @include('includes.mainpage.howWeWork')
+        @include('includes.mainpage.howWeWork')
 
-    @include('includes.mainpage.chemicalBanner')
+        @include('includes.mainpage.chemicalBanner')
 
-    @include('includes.components.serviceContact')
+        @include('includes.components.serviceContact')
 
-    @include('includes.mainpage.whyUs')
+        @include('includes.mainpage.whyUs')
 
-    @include('includes.mainpage.blogArticles')
+        @include('includes.mainpage.blogArticles')
 
-    @include('includes.mainpage.ourProjects')
+        @include('includes.mainpage.ourProjects')
 
     </div>
     </div>

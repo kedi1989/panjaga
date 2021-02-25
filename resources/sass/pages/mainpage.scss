@@ -113,10 +113,45 @@
 
     .howwework-service-video-box {
         text-align: center;
+        width: 360px;
+        margin: auto auto;
+        height: 560px;
+        border: 2px solid #fbb26b;
+        border-radius: 10px;
+
+        .ytp-large-play-button {
+            width: 68px;
+            height: 48px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            position: relative;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+
         iframe {
             border: 2px solid #fbb26b;
             border-radius: 10px;
         }
+    }
+
+    .video-1-background {
+        background: url('/images/howweworkImages/1.png');
+        background-size: cover;
+        background-position: 50% 50%;
+    }
+
+    .video-2-background {
+        background: url('/images/howweworkImages/2.png');
+        background-size: cover;
+        background-position: 50% 50%;
+    }
+
+    .video-3-background {
+        background: url('/images/howweworkImages/3.png');
+        background-size: cover;
+        background-position: 50% 50%;
     }
 
     .howwework-service-box {
