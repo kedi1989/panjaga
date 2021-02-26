@@ -6,7 +6,7 @@
 @section('content')
         
         <div class="content-container">
-            <h1 class="big-header"><span class="header-gap"></span>CENNIK</h1>
+            <h1 class="big-header"><span class="header-gap"></span>CENNIK PRANIA TAPICERKI I DYWANÓW</h1>
         </div>
 
         <div class="content-container">

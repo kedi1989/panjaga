@@ -17,6 +17,10 @@
                         <li>- <strong>Poznań</strong></li>
                         <li>- <strong>Śrem</strong></li>
                         <li>- <strong>Mosina</strong></li>
+                        <li>- <strong>Luboń</strong></li>
+                        <li>- <strong>Gostyń</strong></li>
+                        <li>- <strong>Krzywiń</strong></li>
+                        <li>- <strong>Kórnik</strong></li>
                     </ul>
                     <p>i ich obszarach do około 30km</p>
                 </div>

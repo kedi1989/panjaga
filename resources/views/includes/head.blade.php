@@ -18,6 +18,9 @@
     <meta name="keywords" content="@yield('keywords')">
     <meta property=”og:image” content=”@yield('image')”>
 
+    <link rel="preload" href="{{ URL::asset('fontawesome/webfonts/fa-solid-900.woff2') }}" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="{{ URL::asset('libs/slick/fonts/slick.woff') }}" as="font" type="font/woff2" crossorigin>
+
     <link rel="apple-touch-icon" sizes="57x57" href="{{ URL::asset('images/logo/favicon/apple-icon-57x57.png') }}">
     <link rel="apple-touch-icon" sizes="60x60" href="{{ URL::asset('images/logo/favicon/apple-icon-60x60.png') }}">
     <link rel="apple-touch-icon" sizes="72x72" href="{{ URL::asset('images/logo/favicon/apple-icon-72x72.png') }}">
@@ -39,16 +42,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link href="{{ URL::asset('fontawesome/css/all.min.css') }}" rel="stylesheet" media="none" onload="if(media!=='all')media='all'">
-    <link rel="stylesheet" href="{{ URL::asset('css/styles.css') }}?v=1.0.0" type="text/css"> 
-    <script src="{{ URL::asset('js/jquery.min.js') }}"></script>
-    <link rel="stylesheet" href="{{ URL::asset('libs/slick/slick.css') }}" type="text/css" media="none" onload="if(media!=='all')media='all'"> 
-    <link rel="stylesheet" href="{{ URL::asset('libs/slick/slick-theme.css') }}" type="text/css" media="none" onload="if(media!=='all')media='all'"> 
-    <script src="{{ URL::asset('libs/slick/slick.min.js') }}"></script>
-    <link href="{{ URL::asset('libs/lightbox/css/lightbox.css') }}" rel="stylesheet" media="none" onload="if(media!=='all')media='all'"/>
-    <script src="{{ URL::asset('libs/lightbox/js/lightbox.js') }}" defer></script>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
-    <meta name="google-site-verification" content="hBy1Fo2AMfhtfclF4bFzq2B6bRmgLZIbUgZzzewX0BU" />
+    <link rel="stylesheet" href="{{ URL::asset('fontawesome/css/all.min.css') }}" defer>
+    <link rel="stylesheet" href="{{ URL::asset('css/styles.css') }}?v=1.0.1" type="text/css"> 
+    <script src="{{ URL::asset('js/jquery.min.js') }}"></script>
+    
+    <link rel="stylesheet" href="{{ URL::asset('libs/slick/slick-theme.css') }}" > 
+    <script src="{{ URL::asset('libs/slick/slick.min.js') }}"></script>
+    <link href="{{ URL::asset('libs/lightbox/css/lightbox.css') }}" />
+    <script src="{{ URL::asset('libs/lightbox/js/lightbox.js') }}" defer></script>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet" async>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap" rel="stylesheet" async>
+    
+    <meta name="google-site-verification" content="hBy1Fo2AMfhtfclF4bFzq2B6bRmgLZIbUgZzzewX0BU" defer/>
 </head>
