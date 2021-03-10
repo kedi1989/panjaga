@@ -20,6 +20,12 @@
             <div class="projects-slide">
                 <img loading="lazy" src="images/mainSliderImages/8.jpg" alt="pranie ekstrakcyjne narożnika">
             </div>
+            <div class="projects-slide">
+                <img loading="lazy" src="images/mainSliderImages/37.jpg" alt="pranie ekstrakcyjne narożnika">
+            </div>
+            <div class="projects-slide">
+                <img loading="lazy" src="images/mainSliderImages/39.jpg" alt="pranie ekstrakcyjne narożnika">
+            </div>
         </div>
     </div>
 </div>

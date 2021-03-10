@@ -28,9 +28,9 @@
             </div>
 
             @php
-                for ($i = 1; $i < 31; $i++):
+                for ($i = 1; $i < 40; $i++):
             @endphp
-                <a href="images/gallery/TapicerkaMeblowa/{{$i}}.jpg" data-lightbox="meble" data-title="Tapicerka Meblowa">
+                <a href="images/gallery/TapicerkaMeblowa/{{$i}}.jpg"  target="_blank">
                     <img class="box-shadow" src="images/gallery/TapicerkaMeblowa/Thumbnails/{{$i}}.jpg" alt="Pranie tapicekri meblowej, usuwanie plam i niemiłego zapachu">
                 </a>
             @php
@@ -53,9 +53,9 @@
             </div>
 
             @php
-                for ($i = 1; $i < 8; $i++):
+                for ($i = 1; $i < 10; $i++):
             @endphp
-                <a href="images/gallery/Dywany/{{$i}}.jpg" data-lightbox="dywany" data-title="Dywany i Wykładziny">
+                <a href="images/gallery/Dywany/{{$i}}.jpg"  target="_blank">
                     <img class="box-shadow" src="images/gallery/Dywany/Thumbnails/{{$i}}.jpg" alt="Pranie dywanów i wykładzin, usuwanie niemiłego zapachu">
                 </a>
             @php
@@ -81,7 +81,7 @@
             @php
                 for ($i = 1; $i < 9; $i++):
             @endphp
-                <a href="images/gallery/Materace/{{$i}}.jpg" data-lightbox="materace" data-title="Materace">
+                <a href="images/gallery/Materace/{{$i}}.jpg"  target="_blank">
                     <img class="box-shadow" src="images/gallery/Materace/Thumbnails/{{$i}}.jpg" alt="Pranie materacy i usuwanie roztoczy">
                 </a>
             @php
@@ -107,7 +107,7 @@
             @php
                 for ($i = 1; $i < 15; $i++):
             @endphp
-                <a href="images/gallery/Samochody/{{$i}}.jpg" data-lightbox="samochody" data-title="Samochody">
+                <a href="images/gallery/Samochody/{{$i}}.jpg"  target="_blank">
                     <img class="box-shadow" src="images/gallery/Samochody/Thumbnails/{{$i}}.jpg" alt="Pranie tapicerki samochodowej, czyszczenie i ozonowanie pojazdów">
                 </a>
             @php
@@ -120,9 +120,9 @@
             </div>
             
         <script>
-            lightbox.option({
-            'resizeDuration': 200,
-            'wrapAround': true
-            })
+            // lightbox.option({
+            // 'resizeDuration': 200,
+            // 'wrapAround': true
+            // })
         </script>
 @stop

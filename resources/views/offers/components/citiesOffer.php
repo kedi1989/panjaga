@@ -9,7 +9,7 @@
       <li>Kórnik</li>
       <li>Kamieniec</li>
       <li>Wielichowo</li>
-      <li>Turew</li>
+      <li>Gostyń</li>
     </ul>
     <ul>
       <li>Puszczykowo</li>
