@@ -57,9 +57,9 @@ Route::get('blog/jak-prac-tapicerke-meblowa', function () {
     return view('articles/article_1');
 })->name('article_1');
 
-// Route::get('blog/jak-prac-materac', function () {
-//     return view('articles/article_2');
-// })->name('article_2');
+Route::get('blog/jak-prac-materac', function () {
+    return view('articles/article_2');
+})->name('article_2');
 
 Route::get('blog/jak-prac-tapicerke-samochodowa', function () {
     return view('articles/article_3');

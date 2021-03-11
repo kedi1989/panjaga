@@ -11,6 +11,8 @@
         box-shadow: 0px 14px 41px -34px #457b9d;
         height: 100%;
         margin: 0 0 20px 0;
+        transform: scale(1.0);
+        transition: all 0.3s;
 
         .blog-image-wrapper {
             width: 100%;
@@ -53,7 +55,12 @@
         img {
             width: 100%;
         }
-        
+
+        &:hover {  
+            transition: all 0.3s;
+            transform: scale(1.05);
+        }
+
     }
 }
 
@@ -80,10 +87,14 @@
             li {
                 margin: 20px 0;
                 line-height: 25px;
-                    font-size: 18px;
+                font-size: 18px;
                 a{
                     color: #000;
                     font-family: 'Quicksand', sans-serif;
+                    transition: all 0.3s;
+                    &:hover {
+                        color: #ff5809;
+                    }
                 }
             }
         }

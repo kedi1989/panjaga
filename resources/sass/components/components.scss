@@ -162,6 +162,11 @@ strong {
             margin: auto auto;
             top: 50%;
             transform: translateY(-50%);
+            transition: all 0.3s;
+                &:hover {
+                    color: #ff5809;
+                    border: 1px solid #ff5809;
+                }
     }
     }
 

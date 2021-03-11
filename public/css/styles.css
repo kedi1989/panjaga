@@ -201,6 +201,11 @@ strong {
   margin: auto auto;
   top: 50%;
   transform: translateY(-50%);
+  transition: all 0.3s;
+}
+.service-contact-container .service-contact-box .order-btn:hover {
+  color: #ff5809;
+  border: 1px solid #ff5809;
 }
 
 .social {
@@ -383,6 +388,7 @@ header {
   color: black;
   font-weight: 700;
   font-size: 15px;
+  transition: all 0.3s;
 }
 .menu .menu__list .menu__item a:hover {
   color: #ff5809;
@@ -828,6 +834,8 @@ footer p {
   box-shadow: 0px 14px 41px -34px #457b9d;
   height: 100%;
   margin: 0 0 20px 0;
+  transform: scale(1);
+  transition: all 0.3s;
 }
 .blog-articles-list-container article .blog-image-wrapper {
   width: 100%;
@@ -864,6 +872,10 @@ footer p {
 .blog-articles-list-container article img {
   width: 100%;
 }
+.blog-articles-list-container article:hover {
+  transition: all 0.3s;
+  transform: scale(1.05);
+}
 
 .blog-article-container {
   padding-top: 60px;
@@ -890,6 +902,10 @@ footer p {
 .blog-article-container .newest-articles-box ul li a {
   color: #000;
   font-family: "Quicksand", sans-serif;
+  transition: all 0.3s;
+}
+.blog-article-container .newest-articles-box ul li a:hover {
+  color: #ff5809;
 }
 .blog-article-container .article-image {
   width: 100%;
@@ -1034,6 +1050,12 @@ footer p {
 }
 .faq-container p {
   padding: 10px 0;
+}
+.faq-container h3 {
+  transition: all 0.3s;
+}
+.faq-container h3:hover {
+  color: #ff5809;
 }
 
 @media (max-width: 1220px) and (min-width: 767px) {
