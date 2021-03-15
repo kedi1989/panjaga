@@ -1,7 +1,7 @@
 @extends('layouts.master')
-        @section('title', 'PanJaga.pl - Galeria Realizacji')
-        @section('description', 'Sprawdź nasze realizacje dobrze wypranej tapicerki meblowej i samochodowej !')
-        @section('keywords', 'realizacje prania tapicerki, galeria prania tapicerki, pranie tapicerki meblowej, pranie tapicerki samochodowej, czyszczenie, galeria, realizacje ')
+        @section('title', 'PanJaga.pl - Blog - Jak prać materac ?')
+        @section('description', 'Jak prać materac ? Dowiesz się na naszym blogu PANJAGA.PL - pranie materacy, odświeżanie materaca, pranie karcherem materaca')
+        @section('keywords', 'Jak prać materac ? Pranie materaca, pranie materaca karcherem, odświeżanie materaca')
 
 @section('content')
 

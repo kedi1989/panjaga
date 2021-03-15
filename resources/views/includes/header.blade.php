@@ -51,7 +51,7 @@
                 <div class="bottom-nav">
                     <div class="menu__list navbar">
                         <div class="menu__item"><a href="{{ route('home') }}">STRONA GŁÓWNA</a></div>
-                        <div class="menu__item dropdown-hover"><a href="#">OFERTA</a>
+                        <div class="menu__item dropdown-hover"><a href="{{ route('offer') }}">OFERTA</a>
                         <div class="dropdown-content">
                             <a href="{{ route('pranie-tapicerki-meblowej') }}">Pranie Tapicerki Meblowej</a>
                             <a href="{{ route('pranie-tapicerki-samochodowej') }}">Pranie Tapicerki Samochodowej</a>

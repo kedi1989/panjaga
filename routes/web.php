@@ -41,6 +41,10 @@ Route::get('/najczesciej-zadawane-pytania', function () {
     return view('faq');
 })->name('faq');
 
+Route::get('/oferta', function () {
+    return view('offer');
+})->name('offer');
+
 Route::get('oferta/pranie-tapicerki-samochodowej', function () {
     return view('offers/pranieTapicerkiSamochodowejOffer');
 })->name('pranie-tapicerki-samochodowej');

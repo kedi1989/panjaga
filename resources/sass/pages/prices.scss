@@ -10,6 +10,29 @@
         font-family: 'Quicksand', sans-serif;
         font-weight: 700;
     }
+    h4 {
+        margin: 25px 0 0 0;
+        text-align: center;
+        font-size: 16px;
+        color: #000;
+        line-height: 20px;
+        font-weight: normal;
+        padding: 0px 0px 10px 0px;
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 700;
+    }
+    .price-header-sub-info {
+        font-size: 16px;
+        color: #000;
+        line-height: 20px;
+        font-weight: normal;
+        padding: 0px 0px 10px 0px;
+        font-family: 'Quicksand', sans-serif;
+        font-weight: 500;
+        font-style: italic;
+        text-align: center;
+    }
+
     .price-table {
         width: 80%;
         margin: 20px auto;
@@ -17,6 +40,11 @@
         tr {
             transition: all 0.5s;
             border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+
+            &:hover {
+                background-color: #ffb26b;
+                cursor: pointer;
+            }
         }
 
         td {
@@ -32,6 +60,7 @@
             line-height: 18px;
             font-weight: normal;   
             font-weight: 500; 
+            padding-left: 10px;
         }
 
         .service-price {
@@ -44,6 +73,7 @@
             font-weight: normal;
             font-weight: 500; 
             vertical-align: middle;
+            padding-right: 10px;
         }
 
         .sub-info {

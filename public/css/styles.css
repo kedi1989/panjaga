@@ -244,6 +244,58 @@ strong {
   padding: 10px 0;
 }
 
+@-webkit-keyframes PHONE-RING {
+  10% {
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -o-transform: rotate(5deg);
+  }
+  20% {
+    -webkit-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -o-transform: rotate(-5deg);
+  }
+  30% {
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -o-transform: rotate(5deg);
+  }
+  40% {
+    -webkit-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -o-transform: rotate(-5deg);
+  }
+  50% {
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -o-transform: rotate(5deg);
+  }
+  60% {
+    -webkit-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -o-transform: rotate(-5deg);
+  }
+  70% {
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -o-transform: rotate(5deg);
+  }
+  80% {
+    -webkit-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -o-transform: rotate(-5deg);
+  }
+  90% {
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -o-transform: rotate(5deg);
+  }
+  100% {
+    -webkit-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -o-transform: rotate(-5deg);
+  }
+}
 @media (max-width: 1220px) and (min-width: 767px) {
   p {
     line-height: 25px;
@@ -443,6 +495,8 @@ header {
 }
 .menu .menu-nav-box .contacts-box .phone-contact i {
   margin: 0 10px 0 0;
+  -webkit-animation: PHONE-RING 2s infinite;
+  -webkit-animation-iteration-count: infinite;
 }
 
 .dropdown-content {
@@ -515,6 +569,8 @@ header {
   }
   .mobile-menu .phone-contact-mobile a i {
     color: #E77843;
+    -webkit-animation: PHONE-RING 2s infinite;
+    -webkit-animation-iteration-count: infinite;
   }
 
   header {
@@ -786,8 +842,8 @@ header {
 footer {
   margin: 30px 0 0 0;
   text-align: center;
-  height: 80px;
   border-top: 1px solid black;
+  background-color: #232022;
 }
 footer p {
   position: relative;
@@ -795,13 +851,87 @@ footer p {
   transform: translateY(-50%);
   padding: 0;
   text-align: center;
+}
+footer .footer-logo-img img {
+  width: 130px;
+}
+footer .top-footer-content {
+  display: flex;
+  justify-content: space-around;
+}
+footer .top-footer-content .contact-footer .fb-btn {
+  height: 50px;
+  width: 50px;
+  background: url(/images/FB-logo.png);
+  background-size: cover;
+  z-index: 9;
+  display: block;
+  margin: 10px auto 10px auto;
+  position: relative;
+}
+footer .top-footer-content .contact-footer .fb-btn a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+footer .top-footer-content .contact-footer .phone-contact {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Quicksand", sans-serif;
+  font-style: italic;
+  height: 20px;
+  color: #fff;
+  margin: 10px 0;
+}
+footer .top-footer-content .contact-footer .phone-contact i {
+  margin: 0 10px 0 0;
+  -webkit-animation: PHONE-RING 2s infinite;
+  -webkit-animation-iteration-count: infinite;
+}
+footer .top-footer-content .shortcut-footer-text {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Quicksand", sans-serif;
+  color: #fff;
+  margin: 20px 0 0 0;
+}
+footer .top-footer-content .footer-menu-box {
+  margin: 5px 0 0 0;
+  color: red;
+}
+footer .top-footer-content .footer-menu-box a {
+  color: #fff;
+  font-size: 13px;
+}
+footer .top-footer-content .footer-menu-box a:hover {
+  color: #ffb26b;
+}
+footer .bottom-footer-content {
+  margin: 20px 0 0 0;
+}
+footer .bottom-footer-content .footer-cities {
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Quicksand", sans-serif;
+  color: #fff;
+  padding: 0 10px 0 10px;
+}
+footer .bottom-footer-content .footer-copyrights {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Quicksand", sans-serif;
+  color: #fff;
+  margin: 20px 0 0 0;
+  padding: 0 0 20px 0;
 }
 
 footer {
   margin: 30px 0 0 0;
   text-align: center;
-  height: 80px;
   border-top: 1px solid black;
+  background-color: #232022;
 }
 footer p {
   position: relative;
@@ -809,6 +939,80 @@ footer p {
   transform: translateY(-50%);
   padding: 0;
   text-align: center;
+}
+footer .footer-logo-img img {
+  width: 130px;
+}
+footer .top-footer-content {
+  display: flex;
+  justify-content: space-around;
+}
+footer .top-footer-content .contact-footer .fb-btn {
+  height: 50px;
+  width: 50px;
+  background: url(/images/FB-logo.png);
+  background-size: cover;
+  z-index: 9;
+  display: block;
+  margin: 10px auto 10px auto;
+  position: relative;
+}
+footer .top-footer-content .contact-footer .fb-btn a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+footer .top-footer-content .contact-footer .phone-contact {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Quicksand", sans-serif;
+  font-style: italic;
+  height: 20px;
+  color: #fff;
+  margin: 10px 0;
+}
+footer .top-footer-content .contact-footer .phone-contact i {
+  margin: 0 10px 0 0;
+  -webkit-animation: PHONE-RING 2s infinite;
+  -webkit-animation-iteration-count: infinite;
+}
+footer .top-footer-content .shortcut-footer-text {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Quicksand", sans-serif;
+  color: #fff;
+  margin: 20px 0 0 0;
+}
+footer .top-footer-content .footer-menu-box {
+  margin: 5px 0 0 0;
+  color: red;
+}
+footer .top-footer-content .footer-menu-box a {
+  color: #fff;
+  font-size: 13px;
+}
+footer .top-footer-content .footer-menu-box a:hover {
+  color: #ffb26b;
+}
+footer .bottom-footer-content {
+  margin: 20px 0 0 0;
+}
+footer .bottom-footer-content .footer-cities {
+  font-size: 13px;
+  font-weight: 500;
+  font-family: "Quicksand", sans-serif;
+  color: #fff;
+  padding: 0 10px 0 10px;
+}
+footer .bottom-footer-content .footer-copyrights {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Quicksand", sans-serif;
+  color: #fff;
+  margin: 20px 0 0 0;
+  padding: 0 0 20px 0;
 }
 
 .aboutus-container ul {
@@ -1173,6 +1377,17 @@ footer p {
   margin: 20px auto;
   width: calc(100% - 20px);
 }
+.service-container a {
+  color: #000;
+  transition: all 0.3s;
+}
+.service-container a:hover {
+  color: #ff5809;
+}
+.service-container a:hover img {
+  transform: scale(1.1);
+  transition: all 0.3s;
+}
 .service-container .service-box {
   width: 25%;
   margin: 0 15px 0 15px;
@@ -1185,7 +1400,7 @@ footer p {
   max-width: 300px;
   margin: auto;
 }
-.service-container .service-box .service-title h3 {
+.service-container .service-box .service-title h3, .service-container .service-box .service-title h2 {
   text-align: center;
   font-family: "Quicksand", sans-serif;
   font-size: 22px;
@@ -1341,6 +1556,47 @@ footer p {
   height: auto;
   border: 2px solid #fbb26b;
   border-radius: 10px;
+}
+
+.opinions-container #opinions-box {
+  width: 100%;
+}
+.opinions-container .opinion-slide {
+  border-radius: 10px;
+  border: 1px solid #0000000f;
+  width: 30%;
+  box-shadow: 0px 14px 41px -34px #457b9d;
+  margin: 0 10px 20px 10px;
+  padding: 20px;
+  transform: scale(1);
+  transition: all 0.3s;
+}
+.opinions-container .opinion-slide .opinion-scope {
+  font-family: "Quicksand", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  line-height: 20px;
+}
+.opinions-container .opinion-slide .opinion-scope .opinion-title {
+  font-weight: 700;
+}
+.opinions-container .opinion-slide .opinion-content {
+  margin: 20px 0 10px 0;
+}
+.opinions-container .opinion-slide .opinion-content .client-opinion-text {
+  font-family: "Quicksand", sans-serif;
+  font-size: 18px;
+  line-height: 20px;
+  font-style: italic;
+  text-align: center;
+}
+.opinions-container .opinion-slide .opinion-content .client-name {
+  text-align: right;
+  font-weight: 700;
+  font-family: "Quicksand", sans-serif;
+  font-size: 16px;
+  margin: 20px 0;
 }
 
 .chem-logos-container {
@@ -1566,6 +1822,28 @@ footer p {
   font-family: "Quicksand", sans-serif;
   font-weight: 700;
 }
+.prices-container h4 {
+  margin: 25px 0 0 0;
+  text-align: center;
+  font-size: 16px;
+  color: #000;
+  line-height: 20px;
+  font-weight: normal;
+  padding: 0px 0px 10px 0px;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+}
+.prices-container .price-header-sub-info {
+  font-size: 16px;
+  color: #000;
+  line-height: 20px;
+  font-weight: normal;
+  padding: 0px 0px 10px 0px;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  text-align: center;
+}
 .prices-container .price-table {
   width: 80%;
   margin: 20px auto;
@@ -1573,6 +1851,10 @@ footer p {
 .prices-container .price-table tr {
   transition: all 0.5s;
   border-bottom: 1px solid rgba(0, 0, 0, 0.09);
+}
+.prices-container .price-table tr:hover {
+  background-color: #ffb26b;
+  cursor: pointer;
 }
 .prices-container .price-table td {
   padding: 2px 0;
@@ -1586,6 +1868,7 @@ footer p {
   line-height: 18px;
   font-weight: normal;
   font-weight: 500;
+  padding-left: 10px;
 }
 .prices-container .price-table .service-price {
   width: 25%;
@@ -1597,6 +1880,7 @@ footer p {
   font-weight: normal;
   font-weight: 500;
   vertical-align: middle;
+  padding-right: 10px;
 }
 .prices-container .price-table .sub-info {
   display: block;

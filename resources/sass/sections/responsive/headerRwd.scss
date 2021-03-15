@@ -73,6 +73,8 @@
                 transform: translateY(-50%);
                 i {
                     color:#E77843;
+                    -webkit-animation: PHONE-RING 2s infinite;
+                    -webkit-animation-iteration-count: infinite;
                 }
             }
         }

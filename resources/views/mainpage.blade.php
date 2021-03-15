@@ -34,6 +34,8 @@
 
         @include('includes.mainpage.blogArticles')
 
+        @include('includes.mainpage.opinions')
+
         @include('includes.mainpage.ourProjects')
 
     </div>
@@ -56,7 +58,31 @@
                     slidesToShow: 1,
                     slidesToScroll: 1,
                     infinite: true,
-                    dots: true
+                    dots: false
+                }
+                },
+            ]
+            });
+    </script>
+
+    <script>
+        $('#opinions-box').slick({
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            arrows: false,
+            dots: false,
+            centerMode: false,
+            focusOnSelect: true,
+            autoplay: true,
+            autoplaySpeed: 2000,
+            responsive: [
+                {
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    infinite: true,
+                    dots: false
                 }
                 },
             ]

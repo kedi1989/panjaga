@@ -24,13 +24,10 @@
         @include('includes.components.covid19Info')
 
 
+        <h3><strong>PRANIE TAPICERKI MEBLOWEJ</strong></h3>
+
         <table class="price-table">
             <tbody>
-                <tr class="no-border">
-                    <th colspan="3">
-                        <h3><strong>PRANIE TAPICERKI MEBLOWEJ</strong></h3>
-                    </th>
-                </tr>
 
                 <tr>
                     <td class="service-name">
@@ -314,18 +311,12 @@
 
             <h3><strong>PRANIE TAPICERKI SAMOCHODOWEJ I CZYSZCZENIE</strong></h3>
 
+
+            <h4 class="price-header">SAMOCHODY MAŁE</h4>
+            <p class="price-header-sub-info">- np. mały hatchback, mały sedan; - FORD FIESTA, NISSAN MICRA, FIAT PANDA itd.</p>
+
             <table class="price-table">
                 <tbody>
-
-                <tr>
-                    <td class="service-name">
-                        <strong>SAMOCHODY MAŁE</strong>
-                        <span class="sub-info">- np. mały hatchback, mały sedan; - FORD FIESTA, NISSAN MICRA, FIAT PANDA itd.</span>
-                    </td>
-                    <td class="service-price">
-                        
-                    </td>
-                </tr>   
 
                 <tr>
                     <td class="service-name">
@@ -360,20 +351,22 @@
                         <span class="sub-info">- w zależności od zabrudzenia; - przednie fotele oraz tylnia kanapa, podłoga, bagażnik, dywaniki, czyszczenie plastików, wycieranie szyb, ozonowanie*</span>
                     </td>
                     <td class="service-price">
-                        150 - 200 zł
+                        200 - 250 zł
                     </td>
                 </tr>
 
-            
-                <tr>
-                    <td class="service-name">
-                        <strong>SAMOCHODY ŚREDNIE</strong>
-                        <span class="sub-info">- np. sedany, kombi; - VW PASSAT, TOYOTA AVENSIS itd.</span>
-                    </td>
-                    <td class="service-price">
-                        
-                    </td>
-                </tr>    
+                    </tbody>
+            </table>
+
+
+
+            <h4 class="price-header">SAMOCHODY ŚREDNIE</h4>
+            <p class="price-header-sub-info">- np. sedany, kombi; - VW PASSAT, TOYOTA AVENSIS itd.</p>
+
+
+
+            <table class="price-table">
+                    <tbody>
 
                 <tr>
                     <td class="service-name">
@@ -381,7 +374,7 @@
                         <span class="sub-info"></span>
                     </td>
                     <td class="service-price">
-                        70 zł
+                        50 zł
                     </td>
                 </tr>
                 <tr>
@@ -413,6 +406,85 @@
                 </tr>
             </tbody>
         </table>
+
+
+        <h4 class="price-header">SAMOCHODY DUŻE</h4>
+            <p class="price-header-sub-info">- np. minivany, duży SUV, Busy; - OPEL ZAFIRA, MAZDA 5, VW TRANSPORTER itd.</p>
+
+
+
+            <table class="price-table">
+                    <tbody>
+
+                <tr>
+                    <td class="service-name">
+                        Ozonowanie*
+                        <span class="sub-info"></span>
+                    </td>
+                    <td class="service-price">
+                        50 zł
+                    </td>
+                </tr>
+                <tr>
+                    <td class="service-name">
+                        Pakiet Pranie MINI
+                        <span class="sub-info">- w zależności od zabrudzenia; - przednie fotele oraz tylnia kanapa</span>
+                    </td>
+                    <td class="service-price">
+                        150 - 250 zł
+                    </td>
+                </tr>
+                <tr>
+                    <td class="service-name">
+                        Pakiet Pranie MEDIUM
+                        <span class="sub-info">- w zależności od zabrudzenia; - przednie fotele oraz tylnia kanapa, podłoga, bagażnik, dywaniki</span>
+                    </td>
+                    <td class="service-price">
+                        250 - 300 zł
+                    </td>
+                </tr>
+                <tr>
+                    <td class="service-name">
+                        Pakiet Pranie MAXI
+                        <span class="sub-info">- w zależności od zabrudzenia; - przednie fotele oraz tylnia kanapa, podłoga, bagażnik, dywaniki, czyszczenie plastików, wycieranie szyb, ozonowanie*</span>
+                    </td>
+                    <td class="service-price">
+                        250 - 350 zł
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+
+        <h4 class="price-header">SAMOCHODY CIĘŻAROWE</h4>
+            <p class="price-header-sub-info">- np. TIR, ciągnik siodłowy</p>
+
+
+            <table class="price-table">
+                    <tbody>
+
+                <tr>
+                    <td class="service-name">
+                        Ozonowanie*
+                        <span class="sub-info"></span>
+                    </td>
+                    <td class="service-price">
+                        70 - 100 zł
+                    </td>
+                </tr>
+                <tr>
+                    <td class="service-name">
+                        Czyszczenie kabiny, pranie tapicerki
+                        <span class="sub-info">- wycena indywidualna, najlepiej proszę dzwonić</span>
+                    </td>
+                    <td class="service-price">
+                        od 250 zł
+                    </td>
+                </tr>
+                
+            </tbody>
+        </table>
+
 
         <div class="order-box">
             <a class="order-btn box-shadow" href="{{ route('kontakt') }}">Zamawiam pranie tapicerki samochodowej <i class="fas fa-angle-right"></i></a>
