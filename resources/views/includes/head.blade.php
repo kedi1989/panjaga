@@ -44,7 +44,7 @@
 
     
     <link rel="stylesheet" href="{{ URL::asset('fontawesome/css/all.min.css') }}" defer>
-    <link rel="stylesheet" href="{{ URL::asset('css/styles.css') }}?v=1.0.1" type="text/css"> 
+    <link rel="stylesheet" href="{{ URL::asset('css/styles.css') }}?v=1.0.3" type="text/css"> 
     <script src="{{ URL::asset('js/jquery.min.js') }}"></script>
     
     <link rel="stylesheet" href="{{ URL::asset('libs/slick/slick-theme.css') }}" > 

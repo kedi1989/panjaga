@@ -125,6 +125,25 @@
                 </div>
             </a>
         </article>
+
+        <article class="article-container">
+            <a href="{{ route('article_9') }}">
+                <div class="blog-image-wrapper">
+                    <img loading="lazy" src="{{ URL::asset('images/blog/articles/9/srem.jpg') }}"/>
+                </div>
+                <div class="article-content-box">
+                    <div class="post-title">
+                        <h3>Pranie tapicerki meblowej w Śremie</h3>
+                    </div>
+                    <div class="post-publised-date">
+                        Mar 17, 2021
+                    </div>
+                    <div class="post-content">
+                    Pranie tapicerki Śrem to usługa, która skutecznie odciąża domowników, a szczególnie Panie domu, z ich niełatwych obowiązków. Zarówno czyszczenie kanapy, sofy jak i mebli potrafi nastręczyć wiele problemów i sprawić, że cały weekend upłynie pod znakiem prania tapicerki...</p>
+                    </div>
+                </div>
+            </a>
+        </article>
             
           </div>
           </div>

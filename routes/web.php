@@ -88,3 +88,7 @@ Route::get('blog/pranie-i-czyszczenie-karcher-pogromcy-mitow', function () {
 Route::get('blog/pranie-mebli-dywanow-i-wykladzin-karcher-leszno', function () {
     return view('articles/article_8');
 })->name('article_8');
+
+Route::get('blog/pranie-tapicerki-srem', function () {
+    return view('articles/article_9');
+})->name('article_9');

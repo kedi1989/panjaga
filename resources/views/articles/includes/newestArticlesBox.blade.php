@@ -7,5 +7,6 @@
     <li><a href="{{ route('article_7') }}">Pranie i czyszczenie Karcher - Pogromcy mitów</a></li>
     <li><a href="{{ route('article_8') }}">Pranie i czyszczenie tapicerki mebli, dywanów, wykładzin w Lesznie</a></li>
     <li><a href="{{ route('article_2') }}">Jak prać materac ? Zdrowy sen bez alergii.</a></li>
+    <li><a href="{{ route('article_9') }}">Pranie tapicerki meblowej w Śremie</a></li>
   </ul>
 </div>

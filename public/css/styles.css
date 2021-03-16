@@ -1570,6 +1570,8 @@ footer .bottom-footer-content .footer-copyrights {
   padding: 20px;
   transform: scale(1);
   transition: all 0.3s;
+  min-height: 240px;
+  background-color: #fff;
 }
 .opinions-container .opinion-slide .opinion-scope {
   font-family: "Quicksand", sans-serif;
@@ -1597,6 +1599,13 @@ footer .bottom-footer-content .footer-copyrights {
   font-family: "Quicksand", sans-serif;
   font-size: 16px;
   margin: 20px 0;
+}
+.opinions-container .opinion-slide .opinion-vertical-align-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+  width: 90%;
 }
 
 .chem-logos-container {
