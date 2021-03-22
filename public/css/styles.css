@@ -1922,6 +1922,10 @@ footer .bottom-footer-content .footer-copyrights {
   top: 50%;
   transform: translateY(-50%);
 }
+.prices-container .prices-disclaimer {
+  font-size: 13px;
+  padding: 0 0 0 0;
+}
 
 @media (max-width: 767px) {
   .prices-container .price-table {

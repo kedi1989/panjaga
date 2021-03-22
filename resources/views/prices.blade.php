@@ -14,11 +14,11 @@
 
         <div class="prices-container">
 
-        <p>Poniższe ceny są cenami orientacyjnymi. Ostateczne ceny, ustalamy na podstawie zdjęć (zazwyczaj dosyłanych przez klienta) więc mogą być nieznacznie niższe lub wyższe. Ustalona cena na podstawie zdjęcia, nie podlega zmianie już na miejscu.</p>
+        <p class="prices-disclaimer">- Poniższe ceny są cenami orientacyjnymi. Ostateczne ceny, ustalamy na podstawie zdjęć (zazwyczaj dosyłanych przez klienta) więc mogą być nieznacznie niższe lub wyższe. Ustalona cena na podstawie zdjęcia, nie podlega zmianie już na miejscu.</p>
         
-        <p>Dużo zależy od stopnia zabrudzenia, poziomu skomplikowania mebla np. tapicerka przeplatana z pseudoskórzanymi akcentami etc. oraz czy jest dużo odplamiania.</p>
+        <p class="prices-disclaimer">- Dużo zależy od stopnia zabrudzenia, poziomu skomplikowania mebla np. tapicerka przeplatana z pseudoskórzanymi akcentami etc. oraz czy jest dużo odplamiania.</p>
         
-        <p>W przypadku gdy w odkurzaczu piorącym zostaje nam trochę wody z chemią, staramy się w miarach możliwości doczyścić coś klientowi za darmo np. mała pufa, krzesło etc.</p>
+        <p class="prices-disclaimer">- W przypadku gdy w odkurzaczu piorącym zostaje nam trochę wody z chemią, staramy się w miarach możliwości doczyścić coś klientowi za darmo np. mała pufa, krzesło etc.</p>
 
 
         @include('includes.components.covid19Info')
@@ -275,20 +275,30 @@
             <tr>
                 <td class="service-name">
                     Pranie wózka dziecięcego 3 w 1 
-                    <span class="sub-info">- 3 moduły (gondola, spacerówka, skorupka - fotelik dla noworodka) </span>
+                    <span class="sub-info">- 3 moduły (gondola, spacerówka, skorupka - fotelik dla noworodka) w tym stelaż z torbą na dole </span>
                 </td>
                 <td class="service-price">
-                    120 - 150zł
+                    150 zł
                 </td>
             </tr>
 
             <tr>
                 <td class="service-name">
                     Pranie wózka dziecięcego 2 w 1 
-                    <span class="sub-info">- 2 moduły (gondola, spacerówka) </span>
+                    <span class="sub-info">- 2 moduły (gondola, spacerówka) w tym stelaż z torbą na dole </span>
                 </td>
                 <td class="service-price">
                     100 - 130zł
+                </td>
+            </tr>
+
+            <tr>
+                <td class="service-name">
+                    Pranie wózka dziecięcego 
+                    <span class="sub-info">- 1 moduł (np. gondola) w tym stelaż z torbą na dole </span>
+                </td>
+                <td class="service-price">
+                    80 - 100 zł
                 </td>
             </tr>
 
@@ -298,11 +308,14 @@
                     <span class="sub-info">- standardowy rozmiar dla większych już dzieci </span>
                 </td>
                 <td class="service-price">
-                    70 - 90 zł
+                    100 zł
                 </td>
             </tr>
             </tbody>
         </table>
+
+        <p class="prices-disclaimer">- Są to ceny orientacyjne. Najlepiej proszę wysłać MMSem zdjęcia pod numer 790-462-146 do wyceny. </p>
+        <p class="prices-disclaimer">- Elementy wózka dezynfekowane są parownicą a następnie prane odkurzaczem ekstrakcyjnym łagodną chemią. </p>
 
         <div class="order-box">
             <a class="order-btn box-shadow" href="{{ route('kontakt') }}">Zamawiam <i class="fas fa-angle-right"></i></a>
@@ -342,7 +355,7 @@
                         <span class="sub-info">- w zależności od zabrudzenia; - przednie fotele oraz tylnia kanapa, podłoga, bagażnik, dywaniki</span>
                     </td>
                     <td class="service-price">
-                        150 - 180 zł
+                        180 - 200 zł
                     </td>
                 </tr>
                 <tr>
@@ -410,7 +423,6 @@
 
         <h4 class="price-header">SAMOCHODY DUŻE</h4>
             <p class="price-header-sub-info">- np. minivany, duży SUV, Busy; - OPEL ZAFIRA, MAZDA 5, VW TRANSPORTER itd.</p>
-
 
 
             <table class="price-table">
@@ -485,6 +497,8 @@
             </tbody>
         </table>
 
+        <p class="prices-disclaimer">- W przypadku zamawiania usługi prania auta wymagane są dobry dostęp do wody oraz prądu. Usługę prania samochodu świadczymy na miejscu u klienta.</p>
+        <p class="prices-disclaimer">- Ceny mogą się różnić w przypadkach różnych wersji danego samochodu np. wersji z 7 fotelami (kombi)</p>
 
         <div class="order-box">
             <a class="order-btn box-shadow" href="{{ route('kontakt') }}">Zamawiam pranie tapicerki samochodowej <i class="fas fa-angle-right"></i></a>
