@@ -40,5 +40,25 @@
                 </div>
             </a>
         </div>
+        <div class="service-box">
+            <a href="{{ route('pranie-materacy') }}">
+                <div class="service-image-wrapper">
+                <img loading="lazy" src="images/mainPageImages/car_ozone_1.jpg" alt="pranie i dezynfekcja materacy"/>
+                </div>
+                <div class="service-title">
+                    <h3>Pranie i dezynfekcja materacy</h3>
+                </div>
+            </a>
+        </div>
+        <div class="service-box">
+            <a href="{{ route('pranie-i-czyszczenie-wozkow-dzieciecych') }}">
+                <div class="service-image-wrapper">
+                <img loading="lazy" src="images/mainPageImages/car_ozone_1.jpg" alt="pranie i czyszczenie wózków dziecięcych"/>
+                </div>
+                <div class="service-title">
+                    <h3>Pranie i czyszczenie wózków dziecięcych</h3>
+                </div>
+            </a>
+        </div>
     </div>
 </div>

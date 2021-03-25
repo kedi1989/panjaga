@@ -33,7 +33,7 @@
         </div>
 
         <div class="footer-copyrights">
-            COPYRIGHT © {{ now()->year }} Usługi Prania i Czyszczenia Specjalistycznego PANJAGA.PL
+            COPYRIGHT © {{ now()->year }} Usługi Prania i Czyszczenia Specjalistycznego <a href="/">PANJAGA.PL</a>
         </div>
 
     </div>

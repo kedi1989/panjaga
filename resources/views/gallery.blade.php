@@ -30,7 +30,7 @@
             @php
                 for ($i = 1; $i < 40; $i++):
             @endphp
-                <a href="images/gallery/TapicerkaMeblowa/{{$i}}.jpg"  target="_blank">
+                <a href="images/gallery/TapicerkaMeblowa/{{$i}}.jpg" target="_blank" >
                     <img class="box-shadow" src="images/gallery/TapicerkaMeblowa/Thumbnails/{{$i}}.jpg" alt="Pranie tapicekri meblowej, usuwanie plam i niemiłego zapachu">
                 </a>
             @php
@@ -120,9 +120,9 @@
             </div>
             
         <script>
-            // lightbox.option({
-            // 'resizeDuration': 200,
-            // 'wrapAround': true
-            // })
+            lightbox.option({
+            'resizeDuration': 200,
+            'wrapAround': true
+            })
         </script>
 @stop

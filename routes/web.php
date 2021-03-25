@@ -57,6 +57,14 @@ Route::get('oferta/pranie-wykladzin-i-dywanow', function () {
     return view('offers/pranieDywanowWykladzinOffer');
 })->name('pranie-dywanow-wykladzin');
 
+Route::get('oferta/pranie-i-czyszczenie-wozkow-dzieciecych', function () {
+    return view('offers/pranieWozkowOffer');
+})->name('pranie-i-czyszczenie-wozkow-dzieciecych');
+
+Route::get('oferta/pranie-materacy', function () {
+    return view('offers/pranieMateracyOffer');
+})->name('pranie-materacy');
+
 Route::get('blog/jak-prac-tapicerke-meblowa', function () {
     return view('articles/article_1');
 })->name('article_1');

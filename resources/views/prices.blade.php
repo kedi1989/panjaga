@@ -11,7 +11,6 @@
 
         <div class="content-container">
          
-
         <div class="prices-container">
 
         <p class="prices-disclaimer">- Poniższe ceny są cenami orientacyjnymi. Ostateczne ceny, ustalamy na podstawie zdjęć (zazwyczaj dosyłanych przez klienta) więc mogą być nieznacznie niższe lub wyższe. Ustalona cena na podstawie zdjęcia, nie podlega zmianie już na miejscu.</p>

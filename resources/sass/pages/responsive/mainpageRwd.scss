@@ -196,6 +196,24 @@
             }
         }
     }
+
+    .opinions-container {
+        .opinion-slide {
+            .opinion-scope {
+                font-size: 14px;
+                line-height: 17px;
+            }
+            .opinion-content {
+                .client-opinion-text {
+                    font-size: 15px;
+                    line-height: 17px;
+                }
+                .client-name {
+                    margin: 15px 0;
+                }
+            }
+        }
+    }
 }
 
 // MOBILE END
