@@ -1,7 +1,7 @@
 @extends('layouts.master')
-        @section('title', 'PanJaga.pl - Oferta - Pranie tapicerki samochodowej')
-        @section('description', 'Wypierzemy twoje fotele samochodowe! Sprawdź naszą ofertę prania tapicerki samochodowej. Usuwanie roztoczy, plam i zarazków, świeży zapach auta- Pomożemy ci!')
-        @section('keywords', 'Pranie foteli samochodowych, pranie tapicerki samochodowej, czyszczenie foteli auta, czyszczenie samochodu, pranie karcher, usługi czyszczenia samochodu, odplamianie, usuwanie roztoczy')
+        @section('title', 'PanJaga.pl - Oferta - Pranie i dezynfekcja materacy')
+        @section('description', 'Wypierzemy i zdezynfekujemy twój materac! Sprawdź naszą ofertę prania i dezynfekcji materacy. Usuwanie roztoczy, plam i zarazków, świeży materac bez alergenów - Pomożemy ci!')
+        @section('keywords', 'Pranie materaca, czyszczenie materaca, dezynfekcja materaca, usuwanie roztoczy, alergoff, świeży materac')
 
 @section('content')
 
@@ -34,14 +34,18 @@
             </div>
 
             <div class="offer-box">
-                <p class="padding-top-0">Niedługo wiosna, a zatem… czy chciałbyś ujrzeć wnętrze swojego auta w dokładnie takim stanie, w jakim opuściło salon?</p>
-                <p>Dzięki naszej profesjonalnej usłudze <strong>czyszczenia tapicerki samochodowej</strong> to możliwe. Od lat przywracamy <strong>tapicerce samochodowej</strong> jej fabryczną czystość, miękkość i zapach.</p>
+                <p class="padding-top-0">Każdy z nas kładzie się na nim codziennie nie myśląc o tym jak rzeczywiście bardzo wpływa na jakość naszego snu. Mowa tu o materacach...</p>
+                <p>Dzięki naszej profesjonalnej usłudze <strong>prania i dezynfekcji materacy</strong> mogą Państwo zyskać zdrowy sen, świeżość materaca oraz zniwelować objawy alergii.</p>
               
 
-                <h2><strong>Czyszczenie tapicerki samochodowej. Jak działamy?</strong></h2>
+                <h2><strong>Pranie, czyszczenie i dezynfekcja materacy. Jak działamy?</strong></h2>
                 
-                <p>Przy użyciu <strong>profesjonalnego odkurzacza ekstrakcyjnego Karcher Puzzi</strong>, <strong>czyścimy tapicerkę</strong> odpowiednio przygotowaną mieszanką wody i specjalnego płynu czyszczącego- delikatnego dla materiału, a jednocześnie szalenie skutecznego. Następnie, zostawiamy fotele na kilka minut „sam na sam” ze <strong>środkiem czyszczącym</strong>, po czym ściągamy wodę z powrotem do odkurzacza. </p>
+                <p>Przy użyciu <strong>profesjonalnej parownicy Karcher SV7</strong>, <strong>dezynfekujemy materac</strong> przy użyciu pary o temperaturze 100 stopni co pozwala zabić istniejące w nim roztocza, wirusy, bakterie oraz wstępnie odświeżyć piankę materaca i poszewkę.</p>
                 
+                <p>Następnie przy użyciu <strong>profesjonalnego odkurzacza piorącego Karcher Puzzi</strong> oraz odpowiedniej chemii- pierzemy materac metodą ekstrakcyjną tak aby wyciągnąć z niego odchody roztoczy, martwe roztocza i inne niepożądane rzeczy mające wpływ na jakość snu a przede wszystkim na samopoczucie alergików.</p>
+
+                <p>Dla alergików mamy specjalną ofertę zabiegu po praniu materaca specjalnym środkiem antyalergicznym pozwalającym zabezpieczyć materac na dłuższy czas przed roztoczami i innymi alergenami. Środek Allergoff rozpylamy na materacu po jego wypraniu.</p>
+
                   <div class="offer-images-container">
                     <div class="offer-images-box">
                       <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/4.jpg" alt="Pranie podłogi w FORD GALAXY">
@@ -59,13 +63,13 @@
                     
                   </div>
 
-                <h2><strong>Dlaczego należy unikać samodzielnego prania tapicerki auta?</strong></h2>
+                <h2><strong>Dlaczego należy unikać samodzielnego prania i czyszczenia materaca?</strong></h2>
 
-                <p>Głównym zagrożeniem związanym z samodzielną próbą <strong>wyczyszczenia tapicerki samochodowej</strong>, jest oczywiście jej <strong>nadmierne przemoczenie</strong>. Wówczas, fotele schną nawet kilka dni, a w <strong>gąbce tapicerskiej</strong> zaczynają pojawiać się bakterie, które finalnie mogą doprowadzić do degradacji stanu wizualnego foteli. Ponadto, w przypadku użycia zwykłych płynów dostępnych na sklepowej półce, zamiast odpowiednio przygotowanych <strong>profesjonalnych detergentów</strong>, z reguły <strong>efekty czyszczenia</strong> pozostają wiele do życzenia.</p>
+                <p>Głównym powodem przez który możemy zaszkodzić naszemu materacowi jest jego nadmierne przemoczenie przez co zwyczajnie może spleśnieć. Drugim powodem może być nie umiejętne ściągnięcie pokrowca materaca który w rzeczywistości nie jest do ściągnięcia. Nie wiele osób wie ale zamek na poszewce materaca czasami jest tylko zamkiem technologicznym, wyciągnięcie materaca może okazać się pozbyciem się poszewki na stałe. Zamek technologiczny służy tylko i wyłącznie do montażu pokrowca w fazie produkcji. Niektóre materace nie posiadają w ogóle zamków.</p>
 
-                <h2><strong>Czyszczenie auta. Co jeszcze możemy dla Ciebie zrobić?</strong></h2> 
+                <h2><strong>Pranie i dezynfekcja materaca. Co jeszcze możemy dla Ciebie zrobić?</strong></h2> 
                 
-                <p>Oprócz <strong>prania tapicerki</strong>, klienci z reguły powierzają nam również zadbanie o inne elementy samochodu- chociażby jego <strong>podłogę</strong>, <strong>bagażnik</strong> czy <strong>boczki</strong>. Gruntownie odkurzymy Twoje ulubione auto, zadbamy o wewnętrzne plastikowe elementy, a także dokładnie umyjemy szyby od środka. To wszystko sprawi, że poczujesz się w swoim aucie dokładnie tak, jakby dopiero opuściło salon samochodowy.</p>
+                <p>Wylane śniadanie, pot, resztki naskórka, wsiąknięty mocz dziecka w materac. Wszystkie te rzeczy sprawiają, że z czasem znacząco pogorszy się zapach w pomieszczeniu sypialni w którym leży materac. Dzięki praniu ekstrakcyjnemu możemy odświeżyć materac i pozbyć się przykrych zapachów raz na zawsze. <strong>Pranie materaca</strong> to nie kwestia estetyki a zdrowia.</p>
 
                   <div class="offer-images-container">
                     <div class="offer-images-box">

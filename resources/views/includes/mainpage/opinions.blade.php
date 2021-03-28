@@ -144,6 +144,71 @@
                     </div>
                 </div>
             </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie i odsierścianie narożnika</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Skorzystaliśmy z usługi czyszczenia dużego narożnika użytkowanego przez psa (sierść, inne zabrudzenia). Jesteśmy bardzo zadowoleni z efektów- czysta, odświeżona kanapa bez sierści.  Zlecenie wykonane rzetelnie, sprawnie i w bardzo miłej atmosferze. Wszystkim niezdecydowanym gorąco polecam."</div>
+                        <div class="client-name">Katarzyna Sz.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie i odsierścianie narożnika</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Zamówiliśmy z mężem pranie tapicerki narożnika. Narożnik wygląda jak nowy, czysty i odświeżony. Udało się, też pozbyć sierści psa. Polecamy usługi tego Pana. Na pewno wrócimy ponownie."</div>
+                        <div class="client-name">Beata P.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Czyszczenie tapczanu i wykładziny</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Tapicerka tapczanu wygląda jak nowa. Wykładzina odświeżona i w końcu doczyszczona. Pan bardzo punktualny i miły. Oby więcej takich specjalistów. Będe polecać i skorzystam ponownie. Pan Jaga to nowa jakość w regionie. Polecam !"</div>
+                        <div class="client-name">Patrycja S.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie i czyszczenie kanapy</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Serdecznie polecam firme Pan Jaga! Jasna kanapa po blizniakach wyglądała fatalnie. Myslalam ze nic tego nie dopierze. Sofa jak nowa. Nie zostala zalana woda. Wyschla na drugi dzien. Umyła nawet flamastry z oparcia!"</div>
+                        <div class="client-name">Katarzyna Sz.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie i czyszczenie kanapy</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Serdecznie polecam firme Pan Jaga! Jasna kanapa po blizniakach wyglądała fatalnie. Myslalam ze nic tego nie dopierze. Sofa jak nowa. Nie zostala zalana woda. Wyschla na drugi dzien. Umyła nawet flamastry z oparcia!"</div>
+                        <div class="client-name">Katarzyna Sz.</div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>

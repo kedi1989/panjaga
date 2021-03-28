@@ -40,7 +40,7 @@
                 </div>
             </a>
         </div>
-        <div class="service-box">
+        <!-- <div class="service-box">
             <a href="{{ route('pranie-materacy') }}">
                 <div class="service-image-wrapper">
                 <img loading="lazy" src="images/mainPageImages/car_ozone_1.jpg" alt="pranie i dezynfekcja materacy"/>
@@ -59,6 +59,6 @@
                     <h3>Pranie i czyszczenie wózków dziecięcych</h3>
                 </div>
             </a>
-        </div>
+        </div> -->
     </div>
 </div>
