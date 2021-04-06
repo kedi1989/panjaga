@@ -13,6 +13,7 @@
                     <div class="menu__item"><a href="{{ route('offer') }}">Oferta</a> </div>
                     <div class="menu__item"><a href="{{ route('cennik') }}">Cennik</a></div>
                     <div class="menu__item"><a href="{{ route('realizacje') }}">Realizacje</a></div>
+                    <div class="menu__item"><a href="{{ route('casestudy') }}">Case Study</a></div>
                     <div class="menu__item"><a href="{{ route('blog') }}">Blog</a></div>
                     <div class="menu__item"><a href="{{ route('faq') }}">Faq</a></div>
                     <div class="menu__item"><a href="{{ route('o-nas') }}">O nas</a></div>

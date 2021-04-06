@@ -37,6 +37,10 @@ Route::get('/blog', function () {
     return view('blog');
 })->name('blog');
 
+Route::get('/case-study', function () {
+    return view('casestudy');
+})->name('casestudy');
+
 Route::get('/najczesciej-zadawane-pytania', function () {
     return view('faq');
 })->name('faq');
@@ -57,13 +61,13 @@ Route::get('oferta/pranie-wykladzin-i-dywanow', function () {
     return view('offers/pranieDywanowWykladzinOffer');
 })->name('pranie-dywanow-wykladzin');
 
-Route::get('oferta/pranie-i-czyszczenie-wozkow-dzieciecych', function () {
-    return view('offers/pranieWozkowOffer');
-})->name('pranie-i-czyszczenie-wozkow-dzieciecych');
+// Route::get('oferta/pranie-i-czyszczenie-wozkow-dzieciecych', function () {
+//     return view('offers/pranieWozkowOffer');
+// })->name('pranie-i-czyszczenie-wozkow-dzieciecych');
 
-Route::get('oferta/pranie-materacy', function () {
-    return view('offers/pranieMateracyOffer');
-})->name('pranie-materacy');
+// Route::get('oferta/pranie-materacy', function () {
+//     return view('offers/pranieMateracyOffer');
+// })->name('pranie-materacy');
 
 Route::get('blog/jak-prac-tapicerke-meblowa', function () {
     return view('articles/article_1');
@@ -100,3 +104,15 @@ Route::get('blog/pranie-mebli-dywanow-i-wykladzin-karcher-leszno', function () {
 Route::get('blog/pranie-tapicerki-srem', function () {
     return view('articles/article_9');
 })->name('article_9');
+
+Route::get('case-study/pranie-mocno-zabrudzonego-naroznika-srem', function () {
+    return view('casestudy/casestudy_1');
+})->name('casestudy_1');
+
+Route::get('case-study/pranie-foteli-samochodowych-z-potu-koscian', function () {
+    return view('casestudy/casestudy_2');
+})->name('casestudy_2');
+
+// Route::get('case-study/pranie-i-dezynfekcja-wieloletniego-materaca-wloszakowice', function () {
+//     return view('casestudy/casestudy_3');
+// })->name('casestudy_3');

@@ -942,9 +942,6 @@ footer .bottom-footer-content .footer-copyrights a {
     font-size: 14px !important;
     line-height: 18px;
   }
-  footer .bottom-footer-content .footer-copyrights a {
-    color: #fff;
-  }
 }
 footer {
   margin: 30px 0 0 0;
@@ -1047,13 +1044,13 @@ footer .bottom-footer-content .footer-copyrights a {
   font-family: "Quicksand", sans-serif;
 }
 
-.blog-articles-list-container {
+.blog-articles-list-container, .case-study-list-container {
   display: flex;
   justify-content: space-around;
   margin: 20px auto;
   flex-wrap: wrap;
 }
-.blog-articles-list-container article {
+.blog-articles-list-container article, .case-study-list-container article {
   border-radius: 10px;
   border: 1px solid #ffffff;
   width: 30%;
@@ -1063,14 +1060,14 @@ footer .bottom-footer-content .footer-copyrights a {
   transform: scale(1);
   transition: all 0.3s;
 }
-.blog-articles-list-container article .blog-image-wrapper {
+.blog-articles-list-container article .blog-image-wrapper, .case-study-list-container article .blog-image-wrapper {
   width: 100%;
   height: 180x;
   border-radius: 10px 10px 0 0;
   overflow: hidden;
   margin: auto;
 }
-.blog-articles-list-container article .post-title h3 {
+.blog-articles-list-container article .post-title h3, .case-study-list-container article .post-title h3 {
   font-family: "Quicksand", sans-serif;
   font-size: 22px;
   line-height: 24px;
@@ -1079,7 +1076,7 @@ footer .bottom-footer-content .footer-copyrights a {
   margin: 10px 0;
   padding: 0 10px;
 }
-.blog-articles-list-container article .post-publised-date {
+.blog-articles-list-container article .post-publised-date, .case-study-list-container article .post-publised-date {
   font-family: "Quicksand", sans-serif;
   font-size: 13px;
   color: #353535;
@@ -1087,7 +1084,7 @@ footer .bottom-footer-content .footer-copyrights a {
   font-style: italic;
   padding: 0 10px;
 }
-.blog-articles-list-container article .post-content {
+.blog-articles-list-container article .post-content, .case-study-list-container article .post-content {
   font-size: 16px;
   color: #000;
   font-weight: 500;
@@ -1095,90 +1092,115 @@ footer .bottom-footer-content .footer-copyrights a {
   line-height: 27px;
   padding: 0 10px;
 }
-.blog-articles-list-container article img {
+.blog-articles-list-container article img, .case-study-list-container article img {
   width: 100%;
 }
-.blog-articles-list-container article:hover {
+.blog-articles-list-container article:hover, .case-study-list-container article:hover {
   transition: all 0.3s;
   transform: scale(1.05);
 }
 
-.blog-article-container {
+.blog-article-container, .case-study-container {
   padding-top: 60px;
   display: flex;
 }
-.blog-article-container .article-box {
+.blog-article-container .article-box, .case-study-container .article-box {
   width: 75%;
   padding: 0 30px 0 0;
 }
-.blog-article-container .newest-articles-box {
+.blog-article-container .newest-articles-box, .case-study-container .newest-articles-box {
   width: 25%;
   padding: 0 0 0 20px;
 }
-.blog-article-container .newest-articles-box h4 {
+.blog-article-container .newest-articles-box h4, .case-study-container .newest-articles-box h4 {
   font-family: "Quicksand", sans-serif;
   font-size: 22px;
   font-weight: 700;
 }
-.blog-article-container .newest-articles-box ul li {
+.blog-article-container .newest-articles-box ul li, .case-study-container .newest-articles-box ul li {
   margin: 20px 0;
   line-height: 25px;
   font-size: 18px;
 }
-.blog-article-container .newest-articles-box ul li a {
+.blog-article-container .newest-articles-box ul li a, .case-study-container .newest-articles-box ul li a {
   color: #000;
   font-family: "Quicksand", sans-serif;
   transition: all 0.3s;
 }
-.blog-article-container .newest-articles-box ul li a:hover {
+.blog-article-container .newest-articles-box ul li a:hover, .case-study-container .newest-articles-box ul li a:hover {
   color: #ff5809;
 }
-.blog-article-container .article-image {
+.blog-article-container .article-image, .case-study-container .article-image {
   width: 100%;
   margin: 0 0 30px 0;
 }
-.blog-article-container .article-image img {
+.blog-article-container .article-image img, .case-study-container .article-image img {
   width: 100%;
 }
-.blog-article-container h1 {
+.blog-article-container h1, .case-study-container h1 {
   font-family: "Quicksand", sans-serif;
   font-size: 34px;
   font-weight: 700;
   line-height: 34px;
 }
-.blog-article-container h2 {
+.blog-article-container h2, .case-study-container h2 {
   font-family: "Quicksand", sans-serif;
   font-size: 26px;
   font-weight: 700;
   line-height: 26px;
   padding: 20px 0 5px 0;
 }
-.blog-article-container h3 {
+.blog-article-container h3, .case-study-container h3 {
   font-family: "Quicksand", sans-serif;
   font-size: 20px;
   font-weight: 700;
   line-height: 20px;
   padding: 20px 0 5px 0;
 }
-.blog-article-container .post-published-date {
+.blog-article-container .post-published-date, .case-study-container .post-published-date {
   font-family: "Quicksand", sans-serif;
   font-size: 16px;
   font-style: italic;
   padding: 15px 0 0 0;
 }
-.blog-article-container p {
+.blog-article-container p, .case-study-container p {
   padding: 10px 0;
 }
-.blog-article-container .inner-article-image-container {
+.blog-article-container .inner-article-image-container, .case-study-container .inner-article-image-container {
   margin: 20px 0;
 }
-.blog-article-container .inner-article-image-container .inner-article-image-box img {
+.blog-article-container .inner-article-image-container .inner-article-image-box img, .case-study-container .inner-article-image-container .inner-article-image-box img {
   width: 100%;
 }
-.blog-article-container .inner-article-image-container .article-image-description-box p {
+.blog-article-container .inner-article-image-container .article-image-description-box p, .case-study-container .inner-article-image-container .article-image-description-box p {
   font-family: "Quicksand", sans-serif;
   font-style: italic;
   padding: 15px 0 0 0;
+}
+.blog-article-container .link-box, .case-study-container .link-box {
+  text-align: center;
+}
+.blog-article-container .link-box .link-btn, .case-study-container .link-box .link-btn {
+  background: #fbb26b;
+  padding: 12px 60px 12px 30px;
+  position: relative;
+  border-radius: 5px;
+  border: 1px solid #fbb26b;
+  display: inline-block;
+  margin: 20px auto;
+  padding: 15px 50px 15px 30px;
+  font-family: "Quicksand", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: #000;
+}
+.blog-article-container .link-box .link-btn i, .case-study-container .link-box .link-btn i {
+  position: absolute;
+  right: 20px;
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .blog-cities-box {
@@ -1193,40 +1215,40 @@ footer .bottom-footer-content .footer-copyrights a {
 }
 
 @media (max-width: 1220px) and (min-width: 767px) {
-  .blog-articles-list-container .article-container {
+  .blog-articles-list-container .article-container, .case-study-list-container .article-container {
     width: 45%;
   }
 
-  .blog-article-container {
+  .blog-article-container, .case-study-container {
     flex-wrap: wrap;
   }
-  .blog-article-container .article-box {
+  .blog-article-container .article-box, .case-study-container .article-box {
     width: 100%;
     padding: 0 0 0 0;
   }
-  .blog-article-container .newest-articles-box {
+  .blog-article-container .newest-articles-box, .case-study-container .newest-articles-box {
     width: 100%;
     padding: 0 0 0 0;
     margin: 20px 0;
   }
 }
 @media (max-width: 767px) {
-  .blog-articles-list-container {
+  .blog-articles-list-container, .case-study-list-container {
     flex-wrap: wrap;
   }
-  .blog-articles-list-container .article-container {
+  .blog-articles-list-container .article-container, .case-study-list-container .article-container {
     width: 90%;
     margin: 20px 0;
   }
 
-  .blog-article-container {
+  .blog-article-container, .case-study-container {
     flex-wrap: wrap;
   }
-  .blog-article-container .article-box {
+  .blog-article-container .article-box, .case-study-container .article-box {
     width: 100%;
     padding: 0 0 0 0;
   }
-  .blog-article-container .newest-articles-box {
+  .blog-article-container .newest-articles-box, .case-study-container .newest-articles-box {
     width: 100%;
     padding: 0 0 0 0;
     margin: 20px 0;

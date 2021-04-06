@@ -26,7 +26,7 @@
 
         @include('includes.mainpage.howWeWork')
 
-        <!-- @include('includes.mainpage.caseStudy') -->
+        @include('includes.mainpage.caseStudy')
 
         @include('includes.mainpage.chemicalBanner')
 

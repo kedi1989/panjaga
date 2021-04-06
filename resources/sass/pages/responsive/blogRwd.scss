@@ -1,11 +1,11 @@
 
 @media (max-width: 1220px) and (min-width: 767px){
-    .blog-articles-list-container { 
+    .blog-articles-list-container,.case-study-list-container { 
         .article-container {
             width: 45%;
         }
     }
-    .blog-article-container {
+    .blog-article-container,.case-study-container {
         flex-wrap: wrap;
         .article-box {
             width: 100%;
@@ -20,7 +20,7 @@
  }
 
  @media (max-width: 767px) {
-    .blog-articles-list-container { 
+    .blog-articles-list-container,.case-study-list-container { 
         flex-wrap: wrap;
         .article-container {
             width: 90%;
@@ -28,7 +28,7 @@
         }
     }
 
-    .blog-article-container {
+    .blog-article-container,.case-study-container {
         flex-wrap: wrap;
         .article-box {
             width: 100%;
