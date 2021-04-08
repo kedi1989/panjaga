@@ -1,6 +1,6 @@
 @extends('layouts.master')
-        @section('title', 'PanJaga.pl - CaseStudy - Pranie brudnego narożnika - Śrem')
-        @section('description', 'Jesteś ciekaw jak wykonuje swoje pracę ? Zajrzyj do mojego CaseStudy i zobacz jak odbywa się pranie tapicerek.')
+        @section('title', 'PanJaga.pl - Pranie brudnego narożnika - Śrem - CaseStudy')
+        @section('description', 'Szukasz prania narożnika w Śremie ? Jesteś ciekaw jak wykonuje swoje pracę ? Zajrzyj do mojego CaseStudy i zobacz jak odbywa się pranie tapicerek meblowych w mieście Śremie.')
         @section('keywords', 'pranie tapicerki meblowej śrem, pranie tapicerki, czyszczenie narożnika, pranie mebli ')
         @section('image', 'https://www.panjaga.pl/images/casestudy/1/1.jpg')
 @section('content')

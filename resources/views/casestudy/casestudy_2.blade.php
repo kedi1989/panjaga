@@ -1,6 +1,6 @@
 @extends('layouts.master')
-        @section('title', 'PanJaga.pl - CaseStudy - Pranie Foteli Samochodowych - Kościan')
-        @section('description', 'Jesteś ciekaw jak wykonuje swoje pracę ? Zajrzyj do mojego CaseStudy i zobacz jak odbywa się pranie tapicerek samochodowych.')
+        @section('title', 'PanJaga.pl - Pranie Foteli Samochodowych - Kościan - CaseStudy')
+        @section('description', 'Szukasz prania tapicerki w Kościanie ? Jesteś ciekaw jak wykonuje swoje pracę ? Zajrzyj do mojego CaseStudy i zobacz jak odbywa się pranie tapicerek samochodowych w Kościanie.')
         @section('keywords', 'pranie tapicerki samochodowej kościan, pranie tapicerki, czyszczenie foteli, pranie foteli, usuwanie plam potu ')
         @section('image', 'https://www.panjaga.pl/images/casestudy/2/1.jpg')
 @section('content')

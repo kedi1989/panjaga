@@ -113,6 +113,18 @@ Route::get('case-study/pranie-foteli-samochodowych-z-potu-koscian', function () 
     return view('casestudy/casestudy_2');
 })->name('casestudy_2');
 
+Route::get('case-study/pranie-gondoli-wozka-dzieciecego-i-fotelika-samochodowego-koscian', function () {
+    return view('casestudy/casestudy_3');
+})->name('casestudy_3');
+
+Route::get('case-study/czyszczenie-wieloletniego-tapczanu-i-foteli-za-pomoca-karcher-puzzi-koscian', function () {
+    return view('casestudy/casestudy_4');
+})->name('casestudy_4');
+
+Route::get('case-study/czyszczenie-stelaza-wozka-dzieciecego-i-pranie-gondoli-oraz-akcesoriow-karcherem-srem', function () {
+    return view('casestudy/casestudy_5');
+})->name('casestudy_5');
+
 // Route::get('case-study/pranie-i-dezynfekcja-wieloletniego-materaca-wloszakowice', function () {
 //     return view('casestudy/casestudy_3');
-// })->name('casestudy_3');
+// })->name('casestudy_10');

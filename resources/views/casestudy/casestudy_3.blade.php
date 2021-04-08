@@ -1,116 +1,166 @@
 @extends('layouts.master')
-        @section('title', 'PanJaga.pl - Blog - Jak prać tapicerkę samochdową ?')
-        @section('description', 'Jak prać tapicerkę meblową ? Dowiesz się na naszym blogu PANJAGA.PL - domowe sposoby na pranie tapicerki samochodowej ,tapicerka samochodowa, pranie samochodu, czyszczenie foteli, pranie podłogi samochodu, pranie foteli auta')
-        @section('keywords', 'jak prać tapicerkę samochodowa, czyszczenie kabiny tir, pranie samochodu, pranie podłogi auta, cennik prania tapicerki, ile kosztuje pranie tapicerki samochodowej')
-
+        @section('title', 'PanJaga.pl - Pranie i czyszczenie wózków dziecięcych - Kościan - CaseStudy')
+        @section('description', 'Szukasz prania i czyszczenia wózka dziecięcego w Kościanie ? Jesteś ciekaw jak wykonuje swoje pracę ? Zajrzyj do mojego CaseStudy i zobacz jak odbywa się pranie i czyszczenie wózków dziecięcych w Kościanie.')
+        @section('keywords', 'pranie tapicerki samochodowej kościan, pranie tapicerki, czyszczenie foteli, pranie foteli, usuwanie plam potu ')
+        @section('image', 'https://www.panjaga.pl/images/casestudy/3/1.jpg')
 @section('content')
 
         <div class="content-container">
           <div class="blog-article-container">
             
           <div class="article-box">
-              <h1>Wieloletnie materace mają to do siebie, że coś w nich żyje :) szczególnie jeśli na materacu śpią dzieci. Wylany kubek herbaty ze śniadania, plamy po moczu...</h1>
-              <p class="post-published-date">Lut 18, 2021 | Pranie tapicerki samochodowej</p>
+              <h1>Czyszczenie wózka dziecięcego czyli pranie gondoli i fotelika samochodowego Karcherem ! - Kościan</h1>
+              <p class="post-published-date">Kwi 14, 2021 | Pranie wózków dziecięcych - Kościan</p>
 
               <div class="sharethis-inline-share-buttons"></div>
 
               <div class="article-image">
-                <img class="box-shadow" src="{{ URL::asset('images/blog/articles/3/carseats.jpg') }}" alt="siedzenia samochodowe" />
+                <img class="box-shadow" src="{{ URL::asset('images/casestudy/3/1.jpg') }}" alt="Gondola wózka dziecięcego do prania - Kościan" />
               </div>
-              <p>Dla niektórych samochód osobowy, kabina ciężarówki, są drugim domem, a w domu powinno być czysto. Chcesz dowiedzieć się <strong>jak wyprać samochód</strong> ? <strong>Jak wyprać fotele samochodowe</strong> ? <strong>Ile kosztuje pranie tapicerki samochodowej</strong> ? <strong>Jak często prać wnętrze auta</strong> ? Zapraszamy do lektury ...</p>
+              <p>Moimi klientami stają się nawet ci najmniejsi a czasami jeszcze nienarodzeni :) Wózek dziecięcy czasem chce się odświeżyć a czasem trzeba dla kolejnego dziecka. Zobacz jak to robię !</p>
               
-              <h2><strong>Domowe sposoby na pranie tapicerki samochodowej</strong></h2>
+              <h2><strong>Naprawa wózków dziecięcych wizualna :) - Kościan</strong></h2>
 
-              <p>Tym, którzy chcą wykonać <strong>pranie foteli auta</strong> samodzielnie, podrzucimy kilka domowych sposobów. W tym artykule, opisane będą sposoby <strong>prania tapicerki materiałowej</strong>. W pierwszej kolejności, zawsze czyszczoną powierzchnię, trzeba dokładnie odkurzyć. Jeżeli jesteś kierowcą to pewnie dobrze wiesz, jak wygląda końcówka samochodowa do odkurzacza- wąska, potrafiąca wyciągać pod dużym ciśnieniem, dużo nieczystości, z wąskich szczelin. Do dzieła!</p>
-              
-              <h3><strong>Czyszczenie tapicerki samochodowej sodą</strong></h3>
+              <p>Zdarzają się coraz częściej zlecenia na naprawę wizualną wózka dziecięcego czyli często czyszczenie stelażu, pranie gondoli wózka, pranie spacerówki wózka czy też fotelika samochodowego.</p>
 
-              <p>Soda oczyszczona, jak już pisaliśmy w artykule na temat <strong>prania tapicerki meblowej</strong>, który można znaleźć <a href="{{ route('article_1') }}">TUTAJ</a> ma właściwości pochłaniające oraz nie jest toksyczna. Jeżeli chcesz użyć sody oczyszczonej, należy posypać <strong>tapicerkę</strong> na kilka godzin, a następnie dokładnie to odkurzyć. Skutecznym sposobem również może być wymieszanie sody z wodą i odrobiną kwasku cytrynowego, bądź soku z cytryny. Tak przygotowany preparat, należy rozpylić na siedzenia, a po wyschnięciu dokładnie odkurzyć. Cytryna, w tym przypadku dodatkowo zdezynfekuje <strong>tapicerkę foteli samochodu</strong>. </p>
+              <p>Cóż innego mogę zrobić jeżeli klient chce :)</p>
 
-              <h3><strong>Czyszczenie parowe na sucho</strong></h3>
-
-              <p>Na ratunek kierowcom może przyjść parownica, wytwarzająca parę powyżej 150 stopni. Pomoże w <strong>usunięciu plam</strong>, <strong>dezynfekcji</strong> i ogólnemu <strong>odświeżeniu naszej tapicerki auta</strong>. Metoda ta jednak, wymaga już pewnej inwestycji. Parownice dobrej jakości to koszt około 500 zł. W przypadku gdy mamy już takie urządzenie, wystarczy skierować parę na czyszczoną powierzchnię i przecierać np. ściereczką z mikrofibry, można również nałożyć mikrofibrę na dyszę urządzenia, jeżeli jest taka możliwość i pocierać o powierzchnie tapicerki, trzymając jednocześnie spust parownicy.</p>
-
-              <h3><strong>Bonetowanie</strong></h3>
-
-              <p><strong>Bonetowanie</strong> to nic innego jak użycie bezpośrednio środka chemicznego na czyszczoną powierzchnię, a następnie wycieranie <strong>tapicerki</strong>, <strong>podsufitki</strong> mikrofibrą, aż do uzyskania porządanego efektu. Można użyć również szczotki do <strong>tapicerki</strong> z miękkim włosiem, aby spotęgować działanie preparatu i wytrzeć bardziej zanieczyszczoną powierzchnię. Ta metoda jednak, radzi sobie głównie, z powierzchniowymi zabrudzeniami.</p>
-
-              <h2><strong>Usuwanie plam i usuwanie zapachów z samochodu</strong></h2>
-
-              <p>Wszystkie te metody, pomogą nam z pewnością, w przypadku drobnych zabrudzeń. Co w przypadku, kiedy w czasie podróży wylaliśmy kawę na fotel ? Pasażer z prawej, upuścił tłuste jedzenie, a dzieci z tyłu rozlały napój gazowany, i wszystko wsiąknęło gdzieś w tylnią kanapę ? Należy zdać sobię sprawę, że <strong>wnętrze auta</strong> narażone jest na skrajne i zmienne warunki. Zimą jest to ochłodzenie a w czasie jazdy podgrzewanie wnętrza samochodu, zbierająca się wilgoć w tym okresie sprzyja, romnażaniu się <strong>bakterii, wirusów i grzybów</strong> w środku foteli, które zostały zalane różymi napojami.</p>
-
-              <p>W myśl zasady- <strong>każdy zapach ma swoje źródło</strong>. Powinniśmy się zastanowić, czy uda nam się <strong>usunięcie nieprzyjemnych zapachów z auta </strong> domowymi sposobami, kiedy źródło jest już gdzieś głęboko w <strong>tapicerce foteli</strong> ?</p>
-            
-
-              <h2><strong>Pranie tapicerki samochodowej z dojazdem- profesjonalnie</strong></h2>
-
-              <p>Kiedy wszystkie metody domowe zawodzą, zwracamy się do profesjonalistów. <strong>Profesjonalne pranie tapicerki samochodowej</strong> to przede wszystkim odpowiedni sprzęt, profesjonalna chemia i doświadczenie. <strong>"Mobilna myjnia"</strong> to wygoda w każdym przypadku- usługa w twojej firmie, w miejscu twojego zamieszkania, na twoim podwórku.</p> 
-
-              <h2><strong>Pranie tapicerki samochodowej odkurzaczem piorącym- metodą ekstrakcyjną</strong></h2>
-
-              <p><strong>Pranie ekstrakcyjne odkurzaczem piorącym</strong>, to nie tylko skuteczna metoda na <strong>pranie samochodu</strong> ale również szybka. Po spryskaniu foteli, podłogi, boczków drzwi samochodu odpowiednią chemią, jesteśmy w stanie zneutralizować przykre zapachy a przede wszystkim, rozpuścić trudne do usunięcia <strong>plamy po kawie, słodkich napojach</strong>, <strong>tłuste plamy po jedzeniu</strong> itd.</p>
-              <p><strong>Pranie ekstrakcyjne tapicerki samochodowej</strong>, okaże się skuteczne również na: <strong>usuwanie roztoczy</strong>, <strong>usuwanie wirusów</strong>, <strong>bakterii</strong> i <strong>grzybów</strong>, ponieważ wszystko zostanie wyciągnięte z wnętrza foteli, pod dużym ciśnieniem wraz z brudną wodą.</p>
-              <p>Fakt ten docenią alergicy, którzy uczuleni są na roztocza kurzu, pyłki kwiatów itd.</p>
+              <p>Sprawa z praniem wózków jest na tyle delikatna, że trzeba wiedzieć jaką chemią to wyprać a przedewszystkim dobrze po wszystkim wypłukać.</p>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/blog/articles/3/4.jpg') }}" alt="pranie podłogi samochodu" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/3/2.jpg') }}" alt="Gondola wózka dziecięcego" />
                     <div class="article-image-description-box">
-                      <p>Pranie podłogi samochodu.</p>
+                      <p>Tak mniej więcej wygląda nasz pacjent. Ogólnie w dobrym stanie ale napewno do odświeżenia. Nie wszystko też widać na zdjęciu.</p>
                     </div>
                   </div>
               </div>
 
-              <h3><strong>Jak często prać wnętrze auta </strong>?</h3>
+              <p>Ten egzemplarz jest w dobrym stanie i ciężko będzie na zdjęciach pokazać różnice przed praniem i po praniu- jednak musicie uwierzyć mi na słowo, że po długim jego użytkowaniu- zawsze da się coś odświeżyć. Szczególnie jeśli chcemy taki wózek użytkować dla drugiego dziecka, sprzedać lub oddać komuś to warto aby kolejnemu dziecku podarować czysty wózek.</p>
 
-              <p>Przynajmniej raz do roku, a najlepiej na wiosnę i przed zimą, tak aby usunąć z samochodu wszystko to, co może być źródłem przykrych zapachów i namnażających się bakterii zimą. W przypadku kierowców, którzy wręcz mieszkają w samochodzie, a mowa tu o kierowcach samochodów ciężarowych i dostawczych, <strong>czyszczenie kabiny tira</strong> i <strong>prania tapicerki materaca do spania</strong>, czy też <strong>foteli</strong> powinno odbywać się regularnie. </p>
+              <h2><strong>Czyszczenie parowe wózka dziecięcego Karcherem - Do dzieła ! - Kościan</strong></h2>
 
-              <h3><strong>Ile kosztuje pranie tapicerki samochodowej</strong>?</h3>
-
-              <p>Średni <strong>cennik prania tapicerki samochodowej</strong>, nie powinien być dużym obciążeniem dla naszego portfela. Średnia <strong>cena prania foteli</strong> to 120-200 zł w przypadku małych i średnich aut, natomiast 50-100 zł więcej może wzrosnąć <strong>cena prania foteli</strong>, w dużych samochodach lub takich, które mają 7 miejsc siedzących.</p>
-              
-              <p>Średnia <strong>cena prania bagażnika</strong> to 40-60 zł, a <strong>cena prania podłogi samochodu</strong> to 60-100 zł</p>
-
-              <p><strong>Cena czyszczenia kabiny tira</strong> wraz z <strong>praniem tapicerki</strong> wewnątrz, może opiewać na kwotę 300-450 zł, w zależności od zakresu pracy. </p>
-
-              
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/blog/articles/3/1.jpg') }}" alt="pranie podłogi samochodu" />
-                    <div class="article-image-description-box">
-                      <p>Z lewej przed praniem a z prawej po praniu. Różnicę widać gołym okiem.</p>
-                    </div>
-                  </div>
-              </div>
-              
-
-              <h3><strong>Ile trwa pranie tapicerki samochodowej </strong>?</h3>
-
-              <p>W zależności od zakresu pracy, może to potrwać od 1,5 do nawet kilku godzin. Im auto jest brudniejsze, i im więcej foteli mamy, tym dłużej potrwa całe <strong>czyszczenie auta</strong>. W przypadku <strong>czyszczenia kabin tira</strong> i większych samochodów może to potrwać od 3 godzin i więcej.</p>
-
+              <p>Zazwyczaj w pracy przy wózkach pomaga mi czyszczenie parowe a mianowicie parownica Karcher. Pozwala mi zdezynfekować wózek i wstępnie rozpuścić brud, kurz za pomocą gorącej pary. Czyszczenie parowe ma wiele zastosowań tam gdzie chcemy zrobić coś bez chemicznie, pomaga też przy praniu materacy ale nie o tym tutaj mowa.</p>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/blog/articles/3/13.jpg') }}" alt="pranie podłogi samochodu" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/3/3.jpg') }}" alt="Czyszczenie parowe wózka w Kościanie" />
                     <div class="article-image-description-box">
-                      <p>Wyczyszczona kabina tira i tapicerka fotela oraz materaca.</p>
+                      <p>Czyszczenie parowe pomaga wstępnie rozpuścić brud bez użycia chemii oraz zdezynfekować obiekt.</p>
                     </div>
                   </div>
               </div>
 
-
-              <h3><strong>Ile schnie prana tapicerka samochodowa </strong>?</h3>
-
-              <p><strong>Odkurzacz piorący</strong>, pozostawia wilgnotność resztkową po odessaniu całej wody z <strong>foteli</strong> czy też <strong>podłogi</strong>, niemniej jednak jest to na tyle wilgotne, że powinniśmy trochę odczekać. W letnią słoneczną pogodę, jest to kwestia 1-2 godzin, a w duży upał nawet krócej. W mniej słoneczną pogodę, może to potrwać kilkanaście godzin, warto wtedy uchylić na centymetr okno, o ile pogoda na to pozwala, aby wilgoć z samochodu mogła swobodnie wydostawać się na zewnątrz. Zimą zaleca się, aby auto było prane w garażu i było często "w ruchu", uchylenie szyby, mocne grzanie w czasie jazdy, powinno wysuszyć wnętrze dość szybko.</p>
-
-              <!-- <div class="inner-article-image-container">
+              <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/blog/articles/1/5.jpg') }}" alt="pranie ekstrakcyjne kanapy" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/3/4.jpg') }}" alt="Czyszczenie parowe gondoli w Kościanie" />
                     <div class="article-image-description-box">
-                      <p>Pranie ekstrakcyjne wieloletniej kanapy</p>
+                      <p>Parownica jest przydatna przy wielu takich pracach. Szczególnie tam gdzie chcemy czasami zrobić coś bezchemicznie.</p>
                     </div>
                   </div>
-              </div> -->
+              </div>
+
+              <h2><strong>Pranie gondoli wózka dziecięcego Karcherem - Do dzieła ! - Kościan</strong></h2>
+
+              <p>W następnej kolejności spryskałem wózek delikatną chemią do tapicerki i przetarłem wszystko szczotką do tapicerki. Po odczekaniu paru minut, ściągnąłem wszystko wąską ssawką odkurzacza piorącego Karcher.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/3/5.jpg') }}" alt="Pranie wózka dziecięcego Kościan" />
+                    <div class="article-image-description-box">
+                      <p>Spryskana wierzchnia część na próbę.</p>
+                    </div>
+                  </div>
+              </div>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/3/6.jpg') }}" alt="Pranie wózka dziecięcego" />
+                    <div class="article-image-description-box">
+                      <p>Ściągnięta woda z chemią wąską ssawką.</p>
+                    </div>
+                  </div>
+              </div>
+
+              <p>W następnej kolejności zrobiłem to samo z wnętrzem wózka, zarówno tą częścią gdzie jest materacyk w gondoli jak i w wewnętrznej oraz zewnętrznej stronie nakrycia wózka a następnie przetarłem wszystko miekką szczotką do tapicerki skórzanej. Dlaczego miękką ? Z racji tego, że wózki są z różych materiałów, używanie twardej szczotki może pozostawić jakieś ślady przetarć, zmechacenia materiału. Moim zdaniem więc miękka szczotka w zupełności się do tego nada.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/3/7.jpg') }}" alt="Gondola wózka dziecięcego" />
+                    <div class="article-image-description-box">
+                      <p>Zmoczona gondola wózka wodą z chemią.</p>
+                    </div>
+                  </div>
+              </div>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/3/8.jpg') }}" alt="Gondola wózka dziecięcego" />
+                    <div class="article-image-description-box">
+                      <p>Zmoczona gondola wózka wodą z chemią.</p>
+                    </div>
+                  </div>
+              </div>
+
+              <p>W następnej kolejności ściągnąłem wodę z chemią wąską ssawką Karchera a następnie wypłukałem wodą. Efekt widzicie poniżej.</p>
+
+              <p>Co mogę powiedzieć w moim odczuciu a czego nie widać na zdjęciu ? Nie zrobiłem też zdjęcia brudnej wody z Karchera przepraszam :) Musicie uwierzyć mi na słowo ale poprawił się koloryt materiału z racji tego, że zniknął z niego ubity kurz. Napewno zmienił się zapach a co najważniejsze możemy być pewni, że pozbyłem się tym sposobem wszelkich bakterii, wirusów, grzybów a już napewno roztoczy które z pewnością znajdowały się w materacyku.</p>
+
+              <p>Przetarłem też elementy pseudoskórzane czyli boki gondoli,skórzane paski na wierzchniej części specjalną chemią do skór co ją troche odżywiło.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/3/9.jpg') }}" alt="pranie foteli samochodowych w Kościanie" />
+                    <div class="article-image-description-box">
+                      <p>Gotowa gondola - odciągnięta woda Karcherem</p>
+                    </div>
+                  </div>
+              </div>
+
+              <h2><strong>Pranie i czyszczenie fotelika samochodowego - Kościan</strong></h2>
+
+              <p>Podobnie jak wyżej wyczyściłem fotelik samochodowy dla małego dziecka. Fotelik był zakurzony oraz miał trochę plam- ogólnie bez tragedii. Podobnie jak z gondolą potraktowałem go gorącą parą, odkurzyłem a następnie użyłem wody z chemią do tapicerki aby go nią pokryć.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/3/10.jpg') }}" alt="pranie foteli samochodowych w Kościanie" />
+                    <div class="article-image-description-box">
+                      <p>Fotelik samochodowy do odświeżenia.</p>
+                    </div>
+                  </div>
+              </div>
+
+              <p>Pranie fotelików Karcherem ma o tyle dużą zaletę, że nie trzeba z nich ściągać poszycia. Z niektórych wręcz się nie da ściągnąć tapicerki do wyprania a nawet jeżeli da się to zrobić to po wypraniu może okazać się, że będziemy mieli problem z jej założeniem spowrotem na plastikowy szkielet- może się zwyczajnie skurczyć.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/3/11.jpg') }}" alt="pranie foteli samochodowych w Kościanie" />
+                    <div class="article-image-description-box">
+                      <p>Zmoczony fotelik wodą z chemią Karcherem.</p>
+                    </div>
+                  </div>
+              </div>
+
+              <p>Fotelik przetarty szczotką do tapicerki a następnie ściągnięta woda z chemią. Efekt sami zobaczcie.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/3/12.jpg') }}" alt="pranie foteli samochodowych w Kościanie" />
+                    <div class="article-image-description-box">
+                      <p>Wyprany fotelik samochodowy- efekt sami oceńcie</p>
+                    </div>
+                  </div>
+              </div>
+
+              <p>Tego typu usługi świadczę często u klienta ale zdarza mi się, też zabrać taki egzemplarz do domu.</p>
+
+              <h2><strong>Pranie wózków dziecięcych - Jak chemia ? - Kościan</strong></h2>
+
+              <p>Chemii której używam to delikatna chemia Karchera do tapicerki- typowa,uniwersalna Karcher-RM760. Jest tak delikatna, że równie dobrze mógłbym wyprać w niej ubrania a nawet słyszałem takie historie :)</p>
+
+              <p>Zdarza się, że trzeba czasem użyć czegoś mocniejszego ale proszę pamiętać, że w takim wypadku ta chemia zawsze jest wypłukana dokładnie tak aby nic nie zostało na materiale. Odbywa się to pod dużym ciśnieniem więc mamy pewność, że wszystko zniknie.</p>
+
+              <p>Zdarza mi się też czasami użyć płynu do prania dla dzieci LOVELA do koloru- w końcu to też środek do prania :)</p>
 
           </div>
             
