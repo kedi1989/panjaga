@@ -17,17 +17,17 @@
               <div class="article-image">
                 <img class="box-shadow" src="{{ URL::asset('images/casestudy/2/1.jpg') }}" alt="Porównanie brudnego i czystego fotela samochodowego - Kościan" />
               </div>
-              <p>Okazuje się, że jednymi z trudniejszych plam mogą być plamy od potu na fotelach. Temat był dość ciężki ale udało się uzyskać zadowalający efekt...</p>
+              <p>Okazuje się, że jednymi z trudniejszych plam, mogą być plamy od potu na fotelach. Temat był dość ciężki, ale udało się uzyskać zadowalający efekt...</p>
               
               <h2><strong>Pranie foteli samochodowych - Kościan</strong></h2>
 
-              <p>Jednym ze zleceń było wypranie foteli samochodowych z...plam z potu. Wielu z was może wydawać się, że najgorsze mogą być plamy z kawy albo herbaty ale wcale tak nie jest. Najgorszymi z plam jak dla mnie są długo przeleżałe, utarte plamy pochodzenia biologicznego tj. pot, krew, mocz etc.</p>
+              <p>Jednym ze zleceń, było wypranie foteli samochodowych z...plam z potu. Wielu z was może wydawać się, że najgorsze mogą być plamy z kawy albo herbaty, ale wcale tak nie jest. Najgorszymi z plam jak dla mnie, są długo przeleżałe, utarte plamy pochodzenia biologicznego tj. pot, krew, mocz etc.</p>
 
-              <p>Usuwanie takich plam wymaga odpowiedniego podejścia oraz dobrze dobranej chemii.</p>
+              <p>Usuwanie takich plam, wymaga odpowiedniego podejścia oraz dobrze dobranej chemii.</p>
 
               <h2><strong>Pranie tapicerki samochodowej - Do Dzieła ! - Kościan</strong></h2>
 
-              <p>Przy pierwszym podejściu użyłem zwykłej chemii do prania tapicerek i wkrętarki z szczotką do prania tapicerki, jednak nic to nie dawało, ogólny brud został ściągnięty ale wciąż było widać mocne zaplamienie od potu. Każde kolejne pranie tego samego miejsca uświadomiło mnie w przekonaniu, że nie wypiorę tego zwykłą chemią Karcher RM-760.</p>
+              <p>Przy pierwszym podejściu, użyłem zwykłej chemii do prania tapicerek i wkrętarki z szczotką do prania tapicerki, jednak nic to nie dawało, ogólny brud został ściągnięty, ale wciąż było widać mocne zaplamienie od potu. Każde kolejne pranie tego samego miejsca, uświadomiło mnie w przekonaniu, że nie wypiorę tego zwykłą chemią Karcher RM-760.</p>
 
               <p>Naszczęście w mojej magicznej walizeczce udało mi się namierzyć chemię enzymatyczną ENZ-ALL ze stajni CHEMSPEC, nie czekając długo rozrobiłem chemię w gorącej wodzie a następnie spryskałem fotele i przetarłem szczotką do tapicerki.</p>
 

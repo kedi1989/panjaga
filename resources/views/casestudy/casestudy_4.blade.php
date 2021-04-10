@@ -17,13 +17,13 @@
               <div class="article-image">
                 <img class="box-shadow" src="{{ URL::asset('images/casestudy/4/1.jpg') }}" alt="Czyszczenie tapczanu i foteli Karcher - Kościan" />
               </div>
-              <p>Stare meble są na tyle fajne, że są nietypowe i ciężko już takie dostać gdziekolwiek. Warto zatem je doprać i dać im drugie życie. Z tym tutaj trochę pracy było ale udało się. Zobaczcie sami!</p>
+              <p>Stare meble są na tyle fajne, że są nietypowe i ciężko już takie dostać gdziekolwiek. Warto zatem je doprać i dać im drugie życie. Z tym tutaj, trochę pracy było ale udało się. Zobaczcie sami!</p>
               
               <h2><strong>Czyszczenie tapczanu,kanapy - Karcher - Kościan</strong></h2>
 
-              <p>Klient chciał odświeżyć swoje stare meble i słusznie! Drugich takich już nigdzie nie dostanie a te będą wyglądały jak nowe - no prawie jak nowe bo przetarć się nie pozbędę :)</p>
+              <p>Klient chciał odświeżyć swoje stare meble i słusznie! Drugich takich, już nigdzie nie dostanie a te będą wyglądały jak nowe - no prawie jak nowe bo przetarć się nie pozbędę :)</p>
 
-              <p>Jak wygląda nasz pacjent widzicie na poniższych zdjęciach. Swoje lata już przeszedł, do tego trochę nikotyny w otoczeniu także jest nad czym pracować.</p>
+              <p>Jak wygląda nasz pacjent, widzicie na poniższych zdjęciach. Swoje lata już przeszedł, do tego trochę nikotyny w otoczeniu, także jest nad czym pracować.</p>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
@@ -43,7 +43,7 @@
                   </div>
               </div>
 
-              <p><strong>Usuwanie zapachów</strong> i ich neutralizacja to z pewnością porządany skutek uboczny <strong>prania tapicerki meblowej</strong>. <strong>Czyszczenie mebli</strong>, <strong>odsierścianie</strong>, <strong>neutralizacja zapachów</strong> powoduje, że nasze otoczenie z pewnością zmieni zapach a my będziemy czuć się zdrowiej.</p>
+              <p><strong>Usuwanie zapachów</strong> i ich neutralizacja, to z pewnością porządany skutek uboczny <strong>prania tapicerki meblowej</strong>. <strong>Czyszczenie mebli</strong>, <strong>odsierścianie</strong>, <strong>neutralizacja zapachów</strong> powoduje, że nasze otoczenie z pewnością zmieni zapach a my będziemy czuć się zdrowiej.</p>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
@@ -54,30 +54,30 @@
                   </div>
               </div>
 
-              <p>Jak zawsze jestem uzbrojony w odpowiedni sprzęt :) Tutaj bez wkrętarki ze szczotką do tapicerki oraz dwóch cukierków się nie obejdzie :)</p>
+              <p>Jak zawsze, jestem uzbrojony w odpowiedni sprzęt :) Tutaj bez wkrętarki ze szczotką do tapicerki, oraz dwóch cukierków się nie obejdzie :)</p>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
                     <img class="box-shadow" src="{{ URL::asset('images/casestudy/4/5.jpg') }}" alt="Akcesoria to prania tapicerki tapczanu w Kościanie" />
                     <div class="article-image-description-box">
-                      <p>Karcher, 2 cukierki dla energii, chemia do tapicerki i wkrętarka z szczotką do tapicerek to moi nieodzowni sojusznicy w walce z brudną tapicerką :)</p>
+                      <p>Karcher, 2 cukierki dla energii, chemia do tapicerki i wkrętarka z szczotką do tapicerek, to moi nieodzowni sojusznicy w walce z brudną tapicerką :)</p>
                     </div>
                   </div>
               </div>
 
               <h2><strong>Pranie Karcherem tapicerki meblowej, tapczanu, kanapy - Do dzieła! - Kościan</strong></h2>
 
-              <p>Jak zawsze w pierwszej kolejności odkurzam tapicerke mebla a następnie nanoszę pre-spray na tapicerkę. Woda z chemią musi być ciepła, nie zimna, nie gorąca bo zneutralizuje działanie środków piorących. To ważne.</p>
+              <p>Jak zawsze, w pierwszej kolejności odkurzam tapicerke mebla, a następnie nanoszę pre-spray na tapicerkę. Woda z chemią musi być ciepła, nie zimna, nie gorąca bo zneutralizuje działanie środków piorących. To ważne.</p>
 
               <p>Po naniesieniu pre-sprayu szczotkuję całą tapicerkę szczotką na wkrętarce. W tym przypadku to bardzo pomocne z racji tego, że brud który chce wydobyć jest bardzo stary i wtarty w mebel. Pranie mebli to prawdziwa strategia pamiętajcie :)</p>
 
-              <p>Po całym procesie ściągnąłem już jakąś część brudu z wodą Karcherem i mogę pokazać taki oto efekt widoczny na zdjęciu poniżej.</p>
+              <p>Po całym procesie ściągnąłem już jakąś część brudu z wodą Karcherem, i mogę pokazać taki oto efekt widoczny na zdjęciu poniżej.</p>
               
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
                     <img class="box-shadow" src="{{ URL::asset('images/casestudy/4/6.jpg') }}" alt="Czyszczenie tapczanu widoczne efekty - Kościan" />
                     <div class="article-image-description-box">
-                      <p>Porównanie pierwszej gorszej połowy jeszcze nie ruszonej i tej drugiej lepszej połowy już przepranej pierwszy raz.</p>
+                      <p>Porównanie pierwszej gorszej połowy, jeszcze nie ruszonej, i tej drugiej lepszej połowy, już przepranej pierwszy raz.</p>
                     </div>
                   </div>
               </div>
@@ -91,7 +91,7 @@
                   </div>
               </div>
 
-              <p>Efekt jest i to duży. W dalszej części pokaże wam jak wyglądała woda i osad na dnie wiadra z odkurzacza piorącego. Teraz spójrzcie na swoje meble w domu i wyobraźcie sobie jak mogłyby wyglądać jakby były nowe- myślę, że to dość dobrze zobrazuje wam jak to wyglądało w rzeczywistości po wypraniu.</p>
+              <p>Efekt jest i to duży. W dalszej części pokaże wam, jak wyglądała woda i osad na dnie wiadra z odkurzacza piorącego. Teraz spójrzcie na swoje meble w domu i wyobraźcie sobie, jak mogłyby wyglądać jakby były nowe- myślę, że to dość dobrze zobrazuje wam, jak to wyglądało w rzeczywistości po wypraniu.</p>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
@@ -137,7 +137,7 @@
 
               <p>Taką wodę zazwyczaj mamy podczas prania tapczanów, krzeseł, sof, foteli, narożników itd. ale też tapicerki samochodowej tj. foteli samochodowych, boczków w drzwiach, podłogi, szczególnie jeśli kierowca pali wewnątrz samochodu.</p>
 
-              <p>Zdarza się też, że meble które czyszcze są zasierścione. To też z czasem powoduje przykry zapach w otoczeniu. Odsierścianie również jest jedną z moich usług przy standardowym praniu tapicerki meblowej czy też samochodowej.</p>
+              <p>Zdarza się też, że meble które czyszcze są zasierścione. To też z czasem powoduje przykry zapach w otoczeniu. Odsierścianie również jest jedną z moich usług, przy standardowym praniu tapicerki meblowej czy też samochodowej.</p>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
@@ -159,7 +159,7 @@
 
               <h2><strong>Pranie, czyszczenie foteli, krzeseł - Kościan</strong></h2>
 
-              <p>Klient do kompletu miał jeszcze dwa takie fotele które również wyprałem.</p>
+              <p>Klient do kompletu miał jeszcze dwa takie fotele, które również wyprałem.</p>
 
               <p>Cały proces był bardzo podobny do tego powyżej z tym, że o wiele mniejsza powierzchnia była do wyprania. Efekty sami oceńcie.</p>
 

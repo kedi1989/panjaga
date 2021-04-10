@@ -19,18 +19,18 @@
                 <img class="box-shadow" src="{{ URL::asset('images/casestudy/1/1.jpg') }}" alt="porównanie niewypranego i wypranego narożnika karcherem - Śrem" />
               </div>
               
-              <p>Naszymi klientami najczęściej są rodziny z dziećmi w szczególności tymi mniejszymi :) A dzieci jak to dzieci zawsze coś rozleją. Zobacz jak sobie poradziliśmy z tym przypadkiem !</p>
+              <p>Naszymi klientami, najczęściej są rodziny z dziećmi, w szczególności tymi mniejszymi :) A dzieci, jak to dzieci, zawsze coś rozleją. Zobacz jak sobie poradziliśmy z tym przypadkiem !</p>
               <h2><strong>Czyszczenie narożnika - Śrem</strong></h2>
-              <p>Ten przykład pokazuje, że po paru latach użytkowania dodając do tego dzieci i psa można spodziewać się plam po kawie, mleku, herbacie, zupie itd. Wszystko byłoby dobrze gdyby dało się to w prostu sposób przywrócić do porządku i nie byłoby nie miłego zapachu. <strong>Usuwanie plam</strong> to jedno i daje to wizualny efekt, należy pamiętać jednak, że wszystko co najgorsze jest w środku narożnika.</p>
+              <p>Ten przykład pokazuje, że po paru latach użytkowania, dodając do tego dzieci i psa, można spodziewać się plam po kawie, mleku, herbacie, zupie itd. Wszystko byłoby dobrze, gdyby dało się to w prosty sposób przywrócić do porządku, i nie byłoby niemiłego zapachu. <strong>Usuwanie plam</strong> to jedno i daje to wizualny efekt, należy pamiętać jednak, że wszystko co najgorsze jest w środku narożnika.</p>
               
-              <p>Jak zawsze za zgodą klienta dokumentuje takie prace bo są one przykładem, że da się pomóc i w takich sytuacjach.</p>
+              <p>Jak zawsze za zgodą klienta, dokumentuje takie prace, bo są one przykładem, że da się pomóc i w takich sytuacjach.</p>
 
               
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
                     <img class="box-shadow" src="{{ URL::asset('images/casestudy/1/2.jpg') }}" alt="zdjęcie brudnego narożnika" />
                     <div class="article-image-description-box">
-                      <p>Narożnik trochę zaplamiony. No cóż zobaczymy co da się z nim zrobić :)</p>
+                      <p>Narożnik trochę zaplamiony. No cóż, zobaczymy co da się z nim zrobić :)</p>
                     </div>
                   </div>
               </div>
@@ -55,11 +55,11 @@
 
               <h2><strong>Pranie narożnika Karcherem - Do Dzieła ! - Śrem</strong></h2>
 
-              <p>Na pierwszy ogień tak dla porównania poszła część trybu spania. Po spryskaniu pre-sprayem i odczekaniu 15 minut wziąłem do ręki wkrętarkę z szczotką do tapicerki i uzyskałem taki oto efekt zaprezentowany poniżej. Wkrętarka z szczotką do tapicerki jest niezastąpiona przy cięższych zabrudzeniach na większej powierzchni.</p>
+              <p>Na pierwszy ogień tak dla porównania, poszła część trybu spania. Po spryskaniu pre-sprayem i odczekaniu 15 minut, wziąłem do ręki wkrętarkę z szczotką do tapicerki, i uzyskałem taki oto efekt zaprezentowany poniżej. Wkrętarka z szczotką do tapicerki, jest niezastąpiona przy cięższych zabrudzeniach na większej powierzchni.</p>
               
-              <p>Po użyciu szczotki oczywiście wypłukałem powierzchnię czyszczoną odkurzaczem piorącym- wciągnąłem brud z wodą z narożnika jednocześnie płucząc jeszcze chemie która się na nim znajdowała.</p>
+              <p>Po użyciu szczotki, oczywiście wypłukałem powierzchnię czyszczoną odkurzaczem piorącym- wciągnąłem brud z wodą z narożnika, jednocześnie płucząc jeszcze chemie, która się na nim znajdowała.</p>
               
-              <p>Oczywiście jakby ktoś zastanawiał się po co na zdjęciu jest ręcznik to już wyjaśniam. Ręcznik służy zwyczajnie do wycierania podłogi z resztek wody z chemią, należy o tym pamiętać z racji tego, że woda może zwyczajnie sprawić, że panele spuchną szczególnie gdyż używam do chemii ciepłej wody.</p>
+              <p>Oczywiście, jakby ktoś zastanawiał się, po co na zdjęciu jest ręcznik to już wyjaśniam. Ręcznik, służy zwyczajnie do wycierania podłogi z resztek wody z chemią, należy o tym pamiętać z racji tego, że woda może zwyczajnie sprawić, że panele spuchną szczególnie gdyż używam do chemii ciepłej wody.</p>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
@@ -74,7 +74,7 @@
                   <div class="inner-article-image-box">
                     <img class="box-shadow" src="{{ URL::asset('images/casestudy/1/6.jpg') }}" alt="wyczyszczony narożnik" />
                     <div class="article-image-description-box">
-                      <p>Narożnik śmiało można powiedzieć, że wygląda jak nowy. Nowy nigdy nie będzie ale przy niewielkim koszcie w stosunku do nowego można dać mu drugą młodość.</p>
+                      <p>Narożnik śmiało można powiedzieć, że wygląda jak nowy. Nowy nigdy nie będzie, ale przy niewielkim koszcie w stosunku do nowego, można dać mu drugą młodość.</p>
                     </div>
                   </div>
               </div>
@@ -89,7 +89,7 @@
                   <div class="inner-article-image-box">
                     <img class="box-shadow" src="{{ URL::asset('images/casestudy/1/7.jpg') }}" alt="czyste oparcie wypranego narożnika" />
                     <div class="article-image-description-box">
-                      <p>Oparcie też wygląda już znacznie lepiej. Udało się za pomocą specjalnych środków usunąć również gumę do żucia.</p>
+                      <p>Oparcie też wygląda już znacznie lepiej. Udało się za pomocą specjalnych środków, usunąć również gumę do żucia.</p>
                     </div>
                   </div>
               </div>
@@ -105,7 +105,7 @@
 
               <h2><strong>Pranie tapicerki meblowej - Użyta chemia - Śrem</strong></h2>
 
-              <p>W tym przypadku użyłem chemii Karcher RM-760 jako pre-sprayu a następnie płukanki Karcher RM-763 która wypłukała resztę brudu i chemii pozostawiając mebel bezpieczny do użytku dla dzieci i zwierząt. Sama chemia piorąca w tym przypadku była i tak łagodna. </p>
+              <p>W tym przypadku, użyłem chemii Karcher RM-760 jako pre-sprayu, a następnie płukanki Karcher RM-763, która wypłukała resztę brudu i chemii pozostawiając mebel bezpieczny do użytku, dla dzieci i zwierząt. Sama chemia piorąca w tym przypadku, była i tak łagodna. </p>
 
           </div>
             
