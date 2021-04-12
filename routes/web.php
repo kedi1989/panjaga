@@ -125,6 +125,10 @@ Route::get('case-study/czyszczenie-stelaza-wozka-dzieciecego-i-pranie-gondoli-or
     return view('casestudy/casestudy_5');
 })->name('casestudy_5');
 
+Route::get('case-study/pranie-i-czyszczenie-naroznika-karcherem-koscian', function () {
+    return view('casestudy/casestudy_6');
+})->name('casestudy_6');
+
 
 
 // Route::get('case-study/pranie-i-dezynfekcja-wieloletniego-materaca-wloszakowice', function () {

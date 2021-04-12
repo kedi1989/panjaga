@@ -107,6 +107,25 @@
                 </a>
             </article>
 
+            <article class="article-container">
+                <a href="{{ route('casestudy_6') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/6/8.jpg') }}" alt="rogówka, narożnik z widoczną dyszą od Karchera"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h3>Pranie i czyszczenie rogówki, narożnika Karcherem - Zajrzyj! - Kościan</h3>
+                        </div>
+                        <div class="post-publised-date">
+                            Maj 1, 2021
+                        </div>
+                        <div class="post-content">
+                            Fajny klimat jest wtedy kiedy siadamy na swoim ulubionym narożniku i odpalamy dobry film z ukochaną osobą :) Ważne, żeby jednak ta rogówka była czysta ;) Pranie i czyszczenie mebli od środka ! Zapraszam !
+                        </div>
+                    </div>
+                </a>
+            </article>
+
             
 
             

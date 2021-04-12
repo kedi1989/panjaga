@@ -6,7 +6,7 @@
     <li><a href="{{ route('casestudy_3') }}">Czyszczenie wózka dziecięcego czyli pranie gondoli i fotelika samochodowego Karcherem ! - Kościan</a></li>
     <li><a href="{{ route('casestudy_4') }}">Czyszczenie wieloletniego tapczanu i foteli za pomocą Karcher Puzzi - Zobacz! - Kościan</a></li>
     <li><a href="{{ route('casestudy_5') }}">Czyszczenie stelażu wózka dziecięcego parą i pranie gondoli oraz akcesoriów Karcherem - Zobacz! - Śrem</a></li>
-    <li><a href="{{ route('casestudy_6') }}">-</a></li>
+    <li><a href="{{ route('casestudy_6') }}">Pranie i czyszczenie rogówki, narożnika Karcherem - Zajrzyj! - Kościan</a></li>
   </ul>
   <h4>Sprawdź naszą ofertę</h4>
   <ul>
