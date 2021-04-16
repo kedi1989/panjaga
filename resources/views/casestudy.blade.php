@@ -76,7 +76,7 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Czyszczenie wieloletniego tapczanu,kanapy i foteli za pomocą Karcher Puzzi - Zobacz! - Kościan</h3>
+                            <h3>Czyszczenie wieloletniego tapczanu, wersalki, kanapy i foteli za pomocą Karcher Puzzi - Zobacz! - Kościan</h3>
                         </div>
                         <div class="post-publised-date">
                             Kwi 18, 2021
@@ -126,9 +126,157 @@
                 </a>
             </article>
 
-            
+            <article class="article-container">
+                <a href="{{ route('casestudy_7') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/7/1.jpg') }}" alt="Samochód ciężarowy"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h3>Czyszczenie szoferki TIRa oraz pranie foteli samochodowych, czyszczenie podsufitki TIR, pranie materaca - Karcher - Kościan</h3>
+                        </div>
+                        <div class="post-publised-date">
+                            Maj 5, 2021
+                        </div>
+                        <div class="post-content">
+                            Jak już kiedyś pisałem- piorę wszystko co nie zmieści się do pralki :) Samochód ciężarowy - TiR - jest jedną z tych właśnie rzeczy :) Zapraszam!
+                        </div>
+                    </div>
+                </a>
+            </article>
 
-            
+            <article class="article-container">
+                <a href="{{ route('casestudy_8') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/8/1.jpg') }}" alt="Stelaż wózka"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h3>Czyszczenie parowe wózka, mycie tapicerki wózka, czyszczenie stelaża i pranie gondoli Karcherem - Jak uprać wózek ? - Leszno</h3>
+                        </div>
+                        <div class="post-publised-date">
+                            Maj 10, 2021
+                        </div>
+                        <div class="post-content">
+                            Każdy wózek prędzej czy później dostaje drugie życie i ma nowego właściciela :) Przed tym- trzeba go odświeżyć. Zastanawiacie się jak wyczyścić wózek ? Zapraszam !
+                        </div>
+                    </div>
+                </a>
+            </article>
+
+            <article class="article-container">
+                <a href="{{ route('casestudy_9') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/9/1.jpg') }}" alt="Brudny tapczan"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h3>Czyszczenie, mycie tapicerki młodzieżowej wersalki, kanapy - Pranie tapicerki Karcher - Śrem</h3>
+                        </div>
+                        <div class="post-publised-date">
+                            Maj 20, 2021
+                        </div>
+                        <div class="post-content">
+                            Każda wersalka, kanapa, tapczan są inne ale łączy je jedno- z czasem stają się brudne i trzeba je wyprać metodą ekstrakcyjną Karcherem - Zapraszam !
+                        </div>
+                    </div>
+                </a>
+            </article>
+
+            <article class="article-container">
+                <a href="{{ route('casestudy_10') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/10/2.jpg') }}" alt="Brudny materac do prania"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h3>Pranie i czyszczenie materaca, usuwanie plam, dezynfekcja - Śrem</h3>
+                        </div>
+                        <div class="post-publised-date">
+                            Maj 28, 2021
+                        </div>
+                        <div class="post-content">
+                           Materace czasem przydałoby się wyprać- tak da się prać materace a nawet czasami powinno, w końcu na nich spędzamy sporą część swojego życia zwyczajnie śpiąc. Zapraszam !
+                        </div>
+                    </div>
+                </a>
+            </article>
+
+            <article class="article-container">
+                <a href="{{ route('casestudy_11') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/11/1.jpg') }}" alt="Narożniki, rogówki"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h3>Mycie, czyszczenie tapicerki narożnika, krzeseł i fotela, odświeżanie mebli - Usługi Karcher - Kościan</h3>
+                        </div>
+                        <div class="post-publised-date">
+                            Cze 3, 2021
+                        </div>
+                        <div class="post-content">
+                            Czyszczenie i odświeżanie fajnych mebli to wisienka na torcie w mojej codziennej pracy. Zobacz co fajnego miałem do roboty :) A może sam/sama zdecydujesz się zamówić podobną usługę u mnie. Zapraszam !
+                        </div>
+                    </div>
+                </a>
+            </article>
+
+            <article class="article-container">
+                <a href="{{ route('casestudy_12') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/12/2.jpg') }}" alt="Nastopnice, nakładki schodowe"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h3>Pranie i czyszczenie nastopnic schodowych, nakładek schodowych - Karcherem - Kościan</h3>
+                        </div>
+                        <div class="post-publised-date">
+                            Cze 10, 2021
+                        </div>
+                        <div class="post-content">
+                          Pewnie nie każdy z was pomyślał, że da się wyprać nastopnice schodowe. Da się i to całkiem sprawnie, nawet bez odklejania się od schodów. Ten przypadek cię zaciekawi :) Zapraszam!
+                        </div>
+                    </div>
+                </a>
+            </article>
+
+            <article class="article-container">
+                <a href="{{ route('casestudy_13') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/13/1.jpg') }}" alt="Narożnik w kształcie U"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h3>Czyszczenie tapicerki narożnika z plam, pranie tapicerki meblowej - Karcher - Rydzyna, Leszno</h3>
+                        </div>
+                        <div class="post-publised-date">
+                            Cze 15, 2021
+                        </div>
+                        <div class="post-content">
+                        Niektóre meble mają zabrudzenia tylko w niektórych miejscach a ogólnie są czyste. Bywa jednak, że i to kuje w oczy i chce się to jednak odświeżyć. Usuwanie plam z potu - Zapraszam!
+                        </div>
+                    </div>
+                </a>
+            </article>
+
+            <article class="article-container">
+                <a href="{{ route('casestudy_14') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/14/7.jpg') }}" alt="Moduł narożnika"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h3>Pranie, mycie tapicerki meblowej - Narożnik po remoncie - Usługi Karcher - Śrem</h3>
+                        </div>
+                        <div class="post-publised-date">
+                            Cze 21, 2021
+                        </div>
+                        <div class="post-content">
+                            Zostałem wezwany, żeby finalnie zakończyć remont dużego pokoju a mianowicie doprać przykryty folią narożnik Karcherem a potem pomóc go złożyć :)
+                        </div>
+                    </div>
+                </a>
+            </article>
             
           </div>
           </div>

@@ -1,5 +1,5 @@
 @extends('layouts.master')
-        @section('title', 'PanJaga.pl - Czyszczenie tapczanu i foteli Karcher - Kościan - CaseStudy')
+        @section('title', 'PanJaga.pl - Czyszczenie tapczanu, wersalki i foteli Karcher - Kościan - CaseStudy')
         @section('description', 'Szukasz prania i czyszczenia tapczanu, foteli w Kościanie ? Jesteś ciekaw jak wykonuje swoje pracę ? Zajrzyj do mojego CaseStudy i zobacz jak odbywa się pranie i czyszczenie tapczanu i foteli w Kościanie.')
         @section('keywords', 'pranie tapicerki samochodowej kościan, pranie tapicerki, czyszczenie foteli, pranie foteli, usuwanie plam potu, czyszczenie tapczanu ')
         @section('image', 'https://www.panjaga.pl/images/casestudy/4/1.jpg')
@@ -9,7 +9,7 @@
           <div class="blog-article-container">
             
           <div class="article-box">
-              <h1>Czyszczenie wieloletniego tapczanu,kanapy i foteli za pomocą Karcher Puzzi - Zobacz! - Kościan</h1>
+              <h1>Czyszczenie wieloletniego tapczanu, wersalki, kanapy i foteli za pomocą Karcher Puzzi - Zobacz! - Kościan</h1>
               <p class="post-published-date">Kwi 18, 2021 | Czyszczenie tapczanu i foteli - Kościan</p>
 
               <div class="sharethis-inline-share-buttons"></div>
@@ -19,7 +19,7 @@
               </div>
               <p>Stare meble są na tyle fajne, że są nietypowe i ciężko już takie dostać gdziekolwiek. Warto zatem je doprać i dać im drugie życie. Z tym tutaj, trochę pracy było ale udało się. Zobaczcie sami!</p>
               
-              <h2><strong>Czyszczenie tapczanu,kanapy - Karcher - Kościan</strong></h2>
+              <h2><strong>Czyszczenie tapczanu, wersalki, kanapy - Karcher - Kościan</strong></h2>
 
               <p>Klient chciał odświeżyć swoje stare meble i słusznie! Drugich takich, już nigdzie nie dostanie a te będą wyglądały jak nowe - no prawie jak nowe bo przetarć się nie pozbędę :)</p>
 
@@ -65,7 +65,7 @@
                   </div>
               </div>
 
-              <h2><strong>Pranie Karcherem tapicerki meblowej, tapczanu, kanapy - Do dzieła! - Kościan</strong></h2>
+              <h2><strong>Pranie Karcherem tapicerki meblowej, tapczanu, wersalki, kanapy - Do dzieła! - Kościan</strong></h2>
 
               <p>Jak zawsze, w pierwszej kolejności odkurzam tapicerke mebla, a następnie nanoszę pre-spray na tapicerkę. Woda z chemią musi być ciepła, nie zimna, nie gorąca bo zneutralizuje działanie środków piorących. To ważne.</p>
 
