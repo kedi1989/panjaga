@@ -133,6 +133,10 @@ Route::get('case-study/pranie-i-czyszczenie-naroznika-karcherem-koscian', functi
     return view('casestudy/casestudy_6');
 })->name('casestudy_6');
 
+// Route::get('case-study/czyszczenie-szoferki-tir-oraz-pranie-foteli-samochodowych-podsufitki-materaca-koscian', function () {
+//     return view('casestudy/casestudy_7');
+// })->name('casestudy_7');
+
 Route::get('case-study/czyszczenie-wozka-dzieciecego-stelazu-i-gondoli-karcher-leszno', function () {
     return view('casestudy/casestudy_8');
 })->name('casestudy_8');
@@ -145,5 +149,19 @@ Route::get('case-study/pranie-czyszczenie-materaca-usuwanie-plam-dezynfekcja-kar
     return view('casestudy/casestudy_10');
 })->name('casestudy_10');
 
+Route::get('case-study/casestudy11', function () {
+    return view('casestudy/casestudy_11');
+})->name('casestudy_11');
 
+Route::get('case-study/casestudy12', function () {
+    return view('casestudy/casestudy_12');
+})->name('casestudy_12');
+
+Route::get('case-study/casestudy13', function () {
+    return view('casestudy/casestudy_13');
+})->name('casestudy_13');
+
+Route::get('case-study/casestudy14', function () {
+    return view('casestudy/casestudy_14');
+})->name('casestudy_14');
 

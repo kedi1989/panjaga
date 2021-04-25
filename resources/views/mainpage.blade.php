@@ -9,7 +9,7 @@
         <div class="main-banner-title">
             <div class="title-box">
                 <h1>Pranie tapicerki meblowej i samochodowej, pranie dywanów i wykładzin karcher</h1>
-                <h2><strong>Kościan</strong>, <strong>Leszno</strong>, <strong>Śrem</strong>, <strong>Poznań</strong> - PanJaga.pl</h2>
+                <h2><strong>Kościan</strong>, <strong>Leszno</strong>, <strong>Śrem</strong>, <strong>Mosina</strong>, <strong>Luboń</strong> - PanJaga.pl</h2>
             </div>
         </div>
     </div>

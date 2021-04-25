@@ -7,6 +7,9 @@
     <li><a href="{{ route('casestudy_4') }}">Czyszczenie wieloletniego tapczanu i foteli za pomocą Karcher Puzzi - Zobacz! - Kościan</a></li>
     <li><a href="{{ route('casestudy_5') }}">Czyszczenie stelażu wózka dziecięcego parą i pranie gondoli oraz akcesoriów Karcherem - Zobacz! - Śrem</a></li>
     <li><a href="{{ route('casestudy_6') }}">Pranie i czyszczenie rogówki, narożnika Karcherem - Zajrzyj! - Kościan</a></li>
+    <li><a href="{{ route('casestudy_8') }}">Czyszczenie parowe wózka, mycie tapicerki wózka, czyszczenie stelaża i pranie gondoli Karcherem - Jak uprać wózek ? - Leszno</a></li>
+    <li><a href="{{ route('casestudy_9') }}">Czyszczenie, mycie tapicerki młodzieżowej wersalki, kanapy - Pranie tapicerki Karcher - Śrem</a></li>
+    <li><a href="{{ route('casestudy_10') }}">Pranie i czyszczenie materaca, usuwanie plam, dezynfekcja - Śrem</a></li>
   </ul>
   <h4>Sprawdź naszą ofertę</h4>
   <ul>

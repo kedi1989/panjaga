@@ -183,9 +183,81 @@
                 </a>
             </article>
 
-            
+            <article class="article-container">
+                <a href="{{ route('casestudy_11') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/11/1.jpg') }}" alt="Narożniki, rogówki"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h3>Mycie, czyszczenie tapicerki narożnika, krzeseł i fotela, odświeżanie mebli - Usługi Karcher - Kościan</h3>
+                        </div>
+                        <div class="post-publised-date">
+                            Cze 3, 2021
+                        </div>
+                        <div class="post-content">
+                            Czyszczenie i odświeżanie fajnych mebli to wisienka na torcie w mojej codziennej pracy. Zobacz co fajnego miałem do roboty :) A może sam/sama zdecydujesz się zamówić podobną usługę u mnie. Zapraszam !
+                        </div>
+                    </div>
+                </a>
+            </article>
 
-            
+            <article class="article-container">
+                <a href="{{ route('casestudy_12') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/12/2.jpg') }}" alt="Nastopnice, nakładki schodowe"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h3>Pranie i czyszczenie nastopnic schodowych, nakładek schodowych - Karcherem - Kościan</h3>
+                        </div>
+                        <div class="post-publised-date">
+                            Cze 10, 2021
+                        </div>
+                        <div class="post-content">
+                          Pewnie nie każdy z was pomyślał, że da się wyprać nastopnice schodowe. Da się i to całkiem sprawnie, nawet bez odklejania się od schodów. Ten przypadek cię zaciekawi :) Zapraszam!
+                        </div>
+                    </div>
+                </a>
+            </article>
+
+            <article class="article-container">
+                <a href="{{ route('casestudy_13') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/13/1.jpg') }}" alt="Narożnik w kształcie U"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h3>Czyszczenie tapicerki narożnika z plam, pranie tapicerki meblowej - Karcher - Rydzyna, Leszno</h3>
+                        </div>
+                        <div class="post-publised-date">
+                            Cze 15, 2021
+                        </div>
+                        <div class="post-content">
+                        Niektóre meble mają zabrudzenia tylko w niektórych miejscach a ogólnie są czyste. Bywa jednak, że i to kuje w oczy i chce się to jednak odświeżyć. Usuwanie plam z potu - Zapraszam!
+                        </div>
+                    </div>
+                </a>
+            </article>
+
+            <article class="article-container">
+                <a href="{{ route('casestudy_14') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/14/7.jpg') }}" alt="Moduł narożnika"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h3>Pranie, mycie tapicerki meblowej - Narożnik po remoncie - Usługi Karcher - Śrem</h3>
+                        </div>
+                        <div class="post-publised-date">
+                            Cze 21, 2021
+                        </div>
+                        <div class="post-content">
+                            Zostałem wezwany, żeby finalnie zakończyć remont dużego pokoju a mianowicie doprać przykryty folią narożnik Karcherem a potem pomóc go złożyć :)
+                        </div>
+                    </div>
+                </a>
+            </article>
 
             
 

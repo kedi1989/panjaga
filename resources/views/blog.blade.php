@@ -144,6 +144,25 @@
                 </div>
             </a>
         </article>
+
+        <article class="article-container">
+            <a href="{{ route('article_10') }}">
+                <div class="blog-image-wrapper">
+                    <img loading="lazy" src="{{ URL::asset('images/blog/articles/9/srem.jpg') }}"/>
+                </div>
+                <div class="article-content-box">
+                    <div class="post-title">
+                        <h3>Pranie tapicerki meblowej,czyszczenie mebli w Kościanie</h3>
+                    </div>
+                    <div class="post-publised-date">
+                        Kwi 25, 2021
+                    </div>
+                    <div class="post-content">
+                    <p>Pranie tapicerki Kościan to usługa, która może zdecydowanie usprawnić naszą codzienność i sprawić, że cykliczne porządki w mieszkaniu czy domu będą zdecydowanie łatwiejsze. Każda zapracowana Pani domu doskonale wie, ile zajmuje pranie tapicerki meblowej, czyli głównie sof, kanap, narożników czy puf...</p>
+                    </div>
+                </div>
+            </a>
+        </article>
             
           </div>
           </div>
