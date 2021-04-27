@@ -145,5 +145,15 @@ Route::get('case-study/pranie-czyszczenie-materaca-usuwanie-plam-dezynfekcja-kar
     return view('casestudy/casestudy_10');
 })->name('casestudy_10');
 
+Route::get('case-study/mycie-tapicerki-meblowej-naroznika-krzesel-fotela-pranie-mebli-uslugi-karcher-koscian', function () {
+    return view('casestudy/casestudy_11');
+})->name('casestudy_11');
+
+Route::get('case-study/pranie-nastopnic-schodowych-czyszczenie-wykladziny-schodowej-karcher-koscian', function () {
+    return view('casestudy/casestudy_12');
+})->name('casestudy_12');
+
+
+
 
 

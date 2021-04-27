@@ -36,7 +36,7 @@
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/3.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/3.jpg') }}" alt="Plama do sprania na fotelu" />
                     <div class="article-image-description-box">
                       <p>Plama na tapicerce fotela.</p>
                     </div>
@@ -47,7 +47,7 @@
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/4.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/4.jpg') }}" alt="Miękka szczotka do szorowania tapicerki" />
                     <div class="article-image-description-box">
                       <p>Miękka szczotka do tapicerki. Szerokie zastosowanie.</p>
                     </div>
@@ -58,7 +58,7 @@
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/5.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/5.jpg') }}" alt="Fotel po praniu" />
                     <div class="article-image-description-box">
                       <p>Wyprany fotel, węższe fragmenty materiału, zaokrąglenia etc. robię węższą dyszą.</p>
                     </div>
@@ -67,7 +67,7 @@
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/6.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/6.jpg') }}" alt="Wyprany fotel, brak plamy na fotelu" />
                     <div class="article-image-description-box">
                       <p>Plama zeszła, tapicerka odświeżona. Jak wyschnie będzie wyglądać dużo lepiej.</p>
                     </div>
@@ -80,16 +80,16 @@
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/7.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/7.jpg') }}" alt="Miękka szczotka do tapicerki" />
                     <div class="article-image-description-box">
-                      <p>Szczotka miękka to najmniej inwazyjna metoda szorowania tapicerki. Twarda może znisczyć delikatną powierzchnię.</p>
+                      <p>Szczotka miękka to najmniej inwazyjna metoda szorowania tapicerki. Twarda może zniszczyć delikatną powierzchnię.</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/8.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/8.jpg') }}" alt="Wyprany podnóżek" />
                     <div class="article-image-description-box">
                       <p>Podnóżek już po wypraniu, dziwnie padające światło sprawia, że kolor wygląda na nierówny. Cóż takie zdjęcie.</p>
                     </div>
@@ -103,115 +103,132 @@
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/9.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/9.jpg') }}" alt="krzesło tapicerowane przed praniem" />
                     <div class="article-image-description-box">
                       <p>Tapicerka krzesła z jadalni do wyprania.</p>
                     </div>
                   </div>
               </div>
 
+              <p>Nakładam pre-spray na tapicerkę krzesła a następnie szczotkuje miękką szczotką do tapicerki.</p>
+
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/10.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/10.jpg') }}" alt="szczotka do tapicerki na krześle" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Bez szczotki ani rusz :)</p>
+                    </div>
+                  </div>
+              </div>
+
+              <p>Po 15-20 minutach jak środek zaczął działać, ściągam wąską dyszą szczelinową odkurzacza piorącego, wodę z chemią z tapicerki. Na pierwszy rzut oka można zauważyć, że trochę poprawił się kolor tapicerki krzesła. Woda również była dość brudna z wnętrza gąbki tapicerskiej.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/11.jpg') }}" alt="Wyprana tapicerka krzesła" />
+                    <div class="article-image-description-box">
+                      <p>Wyprana tapicerka krzesła.</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/11.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/12.jpg') }}" alt="Wyprana tapicerka krzesła - zbliżenie" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Tapicerka jest czysta, ma jednak już swoje lata i jest trochę zmechacona.</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/12.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/13.jpg') }}" alt="Wyprane oparcie krzesła" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Jeszcze górna część z bliska</p>
+                    </div>
+                  </div>
+              </div>
+
+              <p>Zdarzyło się parę plam do usunięcia z tapicerki na krzesłach, te tutaj akurat zeszły przy jednorazowym praniu.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/14.jpg') }}" alt="zaplamione oparcie krzesła" />
+                    <div class="article-image-description-box">
+                      <p>Oparcie krzesła z plamą - przed</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/13.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/15.jpg') }}" alt="oparcie krzesła po odplamieniu" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Oparcie krzesła z plamą - po</p>
+                    </div>
+                  </div>
+              </div>
+
+              <h2><strong>Pranie tapicerek meblowych, pranie narożnika, sofy - Mycie tapicerki Karcher - Kościan </strong></h2>
+
+              <p>W kolejce do czyszczenia tapicerki były jeszcze 2 narożniki tego typu. Lekkie zaplamienie, trochę typowego brudu od rąk na oparciach i ogólne zakurzenie. Można powiedzieć, że w dobrym stanie. Poduszki również do wyprania- ekstrakcyjnie rzecz jasna.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/16.jpg') }}" alt="Narożnik do prania." />
+                    <div class="article-image-description-box">
+                      <p>Średniej wielkości narożnik do wyprania wraz z poduchami.</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/14.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/17.jpg') }}" alt="dwa narożniki w ciekawym układzie" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Jak zawsze odkurzam powierzchnię przed praniem.</p>
+                    </div>
+                  </div>
+              </div>
+
+              <p>Odkurzone narożniki spryskuję wodą z chemią tak aby rozpuścić brud i przejść do ekstrakcji brudnej wody z mebli. Oczywiście, pranie mebli nie obędzie się bez przetarcia ich jeszcze szotką kiedy są mokre.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/18.jpg') }}" alt="zmoczony narożnik wodą z chemią Karcher" />
+                    <div class="article-image-description-box">
+                      <p>Zmoczony narożnik pre-sprayem przed praniem ekstrakcyjnym tapicerki.</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/15.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/19.jpg') }}" alt="Tapicerka meblowa materiałowa z bliska" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Tak to wygląda z bliska po praniu.</p>
                     </div>
                   </div>
               </div>
+
+              <h2><strong>Pranie mebli, czyszczenie tapicerki meblowej, pranie poduch narożnika - Kościan </strong></h2>
+
+              <p>Na koniec zostały jeszcze do wyprania poduszki narożników. Wszystkie spryskuję tą samą wodą z chemią a następnie przecieram miękką szczotką. W przypadku poduch nie czekam zbyt długo aby ściągnąć wodę dlatego, że niechce aby woda przenikła mocno do ich środka. Poduszki meblowe są naprawdę z różnym wypełnieniem, często jest to pocięta gąbka tapicerska której wolę nie przemaczać. </p>
+
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/16.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/20.jpg') }}" alt="Poduszki narożnika" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Pranie poduszek narożnika.</p>
                     </div>
                   </div>
               </div>
 
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/17.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
+              <h2><strong>Chemia do prania mebli, czyszczenie tapicerki meblowej - Jaka chemia ? - Karcher - Kościan</strong></h2>
 
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/18.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/19.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/11/20.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              <h2><strong>Lorem ipsum</strong></h2>
-
-              <p>-</p>
+              <p>Jakiej chemii użyłem ? W tych przypadkach użyłem standardowo Karcherm RM-760 i płukałem wodą. Chemia delikatna, bardzo uniwersalna, można prać nią materace, wózki dziecięce i wszystko co nie zmieści się w pralce :) Zlecenie skończone, klient zadowolony- aczkolwiek zdarzyła się tu mała reklamacja na którą oczywiście odpowiedziałem przyjeżdżając następnego dnia- poprawiłem i wyszło ok. Jak w każdej działalności trzeba się liczyć, że coś nie wyjdzie i trzeba się liczyć również z realizacją jakiś gwarancji swojej pracy dla klienta.</p>
 
 
 
