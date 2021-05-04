@@ -5,6 +5,7 @@
     <!-- Load Facebook SDK for JavaScript -->
     <div id="fb-root"></div>
       <script>
+      setTimeout(function(){ 
         window.fbAsyncInit = function() {
           FB.init({
             xfbml            : true,
@@ -18,7 +19,9 @@
         js = d.createElement(s); js.id = id;
         js.src = 'https://connect.facebook.net/pl_PL/sdk/xfbml.customerchat.js';
         fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
+      }(document, 'script', 'facebook-jssdk'));
+    }, 7000);
+      </script>
 
       <!-- Your Chat Plugin code -->
       <div class="fb-customerchat"

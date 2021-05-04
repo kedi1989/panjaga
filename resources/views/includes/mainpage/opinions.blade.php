@@ -201,11 +201,37 @@
                 <div class="opinion-vertical-align-box">
                     <div class="opinion-scope">
                         <div class="opinion-title">Opinia z zakresu:</div>
-                        <div class="opinion-scope">Pranie i czyszczenie kanapy</div>
+                        <div class="opinion-scope">Pranie i czyszczenie tapczanu</div>
                     </div>
                     <div class="opinion-content">
-                        <div class="client-opinion-text">"Serdecznie polecam firme Pan Jaga! Jasna kanapa po blizniakach wyglądała fatalnie. Myslalam ze nic tego nie dopierze. Sofa jak nowa. Nie zostala zalana woda. Wyschla na drugi dzien. Umyła nawet flamastry z oparcia!"</div>
-                        <div class="client-name">Katarzyna Sz.</div>
+                        <div class="client-opinion-text">"Świetnie i profesjonalnie. Świetna atmosfera, ogromna wiedza na temat środków do czyszczenia materiałów i profesjonalny sprzet. Rzetelnie i bardzo dokładnie wykonana robota. Jestem pod wrażeniem. Tapczan wygląda rewelacyjnie po czyszczeniu, a i dostałem wiele cennych porad. Napewno skorzystam jeszcze nie raz z usług tej firmy. Jestem bardzo zadowolony. Dziękuję za tak dobrze wykonane czyszczenie. 😃"</div>
+                        <div class="client-name">Adrian Sz.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie krzeseł, narożnika, nastopnic</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Fachowość i kultura. Dokładność."</div>
+                        <div class="client-name">Wiesław K.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie i czyszczenie wersalki</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Chciałam zamówić czyszczenie wersalki i zamówiłam u panjaga.pl. Usługa wykonana prawidłowo. Wersalka 5 letnia po dzieciach wygląda jak nowa. Jestem pod wrażeniem. Będę wracać i polecam."</div>
+                        <div class="client-name">Kamila M.</div>
                     </div>
                 </div>
             </div>

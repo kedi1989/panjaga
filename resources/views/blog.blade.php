@@ -20,7 +20,7 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Czy da się wyprać meble ? Czyli pranie mebli tapicerowanych od środka !</h3>
+                            <h2>Czy da się wyprać meble ? Czyli pranie mebli tapicerowanych od środka !</h2>
                         </div>
                         <div class="post-publised-date">
                             Lut 9, 2021
@@ -39,7 +39,7 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Jak prać tapicerkę samochodową ? Czyszczenie tapicerki samochodowej w pigułce.</h3>
+                            <h2>Jak prać tapicerkę samochodową ? Czyszczenie tapicerki samochodowej w pigułce.</h2>
                         </div>
                         <div class="post-publised-date">
                             Lut 18, 2021
@@ -57,7 +57,7 @@
                 </div>
                 <div class="article-content-box">
                     <div class="post-title">
-                        <h3>Pranie dywanów i wykładzin. Domowe sposoby i nie tylko !</h3>
+                        <h2>Pranie dywanów i wykładzin. Domowe sposoby i nie tylko !</h2>
                     </div>
                     <div class="post-publised-date">
                         Lut 22, 2021
@@ -76,7 +76,7 @@
                 </div>
                 <div class="article-content-box">
                     <div class="post-title">
-                        <h3>Pranie i czyszczenie Karcher - Pogromcy mitów</h3>
+                        <h2>Pranie i czyszczenie Karcher - Pogromcy mitów</h2>
                     </div>
                     <div class="post-publised-date">
                         Lut 25, 2021
@@ -95,7 +95,7 @@
                 </div>
                 <div class="article-content-box">
                     <div class="post-title">
-                        <h3>Pranie i czyszczenie tapicerki mebli, dywanów, wykładzin w Lesznie</h3>
+                        <h2>Pranie i czyszczenie tapicerki mebli, dywanów, wykładzin w Lesznie</h2>
                     </div>
                     <div class="post-publised-date">
                         Lut 26, 2021
@@ -114,7 +114,7 @@
                 </div>
                 <div class="article-content-box">
                     <div class="post-title">
-                        <h3>Jak prać materac ? Czemu powinniśmy to robić ? Przeczytaj</h3>
+                        <h2>Jak prać materac ? Czemu powinniśmy to robić ? Przeczytaj</h2>
                     </div>
                     <div class="post-publised-date">
                         Mar 12, 2021
@@ -133,7 +133,7 @@
                 </div>
                 <div class="article-content-box">
                     <div class="post-title">
-                        <h3>Pranie tapicerki meblowej w Śremie</h3>
+                        <h2>Pranie tapicerki meblowej w Śremie</h2>
                     </div>
                     <div class="post-publised-date">
                         Mar 17, 2021
@@ -152,7 +152,7 @@
                 </div>
                 <div class="article-content-box">
                     <div class="post-title">
-                        <h3>Pranie tapicerki meblowej,czyszczenie mebli w Kościanie</h3>
+                        <h2>Pranie tapicerki meblowej,czyszczenie mebli w Kościanie</h2>
                     </div>
                     <div class="post-publised-date">
                         Kwi 25, 2021

@@ -149,17 +149,19 @@ Route::get('case-study/mycie-tapicerki-meblowej-naroznika-krzesel-fotela-pranie-
     return view('casestudy/casestudy_11');
 })->name('casestudy_11');
 
-Route::get('case-study/casestudy12', function () {
+Route::get('case-study/pranie-nastopnic-schodowych-czyszczenie-wykladziny-schodowej-karcher-koscian', function () {
     return view('casestudy/casestudy_12');
 })->name('casestudy_12');
 
-Route::get('case-study/casestudy13', function () {
+Route::get('case-study/czyszczenie-tapicerki-naroznika-z-plam-pranie-tapicerki-meblowej-karcher-rydzyna-leszno', function () {
     return view('casestudy/casestudy_13');
 })->name('casestudy_13');
 
-Route::get('case-study/casestudy14', function () {
+Route::get('case-study/pranie-mycie-tapicerki-meblowej-naroznika-uslugi-karcher-srem', function () {
     return view('casestudy/casestudy_14');
 })->name('casestudy_14');
+
+
 
 
 

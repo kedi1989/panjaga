@@ -61,13 +61,13 @@ Route::get('oferta/pranie-wykladzin-i-dywanow', function () {
     return view('offers/pranieDywanowWykladzinOffer');
 })->name('pranie-dywanow-wykladzin');
 
-// Route::get('oferta/pranie-i-czyszczenie-wozkow-dzieciecych', function () {
-//     return view('offers/pranieWozkowOffer');
-// })->name('pranie-i-czyszczenie-wozkow-dzieciecych');
+Route::get('oferta/pranie-i-czyszczenie-wozkow-dzieciecych', function () {
+    return view('offers/pranieWozkowOffer');
+})->name('pranie-i-czyszczenie-wozkow-dzieciecych');
 
-// Route::get('oferta/pranie-materacy', function () {
-//     return view('offers/pranieMateracyOffer');
-// })->name('pranie-materacy');
+Route::get('oferta/pranie-i-dezynfekcja-materacy', function () {
+    return view('offers/pranieMateracyOffer');
+})->name('pranie-materacy');
 
 Route::get('blog/jak-prac-tapicerke-meblowa', function () {
     return view('articles/article_1');
@@ -152,6 +152,14 @@ Route::get('case-study/mycie-tapicerki-meblowej-naroznika-krzesel-fotela-pranie-
 Route::get('case-study/pranie-nastopnic-schodowych-czyszczenie-wykladziny-schodowej-karcher-koscian', function () {
     return view('casestudy/casestudy_12');
 })->name('casestudy_12');
+
+Route::get('case-study/czyszczenie-tapicerki-naroznika-z-plam-pranie-tapicerki-meblowej-karcher-rydzyna-leszno', function () {
+    return view('casestudy/casestudy_13');
+})->name('casestudy_13');
+
+Route::get('case-study/pranie-mycie-tapicerki-meblowej-naroznika-uslugi-karcher-srem', function () {
+    return view('casestudy/casestudy_14');
+})->name('casestudy_14');
 
 
 

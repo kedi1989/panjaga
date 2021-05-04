@@ -19,7 +19,7 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Mocno zabrudzony narożnik przez dzieci :) Zobacz jak temu zaradziliśmy ! - Śrem</h3>
+                            <h2>Mocno zabrudzony narożnik przez dzieci :) Zobacz jak temu zaradziliśmy ! - Śrem</h2>
                         </div>
                         <div class="post-publised-date">
                             Kwi 6, 2021
@@ -38,7 +38,7 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Cieżkie do wyprania plamy od potu na fotelach. Udało się! Sprawdź! - Kościan</h3>
+                            <h2>Cieżkie do wyprania plamy od potu na fotelach. Udało się! Sprawdź! - Kościan</h2>
                         </div>
                         <div class="post-publised-date">
                             Kwi 10, 2021
@@ -57,7 +57,7 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Czyszczenie wózka dziecięcego czyli pranie gondoli i fotelika samochodowego Karcherem ! - Kościan</h3>
+                            <h2>Czyszczenie wózka dziecięcego czyli pranie gondoli i fotelika samochodowego Karcherem ! - Kościan</h2>
                         </div>
                         <div class="post-publised-date">
                             Kwi 14, 2021
@@ -76,7 +76,7 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Czyszczenie wieloletniego tapczanu, wersalki, kanapy i foteli za pomocą Karcher Puzzi - Zobacz! - Kościan</h3>
+                            <h2>Czyszczenie wieloletniego tapczanu, wersalki, kanapy i foteli za pomocą Karcher Puzzi - Zobacz! - Kościan</h2>
                         </div>
                         <div class="post-publised-date">
                             Kwi 18, 2021
@@ -95,7 +95,7 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Czyszczenie stelażu wózka dziecięcego parą i pranie gondoli oraz akcesoriów Karcherem - Zobacz! - Śrem</h3>
+                            <h2>Czyszczenie stelażu wózka dziecięcego parą i pranie gondoli oraz akcesoriów Karcherem - Zobacz! - Śrem</h2>
                         </div>
                         <div class="post-publised-date">
                             Kwi 24, 2021
@@ -114,7 +114,7 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Pranie i czyszczenie rogówki, narożnika Karcherem - Zajrzyj! - Kościan</h3>
+                            <h2>Pranie i czyszczenie rogówki, narożnika Karcherem - Zajrzyj! - Kościan</h2>
                         </div>
                         <div class="post-publised-date">
                             Maj 1, 2021
@@ -133,7 +133,7 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Czyszczenie parowe wózka, mycie tapicerki wózka, czyszczenie stelaża i pranie gondoli Karcherem - Jak uprać wózek ? - Leszno</h3>
+                            <h2>Czyszczenie parowe wózka, mycie tapicerki wózka, czyszczenie stelaża i pranie gondoli Karcherem - Jak uprać wózek ? - Leszno</h2>
                         </div>
                         <div class="post-publised-date">
                             Maj 10, 2021
@@ -152,7 +152,7 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Czyszczenie, mycie tapicerki młodzieżowej wersalki, kanapy - Pranie tapicerki Karcher - Śrem</h3>
+                            <h2>Czyszczenie, mycie tapicerki młodzieżowej wersalki, kanapy - Pranie tapicerki Karcher - Śrem</h2>
                         </div>
                         <div class="post-publised-date">
                             Maj 20, 2021
@@ -171,7 +171,7 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Pranie i czyszczenie materaca, usuwanie plam, dezynfekcja - Śrem</h3>
+                            <h2>Pranie i czyszczenie materaca, usuwanie plam, dezynfekcja - Śrem</h2>
                         </div>
                         <div class="post-publised-date">
                             Maj 28, 2021
@@ -190,7 +190,7 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Mycie, czyszczenie tapicerki narożnika, krzeseł i fotela, odświeżanie mebli - Usługi Karcher - Kościan</h3>
+                            <h2>Mycie, czyszczenie tapicerki narożnika, krzeseł i fotela, odświeżanie mebli - Usługi Karcher - Kościan</h2>
                         </div>
                         <div class="post-publised-date">
                             Cze 3, 2021
@@ -209,7 +209,7 @@
                     </div>
                     <div class="article-content-box">
                         <div class="post-title">
-                            <h3>Pranie i czyszczenie nastopnic schodowych, nakładek schodowych - Karcherem - Kościan</h3>
+                            <h2>Pranie i czyszczenie nastopnic schodowych, nakładek schodowych - Karcherem - Kościan</h2>
                         </div>
                         <div class="post-publised-date">
                             Cze 10, 2021
@@ -221,7 +221,45 @@
                 </a>
             </article>
 
-            
+            <article class="article-container">
+                <a href="{{ route('casestudy_13') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/13/1.jpg') }}" alt="Narożnik w kształcie U"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>Czyszczenie tapicerki narożnika z plam, pranie tapicerki meblowej - Karcher - Rydzyna, Leszno</h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Cze 15, 2021
+                        </div>
+                        <div class="post-content">
+                        Niektóre meble mają zabrudzenia tylko w niektórych miejscach a ogólnie są czyste. Bywa jednak, że i to kuje w oczy i chce się to jednak odświeżyć. Usuwanie plam z potu - Zapraszam!
+                        </div>
+                    </div>
+                </a>
+            </article>
+
+            <article class="article-container">
+                <a href="{{ route('casestudy_14') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/14/7.jpg') }}" alt="Moduł narożnika"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>Pranie, mycie tapicerki meblowej - Narożnik po remoncie - Usługi Karcher - Śrem</h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Cze 21, 2021
+                        </div>
+                        <div class="post-content">
+                            Zostałem wezwany, żeby finalnie zakończyć remont dużego pokoju a mianowicie doprać przykryty folią narożnik Karcherem a potem pomóc go złożyć :)
+                        </div>
+                    </div>
+                </a>
+            </article>
+
+           
 
             
 

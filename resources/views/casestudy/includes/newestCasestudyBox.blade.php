@@ -12,6 +12,8 @@
     <li><a href="{{ route('casestudy_10') }}">Pranie i czyszczenie materaca, usuwanie plam, dezynfekcja - Śrem</a></li>
     <li><a href="{{ route('casestudy_11') }}">Mycie, czyszczenie tapicerki narożnika, krzeseł i fotela, odświeżanie mebli - Usługi Karcher - Kościan</a></li>
     <li><a href="{{ route('casestudy_12') }}">Pranie i czyszczenie nastopnic schodowych, nakładek schodowych - Karcherem - Kościan</a></li>
+    <li><a href="{{ route('casestudy_13') }}">Czyszczenie tapicerki narożnika z plam, pranie tapicerki meblowej - Karcher - Rydzyna, Leszno</a></li>
+    <li><a href="{{ route('casestudy_14') }}">Pranie, mycie tapicerki meblowej - Narożnik po remoncie - Usługi Karcher - Śrem</a></li>
   </ul>
   <h4>Sprawdź naszą ofertę</h4>
   <ul>

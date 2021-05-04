@@ -1,7 +1,7 @@
 @extends('layouts.master')
         @section('title', 'PanJaga.pl - Czyszczenie tapczanu, wersalki i foteli Karcher - Kościan - CaseStudy')
         @section('description', 'Szukasz prania i czyszczenia tapczanu, foteli w Kościanie ? Jesteś ciekaw jak wykonuje swoje pracę ? Zajrzyj do mojego CaseStudy i zobacz jak odbywa się pranie i czyszczenie tapczanu i foteli w Kościanie.')
-        @section('keywords', 'pranie tapicerki samochodowej kościan, pranie tapicerki, czyszczenie foteli, pranie foteli, usuwanie plam potu, czyszczenie tapczanu ')
+        @section('keywords', 'pranie tapicerki meblowej kościan, pranie tapicerki, czyszczenie foteli, pranie foteli, usuwanie plam potu, czyszczenie tapczanu ')
         @section('image', 'https://www.panjaga.pl/images/casestudy/4/1.jpg')
 @section('content')
 

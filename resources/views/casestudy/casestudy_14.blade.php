@@ -9,7 +9,7 @@
           <div class="blog-article-container">
             
           <div class="article-box">
-              <h1>-</h1>
+              <h1>Pranie, mycie tapicerki meblowej - Narożnik po remoncie - Usługi Karcher - Śrem</h1>
               <p class="post-published-date">Maj 1, 2021 | XXX</p>
 
               <div class="sharethis-inline-share-buttons"></div>
