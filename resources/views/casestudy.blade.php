@@ -278,11 +278,43 @@
                 </a>
             </article>
 
-           
+            <article class="article-container">
+                <a href="{{ route('casestudy_15') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/15/26.jpg') }}" alt="Samochód osobowy Range Rover"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>Pranie tapicerki samochodowej - Range Rover - Pranie foteli, podłogi, bagażnika, czyszczenie - Usługi Czyszczenia - Kościan</h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Cze 28, 2021
+                        </div>
+                        <div class="post-content">
+                            Trafił się taki oto samochód do czyszczenia Range Rover. No dobra skoro pranie tapicerki samochodowej obsługuję również to odpalam auto i lecę :) Zapraszam !
+                        </div>
+                    </div>
+                </a>
+            </article>
 
-            
-
-            
+            <article class="article-container">
+                <a href="{{ route('casestudy_16') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/16/4.jpg') }}" alt="Brudny narożnik po zwierzętach"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>Pranie tapicerki meblowej, czyszczenie kanapy, narożnika po zwierzętach, odsierścianie mebli - Firma czyszcząca - Leszno, Lasocice</h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Lip 05, 2021
+                        </div>
+                        <div class="post-content">
+                            Klientka chciała doczyścić kanapę, narożnik po zwierzakach w domu- pies i kot. Pranie mebli wraz z odsierścianiem wchodzi w zakres moich usług jak i również usuwanie takich zapachów a więc do dzieła ! Zapraszam !
+                        </div>
+                    </div>
+                </a>
+            </article>
             
           </div>
           </div>

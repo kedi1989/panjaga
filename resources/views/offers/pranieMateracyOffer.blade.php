@@ -48,7 +48,7 @@
                   <div class="offer-images-container">
                     <div class="offer-images-box">
                       <img class="box-shadow" loading="lazy" src="../images/gallery/Materace/1.jpg" alt="Pranie podłogi w FORD GALAXY">
-                      <img class="box-shadow" loading="lazy" src="../images/gallery/Materace/6.jpg" alt="Pranie i czyszczenie kabiny ciężarówki (czasem trzeba sobie pomóc szczotką na wiertarce :) )">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Materace/9.jpg" alt="Pranie i czyszczenie kabiny ciężarówki (czasem trzeba sobie pomóc szczotką na wiertarce :) )">
                       <div class="more-realizations-box">
                       <a href="{{ route('realizacje') }}">
                         GALERIA

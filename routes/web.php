@@ -165,6 +165,14 @@ Route::get('case-study/pranie-mycie-tapicerki-meblowej-naroznika-uslugi-karcher-
     return view('casestudy/casestudy_14');
 })->name('casestudy_14');
 
+Route::get('case-study/case15', function () {
+    return view('casestudy/casestudy_15');
+})->name('casestudy_15');
+
+Route::get('case-study/pranie-tapicerki-meblowej-czyszczenie-kanapy-naroznika-usuwanie-zapachow-firma-czyszczaca-leszno-lasocice', function () {
+    return view('casestudy/casestudy_16');
+})->name('casestudy_16');
+
 
 
 
