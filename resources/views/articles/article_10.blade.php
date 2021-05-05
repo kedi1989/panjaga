@@ -15,7 +15,7 @@
               <div class="sharethis-inline-share-buttons"></div>
 
               <div class="article-image">
-                <img class="box-shadow" src="{{ URL::asset('images/blog/articles/9/srem.jpg') }}" alt="Pokój z meblami Kościan" />
+                <img class="box-shadow" src="{{ URL::asset('images/blog/articles/10/koscian.jpg') }}" alt="Pokój z meblami Kościan" />
               </div>
               
               <h2>Profesjonalne <strong>pranie tapicerki Kościan</strong>. Poznaj najważniejsze informacje!</h2>

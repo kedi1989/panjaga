@@ -148,7 +148,7 @@
         <article class="article-container">
             <a href="{{ route('article_10') }}">
                 <div class="blog-image-wrapper">
-                    <img loading="lazy" src="{{ URL::asset('images/blog/articles/9/srem.jpg') }}"/>
+                    <img loading="lazy" src="{{ URL::asset('images/blog/articles/10/koscian.jpg') }}"/>
                 </div>
                 <div class="article-content-box">
                     <div class="post-title">

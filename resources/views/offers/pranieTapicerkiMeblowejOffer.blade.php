@@ -58,6 +58,13 @@
                   </div>
                 </div>
 
+                <div class="link-box">
+                  <a class="link-btn box-shadow" href="{{ route('casestudy_4') }}">Zobacz przykładowe zlecenie w Kościanie<i class="fas fa-angle-right"></i></a>
+                </div>
+
+                <div class="link-box">
+                  <a class="link-btn box-shadow" href="{{ route('casestudy_1') }}">Zobacz przykładowe zlecenie w Śremie<i class="fas fa-angle-right"></i></a>
+                </div>
 
                 <h2><strong>„Mam małe dzieci w domu. Czy używane przez Was detergenty są dla nich bezpieczne?”</strong></h2>
 
@@ -80,6 +87,14 @@
                   
                 </div>
 
+                <div class="link-box">
+                  <a class="link-btn box-shadow" href="{{ route('casestudy_12') }}">Zobacz pranie nastopnic w Kościanie<i class="fas fa-angle-right"></i></a>
+                </div>
+
+                <div class="link-box">
+                  <a class="link-btn box-shadow" href="{{ route('casestudy_13') }}">Zobacz przykładowe zlecenie w Lesznie<i class="fas fa-angle-right"></i></a>
+                </div>
+
                 <h2><strong>Pranie tapicerki meblowej- jakie meble czyścimy?</strong></h2>
 
                 <p>Niezależnie od tego, czy gruntownego czyszczenia potrzebują <strong>fotele</strong>, <strong>kanapy</strong>, <strong>pufy</strong>, czy <strong>narożniki</strong>, każdego dnia przywracamy świeżość i przyjemny zapach wszystkim rodzajom mebli. Co więcej, możemy zająć się także <strong>meblami biurowymi</strong>, a nawet ubrudzonymi <strong>materacami</strong>.</p>
@@ -100,7 +115,14 @@
                     <p>1. Czyszczenie fotela biurowego młodzieżowego</p>
                     <p>2. Pranie dwustronne materaca na którym śpi dziecko</p>
                   </div>
-                
+                </div>
+
+                <div class="link-box">
+                  <a class="link-btn box-shadow" href="{{ route('casestudy_10') }}">Zobacz pranie materaca w Śremie<i class="fas fa-angle-right"></i></a>
+                </div>
+
+                <div class="link-box">
+                  <a class="link-btn box-shadow" href="{{ route('casestudy_11') }}">Zobacz przykładowe zlecenie w Kościanie<i class="fas fa-angle-right"></i></a>
                 </div>
 
                 <h2><strong>Pranie tapicerki meblowej - Cennik</strong></h2>

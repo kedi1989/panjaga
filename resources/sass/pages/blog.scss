@@ -158,33 +158,6 @@
             }
         }
     }
-
-    .link-box {
-        text-align: center;
-        .link-btn {
-            background: #fbb26b;
-            padding: 12px 60px 12px 30px;
-            position: relative;
-            border-radius: 5px;
-            border: 1px solid #fbb26b;
-            display: inline-block;
-            margin: 20px auto;
-            padding: 15px 50px 15px 30px;
-            font-family: "Quicksand", sans-serif;
-            font-size: 15px;
-            font-weight: 600;
-            color: #000;
-                i {
-                    position: absolute;
-                    right: 20px;
-                    font-size: 30px;
-                    position: absolute;
-                    top: 50%;
-                    transform: translateY(-50%);
-                }
-            
-        }
-    }
 }
 
 .blog-cities-box {

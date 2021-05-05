@@ -127,6 +127,25 @@
             </article>
 
             <article class="article-container">
+                <a href="{{ route('casestudy_7') }}">
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/casestudy/7/1.jpg') }}" alt="Cieżarówka gotowa do czyszczenia Karcherem, czyszczenie tir"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>Czyszczenie kabiny tir oraz pranie tapicerki tir, fotele, materace, podsufitka - Zajrzyj! - Leszno</h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Maj 5, 2021
+                        </div>
+                        <div class="post-content">
+                            Fajny klimat jest wtedy kiedy siadamy na swoim ulubionym narożniku i odpalamy dobry film z ukochaną osobą :) Ważne, żeby jednak ta rogówka była czysta ;) Pranie i czyszczenie mebli od środka ! Zapraszam !
+                        </div>
+                    </div>
+                </a>
+            </article>
+
+            <article class="article-container">
                 <a href="{{ route('casestudy_8') }}">
                     <div class="blog-image-wrapper">
                         <img loading="lazy" src="{{ URL::asset('images/casestudy/8/1.jpg') }}" alt="Stelaż wózka"/>

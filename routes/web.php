@@ -133,6 +133,10 @@ Route::get('case-study/pranie-i-czyszczenie-naroznika-karcherem-koscian', functi
     return view('casestudy/casestudy_6');
 })->name('casestudy_6');
 
+Route::get('case-study/czyszczenie-kabiny-tir-pranie-szoferki-materacy-foteli-ciezarowki-karcher-leszno', function () {
+    return view('casestudy/casestudy_7');
+})->name('casestudy_7');
+
 Route::get('case-study/czyszczenie-wozka-dzieciecego-stelazu-i-gondoli-karcher-leszno', function () {
     return view('casestudy/casestudy_8');
 })->name('casestudy_8');
