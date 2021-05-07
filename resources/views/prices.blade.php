@@ -15,10 +15,9 @@
 
         <p class="prices-disclaimer">- Poniższe ceny są cenami orientacyjnymi. Ostateczne ceny, ustalamy na podstawie zdjęć (zazwyczaj dosyłanych przez klienta) więc mogą być nieznacznie niższe lub wyższe. Ustalona cena na podstawie zdjęcia, nie podlega zmianie już na miejscu.</p>
         
-        <p class="prices-disclaimer">- Dużo zależy od stopnia zabrudzenia, poziomu skomplikowania mebla np. tapicerka przeplatana z pseudoskórzanymi akcentami etc. oraz czy jest dużo odplamiania.</p>
+        <p class="prices-disclaimer">- Dużo zależy od stopnia zabrudzenia a czasami nawet od rodzaju tapicerki np. w przypadku tapicerek Carabu.</p>
         
         <p class="prices-disclaimer">- W przypadku gdy w odkurzaczu piorącym zostaje nam trochę wody z chemią, staramy się w miarach możliwości doczyścić coś klientowi za darmo np. mała pufa, krzesło etc.</p>
-
 
         @include('includes.components.covid19Info')
 
@@ -90,26 +89,6 @@
 
                 <tr>
                     <td class="service-name">
-                        Materac do 2m szerokości
-                        <span class="sub-info">- pranie jednostronne, 2 strony = cena x2</span>
-                    </td>
-                    <td class="service-price">
-                        30 - 70 zł
-                    </td>
-                </tr>
-
-                <tr>
-                    <td class="service-name">
-                        Materac powyżej 2m szerokości
-                        <span class="sub-info">- pranie jednostronne, 2 strony = cena x2</span>
-                    </td>
-                    <td class="service-price">
-                        40 - 80 zł
-                    </td>
-                </tr>
-
-                <tr>
-                    <td class="service-name">
                         Komplet wypoczynkowy 3 + 2 + 1
                         <span class="sub-info">- w dowolnej konfiguracji - złożone, rozłożone, poduszki wliczone w cenę</span>
                     </td>
@@ -133,7 +112,7 @@
                         <span class="sub-info">- w zależności od wielkości</span>
                     </td>
                     <td class="service-price">
-                        50 - 100 zł
+                        50 - 70 zł
                     </td>
                 </tr>
 
@@ -143,7 +122,7 @@
                         <span class="sub-info">- w zależności od ilości tapicerki na krześle</span>
                     </td>
                     <td class="service-price">
-                        15 - 30 zł
+                        15 - 20 zł
                     </td>
                 </tr>
 
@@ -152,7 +131,7 @@
                         Fotel wypoczynkowy tzw. Uszak
                     </td>
                     <td class="service-price">
-                        50 - 70 zł
+                        50 zł
                     </td>
                 </tr>
 
@@ -162,7 +141,7 @@
                         <span class="sub-info">- w zależności od ilości tapicerki na fotelu, rodzaju oparć itd.</span>
                     </td>
                     <td class="service-price">
-                        70 - 100 zł
+                        50 - 70 zł
                     </td>
                 </tr>
 
@@ -172,7 +151,7 @@
                         <span class="sub-info">- w zależności od ilości tapicerki na fotelu, rodzaju oparć itd.</span>
                     </td>
                     <td class="service-price">
-                        20 - 30 zł
+                        20 zł
                     </td>
                 </tr>
 
@@ -182,7 +161,7 @@
                         <span class="sub-info">- w zależności od ilości tapicerki na fotelu, rodzaju oparć itd.</span>
                     </td>
                     <td class="service-price">
-                        25 - 40 zł
+                        25 - 30 zł
                     </td>
                 </tr>
 
@@ -192,7 +171,7 @@
                         <span class="sub-info">- w zależności od wielkości</span>
                     </td>
                     <td class="service-price">
-                        25 - 50 zł
+                        25 - 30 zł
                     </td>
                 </tr>
 
@@ -202,17 +181,17 @@
                         <span class="sub-info">- wliczane już zazwyczaj w cenie prania narożnika, kanap etc.</span>
                     </td>
                     <td class="service-price">
-                        5 - 15 zł
+                        5 - 10 zł
                     </td>
                 </tr>
 
                 <tr>
                     <td class="service-name">
-                        Schody
-                        <span class="sub-info">- liczone za stopień</span>
+                        Schody, nastopnice
+                        <span class="sub-info">- liczone za stopień, w zależności od wielkości</span>
                     </td>
                     <td class="service-price">
-                        5 - 20 zł
+                        10 - 20 zł
                     </td>
                 </tr>
                 
@@ -221,6 +200,59 @@
 
         <div class="order-box">
             <a class="order-btn box-shadow" href="{{ route('kontakt') }}">Zamawiam pranie tapicerki meblowej <i class="fas fa-angle-right"></i></a>
+        </div>
+
+        <h3><strong>PRANIE I DEZYNFEKCJA MATERACY</strong></h3>
+
+                <table class="price-table">
+                    <tbody>
+
+
+                <tr>
+                    <td class="service-name">
+                        Materac do 2m szerokości
+                        <span class="sub-info">- pranie jednostronne, 2 strony = cena x2</span>
+                    </td>
+                    <td class="service-price">
+                        30 - 70 zł
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="service-name">
+                        Materac powyżej 2m szerokości
+                        <span class="sub-info">- pranie jednostronne, 2 strony = cena x2</span>
+                    </td>
+                    <td class="service-price">
+                        40 - 80 zł
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="service-name">
+                        Wyparzanie parą materaca, dezynfekcja
+                        <span class="sub-info">- zazwyczaj już robione dwustronnie</span>
+                    </td>
+                    <td class="service-price">
+                        50 zł
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="service-name">
+                        Zabieg przeciw alergiczny, przeciw roztoczom ALLERGOFF
+                        <span class="sub-info">- zazwyczaj już robione dwustronnie, zabieg idealny dla alergików</span>
+                    </td>
+                    <td class="service-price">
+                        50 zł
+                    </td>
+                </tr>
+
+                        </tbody>
+                </table>
+
+                <div class="order-box">
+            <a class="order-btn box-shadow" href="{{ route('kontakt') }}">Zamawiam pranie materaca <i class="fas fa-angle-right"></i></a>
         </div>
 
                 
@@ -307,7 +339,7 @@
                     <span class="sub-info">- standardowy rozmiar dla większych już dzieci </span>
                 </td>
                 <td class="service-price">
-                    100 zł
+                    50 - 70 zł
                 </td>
             </tr>
             </tbody>
@@ -421,7 +453,7 @@
 
 
         <h4 class="price-header">SAMOCHODY DUŻE</h4>
-            <p class="price-header-sub-info">- np. minivany, duży SUV, Busy; - OPEL ZAFIRA, MAZDA 5, VW TRANSPORTER itd.</p>
+            <p class="price-header-sub-info">- np. minivany, duży SUV, Busy; - OPEL ZAFIRA, MAZDA 5</p>
 
 
             <table class="price-table">
@@ -480,7 +512,7 @@
                         <span class="sub-info"></span>
                     </td>
                     <td class="service-price">
-                        70 - 100 zł
+                        70 zł
                     </td>
                 </tr>
                 <tr>
@@ -489,7 +521,7 @@
                         <span class="sub-info">- wycena indywidualna, najlepiej proszę dzwonić</span>
                     </td>
                     <td class="service-price">
-                        od 250 zł
+                        od 350 zł
                     </td>
                 </tr>
                 
@@ -498,6 +530,7 @@
 
         <p class="prices-disclaimer">- W przypadku zamawiania usługi prania auta wymagane są dobry dostęp do wody oraz prądu. Usługę prania samochodu świadczymy na miejscu u klienta.</p>
         <p class="prices-disclaimer">- Ceny mogą się różnić w przypadkach różnych wersji danego samochodu np. wersji z 7 fotelami (kombi)</p>
+        <p class="prices-disclaimer">- *Ozonowanie w pakiecie wykonywane gdy pogoda na to pozwala, brak opadów deszczu, brak dużej wilgotności powietrza</p>
 
         <div class="order-box">
             <a class="order-btn box-shadow" href="{{ route('kontakt') }}">Zamawiam pranie tapicerki samochodowej <i class="fas fa-angle-right"></i></a>

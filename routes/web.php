@@ -165,7 +165,7 @@ Route::get('case-study/pranie-mycie-tapicerki-meblowej-naroznika-uslugi-karcher-
     return view('casestudy/casestudy_14');
 })->name('casestudy_14');
 
-Route::get('case-study/case15', function () {
+Route::get('case-study/pranie-tapicerki-samochodowej-czyszczenie-samochodu-karcher-koscian', function () {
     return view('casestudy/casestudy_15');
 })->name('casestudy_15');
 

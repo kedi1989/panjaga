@@ -17,265 +17,228 @@
               <div class="article-image">
                 <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/26.jpg') }}" alt="Pranie, czyszczenie narożnika, rogówki - Kościan" />
               </div>
-              <p>Lorem ipsum</p>
+              <p>Trafił się taki oto samochód do czyszczenia Range Rover. No dobra skoro pranie tapicerki samochodowej obsługuję również to odpalam auto i lecę :) Zapraszam !</p>
               
-              <h2><strong>XXX</strong></h2>
+              <h2><strong>Pranie tapicerki samochodowej, czyszczenie samochodów - Usługi Karcher - Kościan</strong></h2>
 
-              <p>Lorem ipsum</p>
+              <p>Do wyprania, wyczyszczenia był Range Rover. Jak się okazało, w nocy przypadkiem zamknięto kota w samochodzie i trzeba było przez to go przeprać :)</p>
 
+              <p>W grę wchodziło pranie bagażnika, pranie podłogi, wypranie tapicerki foteli oraz wyczyszczenie plastików, szyb w środku.</p>
           
 
               
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/1.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/1.jpg') }}" alt="Fotele w samochodzie" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Range Rover :)</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/2.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/2.jpg') }}" alt="Tylne fotele w samochodzie" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Do wyprania dywaniki i tylnie siedzenia</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/3.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/3.jpg') }}" alt="Tylna kanapa w samochodzie" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Do wyprania dywaniki i tylnie siedzenia</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/4.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/4.jpg') }}" alt="Tylna kanapa w samochodzie" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Gdzie nie gdzie zdarzyło się trochę sierści</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/5.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/7.jpg') }}" alt="Tapicerka samochodowa" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Tapicerka fotela pasażera do odświeżenia</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/6.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/8.jpg') }}" alt="Wnętrze samochodu" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Dywaniki do wyprania, podłoga - niezły scratch kota na plastiku :)</p>
+                    </div>
+                  </div>
+              </div>
+
+              <h2><strong>Pranie bagażnika samochodu, pranie podłogi samochodu, pranie foteli samochodu z dojazdem do klienta - Karcher - Kościan </strong></h2>
+
+              <p>Na pierwszy rzut poszedł bagażnik samochodu, typowy brud, piasek, trochę sierści.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/10.jpg') }}" alt="Bagażnik samochodu" />
+                    <div class="article-image-description-box">
+                      <p>Brudny bagażnik</p>
+                    </div>
+                  </div>
+              </div>
+
+              <p>W ruch poszła szczotka do odśierściania i odkurzacz przemysłowy.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/11.jpg') }}" alt="Bagażnik samochodu po odkurzaniu" />
+                    <div class="article-image-description-box">
+                      <p>Po odsierścieniu i odkurzeniu</p>
+                    </div>
+                  </div>
+              </div>
+
+              <p>Odsierściłem również fotele i odkurzyłem cały samochód przed praniem.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/12.jpg') }}" alt="Fotele po odkurzaniu" />
+                    <div class="article-image-description-box">
+                      <p>Odkurzone fotele</p>
+                    </div>
+                  </div>
+              </div>
+
+              <p>Tak mniej więcej wygląda bagażnik po wypraniu go Karcherem. W tym słoneczku momentalnie był suchy.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/13.jpg') }}" alt="Wyprany bagażnik samochodu" />
+                    <div class="article-image-description-box">
+                      <p>Wyprany bagażnik samochodu</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/7.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/14.jpg') }}" alt="Zbliżenie na wyprany bagażnik" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Zbliżenie</p>
+                    </div>
+                  </div>
+              </div>
+
+              <p>W następnej kolejności zabrałem się za pranie podłogi samochodu. Podłoga to miejsce gdzie zawsze jest najwięcej brudu, po zimie wraz z wilgocią robi się niezła mieszanka, warto takie coś wyprać a dużo lepiej to wygląda.</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/15.jpg') }}" alt="Wyprane wnętrze samochodu" />
+                    <div class="article-image-description-box">
+                      <p>Wyprana podłoga samochodu - z drzew na bieżąco wpadały mi białe kwiatki do wnętrza auta :)</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/8.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/16.jpg') }}" alt="Tylnia kanapa samochodu" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Fotele ładnie się odświeżyły, niestety na plecach fotela jest jakieś przetarcie.</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/9.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/17.jpg') }}" alt="Tylnia kanapa samochodu" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Rzut oka na całość</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/10.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/18.jpg') }}" alt="wyprana podłoga samochodu" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>I z bliska</p>
+                    </div>
+                  </div>
+              </div>
+
+              <p>Tapicerka foteli też ładnie się odświeżyła tylko wsiadać i jeździć :)</p>
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/19.jpg') }}" alt="Fotele samochodowe" />
+                    <div class="article-image-description-box">
+                      <p>Lecące kwiatki z drzew nie dały mi zrobić spokojnie zdjęć :)</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/11.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/20.jpg') }}" alt="Fotel pasażera" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Wyprany fotel pasażera</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/12.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/23.jpg') }}" alt="Fotel kierowcy" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Wyprany fotel kierowcy</p>
+                    </div>
+                  </div>
+              </div>
+
+
+              <div class="inner-article-image-container">
+                  <div class="inner-article-image-box">
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/24.jpg') }}" alt="Wyprany fotel kierowcy" />
+                    <div class="article-image-description-box">
+                      <p>Wyprany fotel kierowcy</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/13.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/25.jpg') }}" alt="Tylnia kanapa samochodu" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Wyprana tylnia kanapa i podłoga</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/14.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/26.jpg') }}" alt="Wnętrze samochodu po praniu" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>Rzut oka na całość.</p>
                     </div>
                   </div>
               </div>
 
               <div class="inner-article-image-container">
                   <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/15.jpg') }}" alt="-" />
+                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/27.jpg') }}" alt="kierownica samochodu" />
                     <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
+                      <p>W drogę :)</p>
                     </div>
                   </div>
               </div>
-
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/16.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/17.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/18.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/19.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/20.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/21.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/22.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/23.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/24.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/25.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/26.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              <div class="inner-article-image-container">
-                  <div class="inner-article-image-box">
-                    <img class="box-shadow" src="{{ URL::asset('images/casestudy/15/27.jpg') }}" alt="-" />
-                    <div class="article-image-description-box">
-                      <p>Lorem ipsum</p>
-                    </div>
-                  </div>
-              </div>
-
-              
-
-              
-              <h2><strong>Lorem ipsum</strong></h2>
-
-              <p>-</p>
-
 
 
           </div>
