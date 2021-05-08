@@ -14,6 +14,8 @@
     <li><a href="{{ route('casestudy_12') }}">Pranie i czyszczenie nastopnic schodowych, nakładek schodowych - Karcherem - Kościan</a></li>
     <li><a href="{{ route('casestudy_13') }}">Czyszczenie tapicerki narożnika z plam, pranie tapicerki meblowej - Karcher - Rydzyna, Leszno</a></li>
     <li><a href="{{ route('casestudy_14') }}">Pranie, mycie tapicerki meblowej - Narożnik po remoncie - Usługi Karcher - Śrem</a></li>
+    <li><a href="{{ route('casestudy_15') }}">Pranie tapicerki samochodowej - Range Rover - Pranie foteli, podłogi, bagażnika, czyszczenie - Usługi Czyszczenia - Kościan</a></li>
+    <li><a href="{{ route('casestudy_16') }}">Pranie tapicerki meblowej, czyszczenie kanapy, narożnika po zwierzętach, odsierścianie mebli, usuwanie zapachów - Firma czyszcząca - Leszno, Lasocice</a></li>
   </ul>
   <h4>Sprawdź naszą ofertę</h4>
   <ul>
@@ -21,6 +23,6 @@
     <li><a href="{{ route('pranie-tapicerki-samochodowej') }}">Pranie Tapicerki Samochodowej</a></li>
     <li><a href="{{ route('pranie-dywanow-wykladzin') }}">Pranie Dywanów i Wykładzin</a></li>
     <li><a href="{{ route('pranie-materacy') }}">Pranie i Dezynfekcja Materacy</a></li>
-    <li><a href="{{ route('pranie-i-czyszczenie-wozkow-dzieciecych') }}">Pranie i Czyszczenie Wózków Dziecięcych</a></li>
+    
   </ul>
 </div>

@@ -21,7 +21,7 @@
                             <li><a href="{{ route('pranie-tapicerki-samochodowej') }}">Pranie Tapicerki Samochodowej</a></li>
                             <li><a href="{{ route('pranie-dywanow-wykladzin') }}">Pranie Dywanów i Wykładzin</a></li>    
                             <li><a href="{{ route('pranie-materacy') }}">Pranie i Dezynfekcja Materacy</a></li> 
-                            <li><a href="{{ route('pranie-i-czyszczenie-wozkow-dzieciecych') }}">Pranie i Czyszczenie Wózków Dziecięcych</a></li>    
+                         
                         </ul>
                     </li>
                     <li><a href="{{ route('cennik') }}">CENNIK</a></li>
@@ -59,8 +59,8 @@
                             <a href="{{ route('pranie-tapicerki-meblowej') }}">Pranie Tapicerki Meblowej</a>
                             <a href="{{ route('pranie-tapicerki-samochodowej') }}">Pranie Tapicerki Samochodowej</a>
                             <a href="{{ route('pranie-dywanow-wykladzin') }}">Pranie Dywanów i Wykładzin</a>
-                            <a href="{{ route('pranie-materacy') }}">Pranie i dezynfekcja materacy</a>
-                            <a href="{{ route('pranie-i-czyszczenie-wozkow-dzieciecych') }}">Pranie i czyszczenie wózków dziecięcych</a>
+                            <a href="{{ route('pranie-materacy') }}">Pranie i Dezynfekcja Materacy</a>
+        
                             </div>
                         </div>
                         <div class="menu__item"><a href="{{ route('cennik') }}">CENNIK</a></div>

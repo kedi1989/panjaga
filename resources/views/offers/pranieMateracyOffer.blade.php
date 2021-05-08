@@ -18,7 +18,7 @@
 
           <div class="other-offers-container">
 
-            <div class="other-offers-box">
+            <!-- <div class="other-offers-box">
               <h4>OFERTA</h4>
               <ul>
                 <li class="active"><a href="#">Pranie tapicerki samochodowej</a></li>
@@ -29,7 +29,7 @@
 
                 <li><a href="#">Pranie materacy</a></li>
               </ul>
-            </div>
+            </div> -->
 
             </div>
 
@@ -56,8 +56,8 @@
                     </div>
                     </div>
                     <div class="offer-images-info">
-                      <p>1. Lorem ipsum</p>
-                      <p>2. Lorem ipsum</p>
+                      <p>1. Pranie materaca dziecięcego</p>
+                      <p>2. Dezynfekcja materaca parownicą</p>
                     </div>
                     
                   </div>
@@ -70,7 +70,7 @@
                 
                 <p>Wylane śniadanie, pot, resztki naskórka, wsiąknięty mocz dziecka w materac. Wszystkie te rzeczy sprawiają, że z czasem znacząco pogorszy się zapach w pomieszczeniu sypialni w którym leży materac. Dzięki praniu ekstrakcyjnemu możemy odświeżyć materac i pozbyć się przykrych zapachów raz na zawsze. <strong>Pranie materaca</strong> to nie kwestia estetyki a zdrowia.</p>
 
-                <p>Jeżeli zatem nasza propozycja do Ciebie przemawia- skontaktuj się z nami pod numerem: 790-462-146, a my zadbamy o <strong>czystość Twojego materaca</strong>. </p>
+                <p>Jeżeli zatem nasza propozycja do Ciebie przemawia- skontaktuj się z nami pod numerem: <strong>790-462-146</strong>, a my zadbamy o <strong>czystość Twojego materaca</strong>. </p>
 
                   <div class="offer-images-container">
                     <div class="offer-images-box">
@@ -83,8 +83,8 @@
                     </div>
                     </div>
                     <div class="offer-images-info">
-                      <p>1. Lorem ipsum</p>
-                      <p>2. Lorem ipsum</p>
+                      <p>1. Duży materac przed praniem</p>
+                      <p>2. Materacyk dziecięcy do prania</p>
                     </div>
                   </div>
                 
@@ -93,8 +93,11 @@
                 <div class="short-prices-box">
                   <p>Cennik skrócony (<a href="/cennik">Pełny cennik naszych usług</a>)</p>
                   <ul>
-                    <li>- Pranie foteli i tylniej kanapy <strong>od 120 zł</strong></li>
-                    
+                    <li>- Pranie materaca dziecięcego - dwustronne - <strong>od 30 zł</strong></li>
+                    <li>- Pranie materaca do 2m szerokości - dwustronne - <strong>od 60 zł</strong></li>
+                    <li>- Pranie materaca powyżej 2m szerokości - dwustronne - <strong>od 80 zł</strong></li>
+                    <li>- Dezynfekcja materaca parą - <strong>50 zł</strong></li>
+                    <li>- Zabieg przeciw roztoczom ALLERGOFF - <strong>50 zł</strong></li>
                   </ul>
                 </div>
 

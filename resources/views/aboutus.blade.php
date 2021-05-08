@@ -83,6 +83,7 @@
                 <ul>
                     <li>- <strong>Pranie wózka dziecięcego</strong></li>
                     <li>- <strong>Pranie schodów z wykładziną</strong></li>
+                    <li>- <strong>Pranie schodów z nastopnicami</strong></li>
                 </ul>
 
 
