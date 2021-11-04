@@ -10,6 +10,7 @@
       <li>Kamieniec</li>
       <li>Wielichowo</li>
       <li>Gostyń</li>
+      <li>Środa Wielkopolska</li>
     </ul>
     <ul>
       <li>Puszczykowo</li>
@@ -22,6 +23,7 @@
       <li>Luboń</li>
       <li>Komorniki</li>
       <li>Granowo</li>
+      <li>Opalenica</li>
     </ul>
     <ul>
       <li>Krzywiń</li>
@@ -34,5 +36,6 @@
       <li>Stare Bojanowo</li>
       <li>Brodnica</li>
       <li>Pecna</li>
+      <li>Osieczna</li>
     </ul>
 </div>

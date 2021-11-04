@@ -1,7 +1,7 @@
 @extends('layouts.master')
         @section('title', 'PanJaga.pl - Blog - Pranie i czyszczenie tapicerki mebli, dywanów, wykładzin w Kościanie')
         @section('description', 'Pranie i czyszczenie tapicerki w Kościanie. Sprawdź naszą ofertę w mieście Kościan i ciesz się, czystymi meblami.')
-        @section('keywords', 'pranie tapicerki meblowej, pranie i czyszczenie wykładziny, blog panjaga.pl, czyszczenie tapicerki samochodowej, Śrem, pranie tapicerki w Kościanie')
+        @section('keywords', 'pranie tapicerki meblowej, pranie i czyszczenie wykładziny, blog panjaga.pl, czyszczenie tapicerki samochodowej, Kościan, pranie tapicerki w Kościanie')
 
 @section('content')
 

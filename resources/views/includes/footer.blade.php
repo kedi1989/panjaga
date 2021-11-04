@@ -30,7 +30,7 @@
 
     <div class="bottom-footer-content">
         <div class="footer-cities">
-            Działamy na terenie miast: Kościan, Czacz, Śmigiel, Wielichowo, Lipno, Wilkowice, Włoszakowice, Przemęt, Grodzisk Wielkopolski, Kamieniec, Czempiń, Pecna, Krzywiń, Osieczna, Bucz, Stare Bojanowo, Jerka, Leszno, Lasocice, Święciechowa, Śrem, Nochowo, Manieczki, Kórnik, Mosina, Rogalin, Konstantynowo, Stęszew, Strykowo, Konarzewo, Czapury, Puszczykowo, Poznań, Boszkowo-Letnisko, Luboń, Komorniki, Zaniemyśl,    
+            Działamy na terenie miast: Kościan, Czacz, Śmigiel, Wielichowo, Lipno, Wilkowice, Włoszakowice, Przemęt, Grodzisk Wielkopolski, Kamieniec, Czempiń, Pecna, Krzywiń, Osieczna, Bucz, Stare Bojanowo, Jerka, Leszno, Lasocice, Święciechowa, Śrem, Nochowo, Manieczki, Kórnik, Mosina, Rogalin, Konstantynowo, Stęszew, Strykowo, Konarzewo, Czapury, Puszczykowo, Poznań, Boszkowo-Letnisko, Luboń, Komorniki, Zaniemyśl, Opalenica, Buk, Środa Wielkopolska   
         </div>
 
         <div class="footer-copyrights">

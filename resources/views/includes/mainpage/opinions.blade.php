@@ -235,6 +235,123 @@
                     </div>
                 </div>
             </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Czyszczenie zestawu ze skóry</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Czyszczenie skórzanej tapicerki kanapy i fotela idealnie. Polecam czyszczenie skór"</div>
+                        <div class="client-name">Ewa S.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Czyszczenie narożnika Karcherem</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Narożnik po czyszczeniu wygląda jak nowy. Pełen profesjonalizm."</div>
+                        <div class="client-name">Joanna M.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie rogówki</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Terminowo, szybko i profesjonalnie. Dodatkowo Pan przyjechał w sobotę o 15. Polecam wszystkim."</div>
+                        <div class="client-name">Tomasz M.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie podłogi samochodowej</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Tapicerka w mojej zakupionej Skodzie była w opłakanym stanie, plamy na siedzeniach, śmierdziało od palenia fajek. Pan przyjechał, sprzęt firmy Karcher, wyprał mi przednie i tylnie siedzenia, wykładzinie w kabinie i bagażniku, na koniec jeszcze 4 dywaniki. Wszystko zrobione sprawnie i jestem mega zadowolony."</div>
+                        <div class="client-name">Dariusz Sz.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie mebli, usuwanie zapachów</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Profesjonalne podejście, bezproblemowy kontakt i zadowalający efekt końcowy, zdecydowanie polecam."</div>
+                        <div class="client-name">Sara A.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Czyszczenie skór</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Polecam pranie mebli jak i foteli samochodowych w tej firmie. Extra!"</div>
+                        <div class="client-name">Teresa K.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie foteli samochodowych</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Super usługa, profesjonalne podejście do klienta z dojazdem pod dom. Szybko, a zarazem bardzo dokładnie. Moja tapicerka w samochodzie wyglada jak nowa. Serdecznie polecam!!"</div>
+                        <div class="client-name">Wojtek K.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Czyszczenie samochodu</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Polecam wszystkim bardzo dobre wykonanie usługi sprawnie  szybko i czysto duży plus to możliwość dojazdu ma miejsce do klijenta z wcześniejszym bez problemów ustaleniu dnia i godziny Polecam "</div>
+                        <div class="client-name">Przemysław Ł.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Usuwanie zapachów, mycie tapicerki</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Jestem bardzo zadowolona z usługi, kanapa jest pięknie odświeżona, udało się pozbyć psiego zapachu ;) bardzo profesjonalnie wykonane czyszczenie, ogromny plus za punktualność! Polecam!"</div>
+                        <div class="client-name">Joanna T.</div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>

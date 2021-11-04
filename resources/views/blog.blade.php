@@ -163,6 +163,25 @@
                 </div>
             </a>
         </article>
+
+        <article class="article-container">
+            <a href="{{ route('article_11') }}">
+                <div class="blog-image-wrapper">
+                    <img loading="lazy" src="{{ URL::asset('images/blog/articles/10/koscian.jpg') }}"/>
+                </div>
+                <div class="article-content-box">
+                    <div class="post-title">
+                        <h2>Pranie tapicerki meblowej i samochodowej w Mosinie</h2>
+                    </div>
+                    <div class="post-publised-date">
+                        Paź 25, 2021
+                    </div>
+                    <div class="post-content">
+                    <p>Każdy z nas ma w swoim domu wiele mebli- puf, sof, narożników czy innych elementów zawierających materace. To samo dotyczy samochodów- siedzenia są wykonane najczęściej z gąbki, która z czasem się po prostu brudzi. I w przypadku zarówno domu, jak i posiadanego auta- raz na jakiś czas warto rozważyć profesjonalne ...</p>
+                    </div>
+                </div>
+            </a>
+        </article>
             
           </div>
           </div>

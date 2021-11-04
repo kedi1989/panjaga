@@ -109,6 +109,10 @@ Route::get('blog/pranie-tapicerki-czyszczenie-mebli-koscian', function () {
     return view('articles/article_10');
 })->name('article_10');
 
+Route::get('blog/pranie-tapicerki-czyszczenie-mebli-foteli-samochodowych-mosina', function () {
+    return view('articles/article_11');
+})->name('article_11');
+
 Route::get('case-study/pranie-mocno-zabrudzonego-naroznika-srem', function () {
     return view('casestudy/casestudy_1');
 })->name('casestudy_1');
