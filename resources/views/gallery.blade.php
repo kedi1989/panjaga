@@ -54,7 +54,7 @@
             </div>
 
             @php
-                for ($i = 1; $i < 15; $i++):
+                for ($i = 1; $i < 37; $i++):
             @endphp
                 <a href="images/gallery/Samochody/{{$i}}.jpg"  target="_blank">
                     <img class="box-shadow" src="images/gallery/Samochody/Thumbnails/{{$i}}.jpg" alt="Pranie tapicerki samochodowej, czyszczenie i ozonowanie pojazdów">

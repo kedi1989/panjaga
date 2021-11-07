@@ -61,9 +61,9 @@ Route::get('oferta/pranie-wykladzin-i-dywanow', function () {
     return view('offers/pranieDywanowWykladzinOffer');
 })->name('pranie-dywanow-wykladzin');
 
-// Route::get('oferta/pranie-i-czyszczenie-wozkow-dzieciecych', function () {
-//     return view('offers/pranieWozkowOffer');
-// })->name('pranie-i-czyszczenie-wozkow-dzieciecych');
+Route::get('oferta/pranie-i-czyszczenie-wozkow-dzieciecych', function () {
+    return view('offers/pranieWozkowOffer');
+})->name('pranie-i-czyszczenie-wozkow-dzieciecych');
 
 Route::get('oferta/pranie-i-dezynfekcja-materacy', function () {
     return view('offers/pranieMateracyOffer');

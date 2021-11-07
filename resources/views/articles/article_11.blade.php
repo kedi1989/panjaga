@@ -9,7 +9,7 @@
           <div class="blog-article-container">
             
           <div class="article-box">
-              <h1>Pranie tapicerki meblowej,czyszczenie mebli w Mosinie</h1>
+              <h1>Pranie tapicerki meblowej,czyszczenie mebli Mosina</h1>
               <p class="post-published-date">Paż 25, 2021 | Pranie i czyszczenie Karcher Mosina</p>
 
               <div class="sharethis-inline-share-buttons"></div>
@@ -96,7 +96,7 @@
                 <a class="link-btn box-shadow" href="{{ route('faq') }}">Masz więcej pytań? Sprawdź<i class="fas fa-angle-right"></i></a>
               </div>
 
-              <h2><strong>Czyszczenie mebli Karcherem w Mosinie</strong>- podsumowanie.</h2>
+              <h2><strong>Czyszczenie mebli Karcherem w Mosinie - Karcher Mosina</strong>- podsumowanie.</h2>
 
               <p>Jak widać, <strong>czyszczenie tapicerki meblowej i samochodowej</strong> to usługa, którą naprawdę warto się zainteresować. Jeżeli chcielibyście poznać więcej szczegółów na temat naszej firmy, oferowanych usług czy cennika- zapraszamy do kontaktu!</p>
 

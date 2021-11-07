@@ -53,6 +53,18 @@
                     <li>- <strong>Pranie, czyszczenie wezgłowia łóżka </strong></li>
                 </ul>
 
+                <p class="medium-header"><strong>Czyszczenie skór</strong>, <strong>czyszczenie tapicerki meblowej skórzanej</strong>:</p>
+                <ul>
+                    <li>- <strong>Czyszczenie skór w samochodzie, czyszczenie foteli skórzanych </strong></li>
+                    <li>- <strong>Czyszczenie mebli skórzanych, czyszczenie zestawów ze skór </strong></li>
+                </ul>
+
+                <p class="medium-header"><strong>Polerowanie reflektorów samochodowych</strong>, <strong>regeneracja kloszy lamp samochodowych</strong>, <strong>polerowanie lamp samochodowych</strong>:</p>
+                <ul>
+                    <li>- <strong>Polerowanie lamp samochodowych </strong></li>
+                    <li>- <strong>Nakładanie kwarcu, powłoki na reflektory po polerowaniu </strong></li>
+                </ul>
+
                 <p class="medium-header"><strong>Pranie tapicerki samochodowej</strong>, <strong>czyszczenie samochodu</strong>:</p>
                 <ul>
                     <li>- <strong>Pranie, czyszczenie foteli samochodowych</strong></li>

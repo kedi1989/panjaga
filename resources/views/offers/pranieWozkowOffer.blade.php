@@ -1,13 +1,13 @@
 @extends('layouts.master')
-        @section('title', 'PanJaga.pl - Oferta - Pranie tapicerki samochodowej')
-        @section('description', 'Wypierzemy twoje fotele samochodowe! Sprawdź naszą ofertę prania tapicerki samochodowej. Usuwanie roztoczy, plam i zarazków, świeży zapach auta- Pomożemy ci!')
-        @section('keywords', 'Pranie foteli samochodowych, pranie tapicerki samochodowej, czyszczenie foteli auta, czyszczenie samochodu, pranie karcher, usługi czyszczenia samochodu, odplamianie, usuwanie roztoczy')
+        @section('title', 'PanJaga.pl - Oferta - Pranie i czyszczenie wózków dziecięcych')
+        @section('description', 'Wyczyścimy i wypierzemy wózek twojego dziecka! Sprawdź naszą ofertę prania wózków dziecięcych, renowacji tapicerki. Dezynfekcja i czyszczenie wózka- Pomożemy ci!')
+        @section('keywords', 'pranie wózka, czyszczenie tapicerki wózka, czyszcznie wózka dziecięcego, mycie wózka dziecięcego, renowacja wózka dziecięcego, renowacja wózków')
 
 @section('content')
 
         <div class="offer-banner-commercial stroller-cleaning-background box-shadow">
           <div class="description-box">
-            <h1>Pranie i czyszczenie wózków dziecięcych</h1>
+            <h1>Pranie, dezynfekcja i czyszczenie wózków dziecięcych</h1>
             <div class="description-banner-body">Metodą ekstrakcyjną i parową</div>
           </div>
         </div>
@@ -18,34 +18,22 @@
 
           <div class="other-offers-container">
 
-            <!-- <div class="other-offers-box">
-              <h4>OFERTA</h4>
-              <ul>
-                <li class="active"><a href="#">Pranie tapicerki samochodowej</a></li>
-
-                <li><a href="#">Pranie wykładzin i dywanów</a></li>
-
-                <li><a href="#">Ozonowanie</a></li>
-
-                <li><a href="#">Pranie materacy</a></li>
-              </ul>
-            </div> -->
-
             </div>
 
             <div class="offer-box">
-                <p class="padding-top-0">Niedługo wiosna, a zatem… czy chciałbyś ujrzeć wnętrze swojego auta w dokładnie takim stanie, w jakim opuściło salon?</p>
-                <p>Dzięki naszej profesjonalnej usłudze <strong>czyszczenia tapicerki samochodowej</strong> to możliwe. Od lat przywracamy <strong>tapicerce samochodowej</strong> jej fabryczną czystość, miękkość i zapach.</p>
+                <p class="padding-top-0">Używany kupiony wózek ? A może wózek po drugim dziecku ? Jedno i drugie wymaga odświeżenia...a w dzisiejszych czasach nawet dezynfekcji ze względu na groźne dla dzieci wirusy, bakterie oraz roztocza. </p>
+                <p>Dzięki naszej profesjonalnej usłudze <strong>prania, dezynfekcji i czyszczenia wózków dziecięcych</strong>, spacer "nowym" wózkiem jest możliwy ! Od lat przywracamy <strong>tapicerce wózków dziecięcych</strong> jej fabryczną czystość, miękkość i zapach oraz dezynfekujemy je parowo.</p>
               
-
-                <h2><strong>Czyszczenie tapicerki samochodowej. Jak działamy?</strong></h2>
+                <h2><strong>Pranie i dezynfekcja wózków dziecięcych. Jak działamy?</strong></h2>
                 
-                <p>Przy użyciu <strong>profesjonalnego odkurzacza ekstrakcyjnego Karcher Puzzi</strong>, <strong>czyścimy tapicerkę</strong> odpowiednio przygotowaną mieszanką wody i specjalnego płynu czyszczącego- delikatnego dla materiału, a jednocześnie szalenie skutecznego. Następnie, zostawiamy fotele na kilka minut „sam na sam” ze <strong>środkiem czyszczącym</strong>, po czym ściągamy wodę z powrotem do odkurzacza. </p>
+                <p>Przy użyciu profesjonalnego sprzętu tj. <strong>parownicy Karcher</strong> oraz <strong>odkurzacza piorącego Karcher Puzzi</strong> jesteśmy w stanie przywrócić gondoli, spacerówce czy też fotelikom samochodowym ich dawny blask. Wszyscy wiemy jak bardzo brudne potrafią być wózki czy foteliki naszych pociech - z czasem brud, tłuszcz, wylany soczek który wsiąka w tapicerkę - zaczyna brzydko pachnieć co jest zwykłym procesem gnicia.  </p>
+
+                <p>Śmiało można powiedzieć, że nasza usługa jest to pewnego rodzaju <strong>renowacja wózka</strong> a przede wszystkim <strong>renowacja tapicerki wózka dziecięcego</strong>.</p>
                 
                   <div class="offer-images-container">
                     <div class="offer-images-box">
-                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/4.jpg" alt="Pranie podłogi w FORD GALAXY">
-                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/5.jpg" alt="Pranie i czyszczenie kabiny ciężarówki (czasem trzeba sobie pomóc szczotką na wiertarce :) )">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Wozki/1.jpg" alt="Czyszczenie parowe wózka dziecięcego">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Wozki/9.jpg" alt="Dezynfekcja gondoli wózka dziecięcego">
                       <div class="more-realizations-box">
                       <a href="{{ route('realizacje') }}">
                         GALERIA
@@ -53,24 +41,22 @@
                     </div>
                     </div>
                     <div class="offer-images-info">
-                      <p>1. Pranie podłogi w FORD GALAXY</p>
-                      <p>2. Pranie i czyszczenie kabiny ciężarówki (czasem trzeba sobie pomóc szczotką na wiertarce :) )</p>
+                      <p>1. Czyszczenie gondoli i stelaża wózka dziecięcego.</p>
+                      <p>2. Dezynfekcja parowa gondoli wózka.</p>
                     </div>
                     
                   </div>
 
-                <h2><strong>Dlaczego należy unikać samodzielnego prania tapicerki auta?</strong></h2>
+                  <h2>Czyszczenie wózków dziecięcych oraz fotelików samochodowych - Co dalej ?</h2>
 
-                <p>Głównym zagrożeniem związanym z samodzielną próbą <strong>wyczyszczenia tapicerki samochodowej</strong>, jest oczywiście jej <strong>nadmierne przemoczenie</strong>. Wówczas, fotele schną nawet kilka dni, a w <strong>gąbce tapicerskiej</strong> zaczynają pojawiać się bakterie, które finalnie mogą doprowadzić do degradacji stanu wizualnego foteli. Ponadto, w przypadku użycia zwykłych płynów dostępnych na sklepowej półce, zamiast odpowiednio przygotowanych <strong>profesjonalnych detergentów</strong>, z reguły <strong>efekty czyszczenia</strong> pozostają wiele do życzenia.</p>
+                  <p>Elementy tapicerowane wózka na ile jest to możliwe są demontowane tak aby wymoczyć je i wyprać w odpowiedniej chemii - najczęściej w łagodnej chemii do tapicerki lub zwykłej chemii tj. płyn do prania ubranek dziecięcych np. Lovela. Do prania wózków nie używamy kwaśnej chemii, oraz silnych odplamiaczy.</p>
 
-                <h2><strong>Czyszczenie auta. Co jeszcze możemy dla Ciebie zrobić?</strong></h2> 
-                
-                <p>Oprócz <strong>prania tapicerki</strong>, klienci z reguły powierzają nam również zadbanie o inne elementy samochodu- chociażby jego <strong>podłogę</strong>, <strong>bagażnik</strong> czy <strong>boczki</strong>. Gruntownie odkurzymy Twoje ulubione auto, zadbamy o wewnętrzne plastikowe elementy, a także dokładnie umyjemy szyby od środka. To wszystko sprawi, że poczujesz się w swoim aucie dokładnie tak, jakby dopiero opuściło salon samochodowy.</p>
+                  <p>W przypadku gdy elementu nie da się zdemontować - taki element prany jest ekstrakcyjnie odkurzaczem piorącym.</p>
 
                   <div class="offer-images-container">
                     <div class="offer-images-box">
-                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/8.jpg" alt="Czyszczenie tapicerki na ściance i pranie materaca w ciężarówce VOLVO">
-                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/13.jpg" alt="Czyszczenie kabiny i pranie materaca leżanki w ciężarówce MAN">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Wozki/5.jpg" alt="Czyszczenie akcesoriów wózków dziecięcych">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Wozki/10.jpg" alt="Pranie ekstrakcyjne fotelika samochodowego">
                       <div class="more-realizations-box">
                       <a href="{{ route('realizacje') }}">
                         GALERIA
@@ -78,21 +64,23 @@
                     </div>
                     </div>
                     <div class="offer-images-info">
-                      <p>1. Czyszczenie tapicerki na ściance i pranie materaca w ciężarówce VOLVO</p>
-                      <p>2. Czyszczenie kabiny i pranie materaca leżanki w ciężarówce MAN</p>
+                      <p>1. Czyszczenie akcesoriów wózka.</p>
+                      <p>2. Namoczona "skorupka" do przewożenia niemowląt - pranie ekstrakcyjne.</p>
                     </div>
                   </div>
                 
-                <h2><strong>Co jeszcze można zyskać dzięki całościowemu czyszczeniu auta?</strong></h2>
+                <h2><strong>Dezynfekcja wózków dziecięcych</strong></h2>
 
-                <p>Dzięki naszym profesjonalnym rozwiązaniom masz gwarancję, że każda powierzchnia będzie gruntownie wyczyszczona i odświeżona, a samochód nabierze zupełnie nowego blasku. Zmieni się także jego zapach- będzie on przyjemny zarówno dla nas, jak i dla pasażerów. Szczególnie <strong>alergicy</strong> i osoby wrażliwe na <strong>roztocza</strong> z pewnością docenią świeże powietrze i <strong>przyjemny zapach</strong> w Twoim samochodzie. </p>
+                <p>Wózek przed procesem prania jest <strong>dezynfekowany parowo</strong> poprzez użycie silnego strumienia pary skierowanego w stronę tapicerki. Pozwala to na zabicie bakterii, wirusów, grzybów ale i również częściowe pozbycie się zapachów jak i wstępne rozbicie brudu, plam przed dalszym praniem.</p>
 
-                
+                <p>Czyszczenie parowe wózków pozwala również na łatwiejsze doczyszczenie elementów stelaża wózka - brud pod wpływem gorącej pary - łatwiej ustępuje.</p>
+
+                <p><strong>Dezynfekcja parowa</strong> jest ekologicznym i bezchemicznym sposobem na pozbycie się wszystkiego co szkodliwe dla naszego dziecka.</p>
 
                   <div class="offer-images-container">
                     <div class="offer-images-box">
-                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/7.jpg" alt="Wyczyszczony kokpit MAN">
-                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/12.jpg" alt="Wyprany metodą ekstrakcji fotel w ciężarówce MAN">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Wozki/3.jpg" alt="Czyszczenie stelaża, kółek wózka dziecięcego.">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Wozki/6.jpg" alt="Stelaż wózka dziecięcego.">
                       <div class="more-realizations-box">
                       <a href="{{ route('realizacje') }}">
                         GALERIA
@@ -100,22 +88,24 @@
                     </div>
                     </div>
                     <div class="offer-images-info">
-                      <p>1. Wyczyszczony kokpit MAN</p>
-                      <p>2. Wyprany metodą ekstrakcji fotel w ciężarówce MAN</p>
+                      <p>1. Doczyszczone kółka i stelaż wózka dziecięcego.</p>
+                      <p>2. Czyszczenie stelaża wózka.</p>
                     </div>
                     
                   </div>
 
-                <h2><strong>Czyszczenie tapicerki samochodowej- jakie auta obsługujemy i jak się z nami skontaktować?</strong></h2>
+                <h2><strong>Czyszczenie tapicerki fotelików samochodowych, mycie fotelików samochodowych.</strong></h2>
 
-                <p>Zajmujemy się zarówno <strong>samochodami osobowymi</strong>, <strong>busami</strong>, jak <strong>samochodami ciężarowymi</strong>. Wystarczy do nas zadzwonić- dla <strong>stuprocentowej wygody</strong>, zajmujemy się autami naszych klientów bezpośrednio w ich miejscu zamieszkania. Wymagany jest jedynie dostęp do prądu i wody.</p>
+                <p>Często klienci chcą wyprać również foteliki samochodowe które są najbardziej zabrudzone, ponieważ używane są w podróży przez lata.</p>
 
-                <p>Jeżeli zatem nasza propozycja do Ciebie przemawia- skontaktuj się z nami pod numerem: 790-462-146, a my zadbamy o <strong>czystość Twojego samochodu</strong>. </p>
+                <p>Brudny fotelik samochodowy to źródło przykrego zapachu w aucie. Wylane napoje, resztki jedzenia, tłuszczu w zmieniającej się aurze pór roku powoduje, że dziecko jeździ dosłownie na bombie biologicznej.</p> 
+
+                <p>Tapicerka fotelika po wypraniu odzyskuje kolor, może przyjemnie pachnieć i przede wszystkim znów jest higieniczna. </p>
 
                   <div class="offer-images-container">
                     <div class="offer-images-box">
-                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/3.jpg" alt="Wyprany fotel z siedziskiem dziecięcym w FORD GALAXY">
-                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/1.jpg" alt="Wyprany fotel pasażera w FORD GALAXY">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Wozki/7.jpg" alt="Czyszczenie fotelika samochodowego">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Wozki/8.jpg" alt="Pranie fotelika samochodowego">
                       <div class="more-realizations-box">
                       <a href="{{ route('realizacje') }}">
                         GALERIA
@@ -123,23 +113,21 @@
                     </div>
                     </div>
                     <div class="offer-images-info">
-                      <p>1. Wyprany fotel z siedziskiem dziecięcym w FORD GALAXY</p>
-                      <p>2. Wyprany fotel pasażera w FORD GALAXY</p>
+                      <p>1. Wyprany fotelik samochodowy - zdjęcia przed i po</p>
+                      <p>2. Różnice po wypraniu widać gołym okiem</p>
                     </div>
                     
                   </div>
 
-                <h2><strong>Pranie tapicerki samochodowej - Cennik</strong></h2>
+                <h2><strong>Pranie i czyszczenie wózków dziecięcych, fotelików samochodowych - Cennik</strong></h2>
 
                 <div class="short-prices-box">
                   <p>Cennik skrócony (<a href="/cennik">Pełny cennik naszych usług</a>)</p>
                   <ul>
-                    <li>- Pranie foteli i tylniej kanapy <strong>od 120 zł</strong></li>
-                    <li>- Ozonowanie samochodu <strong>od 50 zł</strong></li>
-                    <li>- Pranie i czyszczenie całego samochodu <strong>od 150 zł</strong></li>
-                    <li>- Pranie bagażnika <strong>od 40 zł</strong></li>
-                    <li>- Pranie podłogi samochodu <strong>od 60 zł</strong></li>
-                    <li>- Czyszczenie i pranie kabiny ciężarówki <strong>od 350 zł</strong></li>
+                    <li>- Pranie wózka dziecięcego 3 w 1<strong>od 150 zł</strong></li>
+                    <li>- Pranie wózka dziecięcego 2 w 1 <strong>od 100 zł</strong></li>
+                    <li>- Pranie wózka dziecięcego <strong>od 80 zł</strong></li>
+                    <li>- Pranie fotelika samochodowego <strong>od 50 zł</strong></li>
                   </ul>
                 </div>
 

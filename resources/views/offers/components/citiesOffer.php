@@ -11,6 +11,8 @@
       <li>Wielichowo</li>
       <li>Gostyń</li>
       <li>Środa Wielkopolska</li>
+      <li>Konarzewo</li>
+      <li>Rybojedzko</li>
     </ul>
     <ul>
       <li>Puszczykowo</li>
@@ -24,6 +26,8 @@
       <li>Komorniki</li>
       <li>Granowo</li>
       <li>Opalenica</li>
+      <li>Przeźmierowo</li>
+      <li>Palędzie</li>
     </ul>
     <ul>
       <li>Krzywiń</li>
@@ -37,5 +41,7 @@
       <li>Brodnica</li>
       <li>Pecna</li>
       <li>Osieczna</li>
+      <li>Skórzewo</li>
+      <li>Dopiewo</li>
     </ul>
 </div>

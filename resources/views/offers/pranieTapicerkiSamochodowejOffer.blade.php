@@ -18,19 +18,6 @@
 
           <div class="other-offers-container">
 
-            <!-- <div class="other-offers-box">
-              <h4>OFERTA</h4>
-              <ul>
-                <li class="active"><a href="#">Pranie tapicerki samochodowej</a></li>
-
-                <li><a href="#">Pranie wykładzin i dywanów</a></li>
-
-                <li><a href="#">Ozonowanie</a></li>
-
-                <li><a href="#">Pranie materacy</a></li>
-              </ul>
-            </div> -->
-
             </div>
 
             <div class="offer-box">
@@ -62,6 +49,21 @@
                 <h2><strong>Dlaczego należy unikać samodzielnego prania tapicerki auta?</strong></h2>
 
                 <p>Głównym zagrożeniem związanym z samodzielną próbą <strong>wyczyszczenia tapicerki samochodowej</strong>, jest oczywiście jej <strong>nadmierne przemoczenie</strong>. Wówczas, fotele schną nawet kilka dni, a w <strong>gąbce tapicerskiej</strong> zaczynają pojawiać się bakterie, które finalnie mogą doprowadzić do degradacji stanu wizualnego foteli. Ponadto, w przypadku użycia zwykłych płynów dostępnych na sklepowej półce, zamiast odpowiednio przygotowanych <strong>profesjonalnych detergentów</strong>, z reguły <strong>efekty czyszczenia</strong> pozostają wiele do życzenia.</p>
+
+                <div class="offer-images-container">
+                    <div class="offer-images-box">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/25.jpg" alt="Wyprane fotele AUDI">
+                      <img class="box-shadow" loading="lazy" src="../images/gallery/Samochody/24.jpg" alt="Pranie tapicerki FIAT SEICENTO">
+                      <div class="more-realizations-box">
+                      <a href="{{ route('realizacje') }}">
+                        GALERIA
+                      </a>
+                    </div>
+                    </div>
+                    <div class="offer-images-info">
+                      <p>1. Wyprana tylnia kanapa AUDI A4</p>
+                      <p>2. Wyprane fotele Fiat Seicento</p>
+                    </div>
 
                 <h2><strong>Czyszczenie auta. Co jeszcze możemy dla Ciebie zrobić?</strong></h2> 
                 

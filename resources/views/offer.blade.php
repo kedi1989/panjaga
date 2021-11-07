@@ -62,6 +62,16 @@
                 </div>
             </a>
             </div>
+            <div class="service-box">
+                <a href="{{ route('pranie-i-czyszczenie-wozkow-dzieciecych') }}">
+                    <div class="service-image-wrapper">
+                    <img loading="lazy" src="images/mainPageImages/stroller_1.jpg" alt="pranie i dezynfekcja wózków dziecięcych"/>
+                    </div>
+                    <div class="service-title">
+                        <h3>Pranie i dezynfekcja wózków dziecięcych</h3>
+                    </div>
+                </a>
+            </div>
             
             
             </div>

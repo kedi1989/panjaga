@@ -297,6 +297,28 @@
             <a class="order-btn box-shadow" href="{{ route('kontakt') }}">Zamawiam pranie dywanu lub wykładziny <i class="fas fa-angle-right"></i></a>
         </div>
 
+        <h3><strong>CZYSZCZENIE SKÓR, CZYSZCZENIE MEBLI SKÓRZANYCH</strong></h3>
+
+        <table class="price-table">
+            <tbody>
+
+            <tr>
+                <td class="service-name">
+                    Czyszczenie mebli, kompletów skórzanych
+                    <span class="sub-info"> - Wyceny na podstawie zdjęć mebli -</span>
+                </td>
+                <td class="service-price">
+                    od 200 zł
+                </td>
+            </tr>
+
+            </tbody>
+        </table>
+
+        <div class="order-box">
+            <a class="order-btn box-shadow" href="{{ route('kontakt') }}">Zamawiam czyszczenie mebli skórzanych <i class="fas fa-angle-right"></i></a>
+        </div>
+
                 
         <h3><strong>PRANIE / CZYSZCZENIE RÓŻNE</strong></h3>
 

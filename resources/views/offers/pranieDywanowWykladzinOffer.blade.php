@@ -15,20 +15,7 @@
         <div class="content-container">
         @include('includes.components.covid19Info') 
           <div class="single-offer-container">
-            
-
-          <!-- <div class="other-offers-box">
-              <h4>OFERTA</h4>
-              <ul>
-                <li><a href="#">Pranie tapicerki samochodowej</a></li>
-
-                <li><a href="#">Pranie wykładzin i dywanów</a></li>
-
-                <li><a href="#">Ozonowanie</a></li>
-
-                <li><a href="#">Pranie materacy</a></li>
-              </ul>
-            </div> -->
+          
 
             
 

@@ -18,19 +18,6 @@
 
           <div class="other-offers-container">
 
-            <!-- <div class="other-offers-box">
-              <h4>OFERTA</h4>
-              <ul>
-                <li class="active"><a href="#">Pranie tapicerki samochodowej</a></li>
-
-                <li><a href="#">Pranie wykładzin i dywanów</a></li>
-
-                <li><a href="#">Ozonowanie</a></li>
-
-                <li><a href="#">Pranie materacy</a></li>
-              </ul>
-            </div> -->
-
             </div>
 
             <div class="offer-box">
