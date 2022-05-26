@@ -1112,11 +1112,11 @@ footer .bottom-footer-content .footer-copyrights a {
   padding: 0 10px;
 }
 .blog-articles-list-container article .post-content, .case-study-list-container article .post-content {
-  font-size: 16px;
+  font-size: 14px;
   color: #000;
   font-weight: 500;
   margin: 10px 0;
-  line-height: 27px;
+  line-height: 26px;
   padding: 0 10px;
 }
 .blog-articles-list-container article img, .case-study-list-container article img {
@@ -2062,7 +2062,51 @@ footer .bottom-footer-content .footer-copyrights a {
   font-size: 22px;
   font-weight: 700;
   text-align: center;
-  padding: 80px 0 80px 0;
+  padding: 10px 0 10px 0;
+}
+.contact-container .contact-box .fb-btn {
+  height: 50px;
+  width: 50px;
+  background: url(/images/FB-logo.png);
+  background-size: cover;
+  z-index: 9;
+  display: block;
+  margin: 10px auto 20px auto;
+  position: relative;
+}
+.contact-container .contact-box .fb-btn a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+.contact-container .contact-box .phone-contact {
+  font-size: 22px;
+  font-weight: 700;
+  font-family: "Quicksand", sans-serif;
+  font-style: italic;
+  height: 20px;
+  color: black;
+  margin: 10px 0;
+}
+.contact-container .contact-box .phone-contact i {
+  margin: 0 10px 0 0;
+  -webkit-animation: PHONE-RING 2s infinite;
+  -webkit-animation-iteration-count: infinite;
+}
+.contact-container .contact-box p {
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Quicksand", sans-serif;
+  font-style: italic;
+  text-align: center;
+}
+.contact-container .contact-box .call-description {
+  font-size: 12px;
+}
+.contact-container .contact-box .caller-description {
+  padding-bottom: 0;
 }
 
 .prices-container h3 {

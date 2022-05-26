@@ -13,7 +13,7 @@
         </div>
 
         <div class="content-container">
-        @include('includes.components.covid19Info') 
+        
           <div class="single-offer-container">
 
             <div class="offer-box">

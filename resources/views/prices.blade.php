@@ -19,7 +19,7 @@
         
         <p class="prices-disclaimer">- W przypadku gdy w odkurzaczu piorącym zostaje nam trochę wody z chemią, staramy się w miarach możliwości doczyścić coś klientowi za darmo np. mała pufa, krzesło etc.</p>
 
-        @include('includes.components.covid19Info')
+        
 
 
         <h3><strong>PRANIE TAPICERKI MEBLOWEJ</strong></h3>
