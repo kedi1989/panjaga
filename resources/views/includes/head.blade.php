@@ -75,4 +75,8 @@
     src="https://www.facebook.com/tr?id=900931310699482&ev=PageView&noscript=1"
     /></noscript>
     <!-- End Facebook Pixel Code -->
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5290898655244167"
+     crossorigin="anonymous"></script>
+
 </head>

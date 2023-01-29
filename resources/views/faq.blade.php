@@ -55,6 +55,11 @@
                 <p>Czas schnięcia, uzależniony jest od <strong>temperatury pomieszczenia</strong>, <strong>wilgotności powietrza</strong>. Wilgoć, która pozostaje po wyciągnięciu wody odkurzaczem piorącym szybko wyparowuje nawet zimą. Zazwyczaj, prany materac do spania czy też narożnik w porannych godzinach do 12 godziny po południu, wieczorem jest już zdatny do użytku. Zdarza się, że meble schną dłużej - w przypadkach, kiedy tapicerka ma np. grubsze obicie tapicerskie z grubym włóknem. W skrócie czas schnięcia to od <strong>kilku do kilkunastu godzin</strong>. </p>
               </div>
 
+              <div class="collapsible"><h3>Czy meble po praniu brudzą się szybciej ?</h3></div>
+              <div class="content box-shadow">
+                <p> Każdy mebel może być impregnowany fabrycznie. Rzeczywiście możemy odnosić tego typu wrażenie jeśli mebel został wyprany z jakiegoś powodu np. przykrego zapachu, dużej powstałej plamy a dopiero co go kupiliśmy. Jeśli mebel ma 2-3 lata to napewno impregnat taki impregnat już nie działa mimo tego, że mebel nie był prany. Impregnacja mebla o ile jest działa około roku. Po tym czasie pranie nie ma już większego znaczenia na szybkość brudzenia się bo impregnat fabryczny i tak już nie działa. </p>
+              </div>
+
               <div class="collapsible"><h3>Czy mogę przywieźć swój mebel,dywan do wyprania w firmie ?</h3></div>
               <div class="content box-shadow">
                 <p>Niestety nie. Świadczymy usługi tylko na miejscu u klienta. Jest to wygodniejsze dla obu stron i przede wszystkim tańsze. </p>
@@ -77,7 +82,7 @@
 
               <div class="collapsible"><h3>Potrzebuję ekspresowej usługi prania dywanu,narożnika itd. Ile to kosztuje ?</h3></div>
               <div class="content box-shadow">
-                <p>Oczywiście, podejmujemy takie wyzwania. Cena to <strong>50%</strong> więcej od wyceny usługi. </p>
+                <p>Oczywiście, podejmujemy takie wyzwania. Cena na cito jest ustalana indywidualnie. </p>
               </div>
 
               <div class="collapsible"><h3>Czy pracujecie w godzinach nocnych ?</h3></div>

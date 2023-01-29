@@ -10,6 +10,7 @@
     <li><a href="{{ route('article_9') }}">Pranie tapicerki meblowej w Śremie</a></li>
     <li><a href="{{ route('article_10') }}">Pranie tapicerki meblowej, czyszczenie mebli w Kościanie</a></li>
     <li><a href="{{ route('article_11') }}">Pranie tapicerki meblowej, czyszczenie mebli w Mosinie</a></li>
+    <li><a href="{{ route('article_12') }}">Pranie kanapy za pomocą pokrywki, przykrywki od garnka. No nie... nie rób tego</a></li>
   </ul>
   <h4>Sprawdź naszą ofertę</h4>
   <ul>

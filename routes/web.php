@@ -113,6 +113,10 @@ Route::get('blog/pranie-tapicerki-czyszczenie-mebli-foteli-samochodowych-mosina'
     return view('articles/article_11');
 })->name('article_11');
 
+Route::get('blog/pranie-kanapy-za-pomoca-pokrywki-od-garnka-nie-rob-tego', function () {
+    return view('articles/article_12');
+})->name('article_12');
+
 Route::get('case-study/pranie-mocno-zabrudzonego-naroznika-srem', function () {
     return view('casestudy/casestudy_1');
 })->name('casestudy_1');

@@ -182,6 +182,25 @@
                 </div>
             </a>
         </article>
+
+        <article class="article-container">
+                <a href="{{ route('article_12') }}" >
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/blog/articles/12/kuchnia.webp') }}" alt="pranie za pomocą pokrywki"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>Pranie kanapy za pomocą pokrywki, przykrywki od garnka. No nie... nie rób tego. </h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Gru 9, 2021
+                        </div>
+                        <div class="post-content">
+                        <p>Czy da się wyczyścić meble za pomocą pokrywki i tabletki do zmywarki ? No pewnie się da... Czy ktoś jednak pomyślał czemu by tego jednak nie robić ?</p>
+                        </div>
+                    </div>
+                </a>
+            </article>
             
           </div>
           </div>

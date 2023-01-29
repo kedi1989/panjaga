@@ -352,6 +352,268 @@
                     </div>
                 </div>
             </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Czyszczenie narożnika, kanapy</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Polecam, czyszczenie narożnika na najwyższym poziomie!"</div>
+                        <div class="client-name">Grzegorz R.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Czyszczenie narożnika, kanapy</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Polecam, czyszczenie narożnika na najwyższym poziomie!"</div>
+                        <div class="client-name">Grzegorz R.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie foteli samochodu</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Bardzo miła i profesjonalna obsługa. Szybki i bezproblemowy kontakt. Na pewno skorzystam jeszcze nie raz."</div>
+                        <div class="client-name">Jagoda W.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie foteli samochodu</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Bardzo miła i profesjonalna obsługa. Szybki i bezproblemowy kontakt. Na pewno skorzystam jeszcze nie raz."</div>
+                        <div class="client-name">Jagoda W.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie sofy, kanapy</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Wszystko idealnie wyczyszczone jak z salonu Polecam🙂"</div>
+                        <div class="client-name">Mateusz S.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie sofy, kanapy</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Wszystko idealnie wyczyszczone jak z salonu Polecam🙂"</div>
+                        <div class="client-name">Mateusz S.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie wózków dziecięcych</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Bardzo szybko wykonane, piękny efekt i rewelacyjny kontakt! Serdecznie polecam :)"</div>
+                        <div class="client-name">Katarzyna P.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie i czyszczenie mebli</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Bardzo sympatyczny i kontaktowy Pan. Wykonywał swoją usługę sprawnie oraz profesjonalnie. Zapewne nie raz jeszcze będę korzystała z tej firmy. Bardzo polecam."</div>
+                        <div class="client-name">Paulina O.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Odplamianie, pranie kanapy</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Mega zadowolenie. Kanapa mocno zabrudzona wydawało się, że za dużo nie da się z tym zrobić. Pan Jaga działa cuda. Wygląda jak nowa :) Polecam z czystym sumieniem! :)"</div>
+                        <div class="client-name">Paulina K.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Odplamianie zabrudzonej kanapy</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Pan Jaga sprawił, że nasza kanapa zabrudzona bardzo mocno przez 2,5 letnia córkę wygląda jak z nowa z salonu meblowego. Bardzo miły Pan, szybki i rzetelny. Z czystym sumieniem mogę wszystkim polecić. Na pewno skorzystamy z usług jeszcze nie jeden raz!"</div>
+                        <div class="client-name">Jagoda B.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Czyszczenie tapicerki skórzanej</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Przeciwnik był trudny - mocno zabrudzona skórzana kanapa. Jednak Pan sprostał zadaniu! Narożnik wygląda jak nowy, super efekt nie ma co ukrywać ciężkiej pracy. Bardzo dobry kontakt. Satysfakcja 100%, w skrócie gorąco polecam! Jesteśmy już umówieni na kolejne prace :)"</div>
+                        <div class="client-name">Małgorzata K.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Czyszczenie tapicerki skórzanej</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Przeciwnik był trudny - mocno zabrudzona skórzana kanapa. Jednak Pan sprostał zadaniu! Narożnik wygląda jak nowy, super efekt nie ma co ukrywać ciężkiej pracy. Bardzo dobry kontakt. Satysfakcja 100%, w skrócie gorąco polecam! Jesteśmy już umówieni na kolejne prace :)"</div>
+                        <div class="client-name">Małgorzata K.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Czyszczenie tapicerki</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Polecamy w 100% Pana Jagę! Profesjonalizm w każdym calu - ekspresowa wycena, punktualna wizyta, kulturalna obsługa, a co najważniejsze odświeżony tapczanik w pokoju dziecięcym :) Miły zapach po praniu utrzymuje się jeszcze dzisiaj! Na pewno wrócimy"</div>
+                        <div class="client-name">Marta M.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Czyszczenie wózka i fotelika</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Pełen profesjonalizm , firma PANJAGA.PL godna polecenia – zestaw wózkowy wraz z fotelikiem  wyglądają jak nowe , usługa wykonana na 6 + i szybko. Dziękuję za współpracę- życzę sukcesów i rozwoju firmy."</div>
+                        <div class="client-name">Ewa W.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie zestawu mebli tapicerowanych</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Pranie foteli i tapczana .Super wykonana praca , bardzo profesjonalnie . Efekt końcowy po wyschnięciu rewelacyjny . Jakość wykonania bardzo wysoka , cena adekwatna do wykonanej pracy . Jestem bardzo zadowolona"</div>
+                        <div class="client-name">Judyta N.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie narożnika</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Narożnik po wyschnięciu wygląda bardzo czyściutko.Polecam"</div>
+                        <div class="client-name">Joyhopee</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie narożnika</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Polecam, po wyczyszczeniu, mój stary narożnik (ponad 10 letni) z weluru jest zdecydowanie w lepszym stanie , czysty i pachnący.  Pan uprzejmy, żadnych problemów, podejście profesjonalne.  Nie żałuję, polecam."</div>
+                        <div class="client-name">Beata S.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie mebli</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Polecam. Udało się bardzo szybko zrealizować usługę. Wszystko przebiegło bezproblemowo. Meble jak nowe."</div>
+                        <div class="client-name">Marta J.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Czyszczenie narożnika</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Polecam. Przesympatyczy Pan z pełnym profesjonalizmem. Mój stary narożnik wygląda jak nowy."</div>
+                        <div class="client-name">Ewa J.</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="opinion-slide">
+                <div class="opinion-vertical-align-box">
+                    <div class="opinion-scope">
+                        <div class="opinion-title">Opinia z zakresu:</div>
+                        <div class="opinion-scope">Pranie materaca, pranie wózka 3w1</div>
+                    </div>
+                    <div class="opinion-content">
+                        <div class="client-opinion-text">"Polecam firmę Pan Jaga. Super wyprany i odświeżony materac i wózek dziecięcy 3 w1. Poza tym doskonały i szybki kontakt, profesjonalizm oraz punktualność."</div>
+                        <div class="client-name">Ewelina K.</div>
+                    </div>
+                </div>
+            </div>
+
+
         </div>
     </div>
 </div>
