@@ -117,6 +117,42 @@ Route::get('blog/pranie-kanapy-za-pomoca-pokrywki-od-garnka-nie-rob-tego', funct
     return view('articles/article_12');
 })->name('article_12');
 
+Route::get('blog/gruntowne-czyszczenie-wozkow-dzieciecych-dlaczego-powinnismy-to-robic-czesciej', function () {
+    return view('articles/article_13');
+})->name('article_13');
+
+Route::get('blog/pranie-materacy-do-spania-sposobem-na-alergie', function () {
+    return view('articles/article_14');
+})->name('article_14');
+
+Route::get('blog/czyszczenie-mebli-ze-skory-i-pranie-tapicerki-skorzanej', function () {
+    return view('articles/article_15');
+})->name('article_15');
+
+Route::get('blog/czyszczenie-mebli-tapicerowanych', function () {
+    return view('articles/article_16');
+})->name('article_16');
+
+Route::get('blog/usuwanie-zapachow-z-mebli-neutralizacja-brzydkich-zapachow-odoru', function () {
+    return view('articles/article_17');
+})->name('article_17');
+
+Route::get('blog/jak-pranie-mebli-moze-wplynac-samopoczucie-i-twoja-alergie-karcherowanie-mebli-czyszczenie-mebli-karcherem-na-ratunek-alergikom', function () {
+    return view('articles/article_18');
+})->name('article_18');
+
+Route::get('blog/pranie-starego-wozka-dzieciecego-gruntowne-czyszczenie-i-renowacja-wozka-oszczedz-pieniadze-i-badz-eko', function () {
+    return view('articles/article_19');
+})->name('article_19');
+
+Route::get('blog/wypierz-swoje-stare-meble-i-daj-im-drugie-zycie-karcherowana-kanapa-może-byc-jak-nowa', function () {
+    return view('articles/article_20');
+})->name('article_20');
+
+Route::get('blog/w-moim-pokoju-smierdzi-zrodlem-nieprzyjemnego-zapachu-dywan-wykladzina-meble', function () {
+    return view('articles/article_21');
+})->name('article_21');
+
 Route::get('case-study/pranie-mocno-zabrudzonego-naroznika-srem', function () {
     return view('casestudy/casestudy_1');
 })->name('casestudy_1');

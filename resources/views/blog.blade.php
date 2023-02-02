@@ -200,7 +200,178 @@
                         </div>
                     </div>
                 </a>
-            </article>
+        </article>
+
+        <article class="article-container">
+                <a href="{{ route('article_13') }}" >
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/blog/articles/13/gruntowne_czyszczenie_wozkow_dzieciecych.jpg') }}" alt="Gruntowne czyszczenie wózków dziecięcych"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>Gruntowne czyszczenie wózków dziecięcych. Dlaczego powinniśmy to robić częściej!</h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Sty 8, 2022
+                        </div>
+                        <div class="post-content">
+                        <p>Czyszczenie i pranie wózków dziecięcych jest ważne z wielu powodów. Przede wszystkim, wózki dziecięce są często używane, a dzieci często je dotykają i korzystają z nich, co oznacza, że mogą one być skażone bakteriami i grzybami...</p>
+                        </div>
+                    </div>
+                </a>
+        </article>
+
+        <article class="article-container">
+                <a href="{{ route('article_14') }}" >
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/blog/articles/14/pranie_materacy_sposobem_na_alergie.jpg') }}" alt="pranie materacy sposobem na alergie"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>Pranie materacy do spania a alergie!</h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Lut 15, 2022
+                        </div>
+                        <div class="post-content">
+                        <p>Materace do spania to jeden z najważniejszych elementów wyposażenia naszego domu, ponieważ to właśnie na nich spędzamy większą część naszego życia. </p>
+                        </div>
+                    </div>
+                </a>
+        </article>
+
+        <article class="article-container">
+                <a href="{{ route('article_15') }}" >
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/blog/articles/15/czyszczenie_mebli_ze_skor.jpg') }}" alt="Zestaw mebli ze skóry"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>Czyszczenie mebli ze skór. Pranie tapicerki skórzanej. Co, jak i dlaczego. Zapraszam!</h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Mar 21, 2022
+                        </div>
+                        <div class="post-content">
+                        <p>Czyszczenie mebli ze skóry oraz tapicerki skórzanej jest niezwykle ważne, ponieważ skóra jest materiałem, który wymaga specjalistycznej pielęgnacji, aby zachować jego piękno i trwałość.</p>
+                        </div>
+                    </div>
+                </a>
+        </article>
+
+        <article class="article-container">
+                <a href="{{ route('article_16') }}" >
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/blog/articles/16/czyszczenie_mebli_tapicerowanych.jpg') }}" alt="Czyszczenie mebli tapicerowanych"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>Czyszczenie mebli tapicerowanych</h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Kwi 4, 2022
+                        </div>
+                        <div class="post-content">
+                        <p>Czyszczenie mebli tapicerowanych takich jak kanapy, sofy, foteli, krzesła czy narożniki jest bardzo ważne dla zachowania ich estetyki oraz higieny. Jednak nie powinniśmy tego robić sami, ponieważ nie posiadamy specjalistycznego sprzętu i doświadczenia.</p>
+                        </div>
+                    </div>
+                </a>
+        </article>
+
+        <article class="article-container">
+                <a href="{{ route('article_17') }}" >
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/blog/articles/17/usuwaniezapachowzmebli.jpg') }}" alt="Usuwanie zapachów"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>Usuwanie zapachów z mebli, neutralizacja brzydkich zapachów, odoru, nikotyny.</h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Cze 9, 2022
+                        </div>
+                        <div class="post-content">
+                        <p>Czystość i świeżość tapicerki meblowej i samochodowej to ważny element utrzymania czystości w domu lub samochodzie.</p>
+                        </div>
+                    </div>
+                </a>
+        </article>
+
+        <article class="article-container">
+                <a href="{{ route('article_18') }}" >
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/blog/articles/18/pranieaalergia.jpg') }}" alt="pranie mebli a alergia"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>Jak pranie mebli może wpłynąć na samopoczucie i twoją alergie ? "Karcherowanie mebli, czyszczenie mebli karcherem" na ratunek alergikom.</h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Sie 21, 2022
+                        </div>
+                        <div class="post-content">
+                        <p>Pranie tapicerki meblowej, takiej jak kanapy, sofy, materace, narożniki, wersalki, krzesła kuchenne, fotele itp., to nie tylko sposób na usunięcie plam i brudu, ale również na poprawę jakości powietrza w domu...</p>
+                        </div>
+                    </div>
+                </a>
+        </article>
+
+        <article class="article-container">
+                <a href="{{ route('article_19') }}" >
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/blog/articles/19/praniewozkoweko.jpg') }}" alt="ekologiczne pranie wózków dziecięcych"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>Pranie starego wózka dziecięcego, gruntowne czyszczenie i renowacja wózka. Oszczędź pieniądze i bądź EKO!</h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Wrz 28, 2022
+                        </div>
+                        <div class="post-content">
+                        <p>Decyzja o zakupie nowego wózka dla dziecka jest trudna i skomplikowana. Często zastanawiamy się, czy lepiej kupić nowy, czy odświeżyć stary, używany. Warto jednak pamiętać, że w dzisiejszych czasach...</p>
+                        </div>
+                    </div>
+                </a>
+        </article>
+
+        <article class="article-container">
+                <a href="{{ route('article_20') }}" >
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/blog/articles/20/praniestarychmeblieko.jpg') }}" alt="Pranie, odnawianie starych mebli"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>Wypierz swoje stare meble i daj im drugie życie. Karcherowana kanapa może być jak nowa !</h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Lis 21, 2022
+                        </div>
+                        <div class="post-content">
+                        <p>W dzisiejszych czasach, kiedy świadomość ekologiczna jest coraz większa, wiele osób zaczyna zastanawiać się nad tym, jakie decyzje są najlepsze dla środowiska. Jednym z takich dylematów jest kwestia wymiany starych, zużytych mebli.</p>
+                        </div>
+                    </div>
+                </a>
+        </article>
+
+        <article class="article-container">
+                <a href="{{ route('article_21') }}" >
+                    <div class="blog-image-wrapper">
+                        <img loading="lazy" src="{{ URL::asset('images/blog/articles/21/brzydkizapachwpokoju.jpg') }}" alt="Meble"/>
+                    </div>
+                    <div class="article-content-box">
+                        <div class="post-title">
+                            <h2>"W moim pokoju śmierdzi" - Źródłem nieprzyjemnego zapachu dywan, wykładzina, meble !</h2>
+                        </div>
+                        <div class="post-publised-date">
+                            Gru 15, 2022
+                        </div>
+                        <div class="post-content">
+                        <p>Nie ma nic gorszego niż przykry zapach w pokoju, który jest trudny do usunięcia. Często jest to spowodowane brudną kanapą, która jest źródłem rozwijających się bakterii i roztoczy.</p>
+                        </div>
+                    </div>
+                </a>
+        </article>
             
           </div>
           </div>
